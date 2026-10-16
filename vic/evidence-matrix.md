@@ -1,5 +1,7 @@
 # Victorian policy evidence matrix
 
+> **Research — not adopted Fusion policy**
+
 > **Status:** Initial assessment — not peer-reviewed
 > **Jurisdiction:** Victoria, Australia
 > **Generated:** 2026-10-16

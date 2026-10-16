@@ -1,5 +1,7 @@
 # Fusion Policy Research
 
+> **Research — not adopted Fusion policy**
+
 An open, version-controlled workspace for research and working papers across Fusion Party branches.
 
 > **Research is not automatically endorsed party policy.** Documents here may be drafts, evidence reviews, alternative options or critiques. Formal policy adoption follows the relevant party processes.

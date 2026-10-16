@@ -1,0 +1,50 @@
+{
+  "policies": 41,
+  "research_resources": 25,
+  "key_points": 149,
+  "status_counts": {
+    "adopted": 41
+  },
+  "policies_with_research": 23,
+  "policies_without_research": 18,
+  "research_without_incoming_policy": [
+    "research-victoria-transport-governance-branding",
+    "research-srl-delivery-vago-2026",
+    "research-policy-evidence-methodology"
+  ],
+  "directed_cross_references": 68,
+  "broken_cross_references": 0,
+  "nonreciprocal_cross_references": 0,
+  "citation_instances": 92,
+  "distinct_cited_urls": 79,
+  "url_occurrences": 337,
+  "distinct_content_urls": 150,
+  "research_licenses": {
+    "CC-BY-4.0": 24,
+    "not exported": 1
+  },
+  "research_without_authors": [
+    "research-accessible-public-transport-victoria"
+  ],
+  "research_downloads": 0,
+  "cluster_policy_counts": {
+    "C8": 1,
+    "C2": 6,
+    "C6": 5,
+    "C5": 6,
+    "C3": 4,
+    "C1": 6,
+    "C7": 3,
+    "C4": 5,
+    "C9": 5
+  },
+  "independently_assessed_policies": 0,
+  "independently_validated_research_resources": 0,
+  "all_original_hashes_match_log": true,
+  "fresh_record_changes": 0,
+  "fresh_added_or_removed": 0,
+  "difference_limited_to_generated_at": true,
+  "matrix_title_coverage": 41,
+  "manifest_title_coverage": 66,
+  "note": "Title presence checks are inventory checks, not substantive verification of derived prose."
+}

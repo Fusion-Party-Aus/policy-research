@@ -1,0 +1,39 @@
+{
+  "review_title": "B1: Useful bus access in Melton — proposed bounded evidence pass",
+  "protocol_version": "0.1",
+  "confirmation_status": "NOT_CONFIRMED",
+  "execution_authorised": false,
+  "exclusion_codes": [
+    {"code": "E1", "short": "purpose", "label": "No usable evidence, substantive service context or primary policy text"},
+    {"code": "E2", "short": "transport/population", "label": "No local passenger-transport or access relevance"},
+    {"code": "E3", "short": "mechanism/outcome", "label": "No B1 access, service, fare, walking, demand-response, cost or implementation relevance"},
+    {"code": "E4", "short": "timeframe", "label": "Before 2000 and no foundational, historical or current-law exception"}
+  ],
+  "core_criteria": ["people or communities using, needing or planning local passenger transport", "useful access or relevant service/fare/walking/interchange/demand-responsive mechanism"],
+  "personas": {
+    "A": "Transport access researcher attentive to disability, distribution and service operations.",
+    "B": "Policy evaluation methodologist attentive to counterfactuals, costs, null findings and transferability."
+  },
+  "conflict_policy": "adjudicate",
+  "qc": {
+    "near_miss": {
+      "population": ["passenger", "communit", "resident", "household", "commut", "bus", "transit"],
+      "mechanism": ["access", "frequen", "booking", "demand.respons", "fare", "timetable", "transport disadvantage"]
+    },
+    "random_exclusion_sample": 20,
+    "random_seed": 107,
+    "policy": "advance"
+  },
+  "seeds": [],
+  "seeds_status": "No human-confirmed seed studies or pilot labels supplied",
+  "languages_allowed": ["English"],
+  "language_rule": "Other languages flagged for translation, not automatically excluded",
+  "models": {"A": "", "B": "", "ADJ": "", "QC": "", "FTA": "", "FTB": "", "FTADJ": ""},
+  "model_labels": {"A": "not run", "B": "not run", "ADJ": "not run", "QC": "not run", "FTA": "not run", "FTB": "not run", "FTADJ": "not run"},
+  "agent_type": "",
+  "batching": {"max_records": 20, "max_chars": 50000, "wrap": 150},
+  "dedup": {"doi_title_guard": true},
+  "pilot_status": "not run",
+  "cost_estimate_status": "not prepared; no fan-out requested",
+  "note": "Planning configuration only. Existing runtime defaults retained. Human confirmation and, if requested, pilot/cost approval are required before a screening run. No script execution is implied by these metadata fields."
+}

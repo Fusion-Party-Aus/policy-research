@@ -1,5 +1,7 @@
 # Victorian policy gap register
 
+> **Research — not adopted Fusion policy**
+
 > **Status:** Initial assessment — not peer-reviewed
 > **Jurisdiction:** Victoria, Australia
 > **Generated:** 2026-10-16

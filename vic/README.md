@@ -1,5 +1,7 @@
 # Victoria research
 
+> **Research — not adopted Fusion policy**
+
 Victorian research already has an extensive history outside this new repository. **Do not silently duplicate or replace existing canonical documents.**
 
 ## Existing research
