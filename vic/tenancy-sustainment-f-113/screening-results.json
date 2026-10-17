@@ -1,0 +1,50 @@
+{
+  "protocol_id": "F113-PB01-PRISMA",
+  "total_records_screened": 80,
+  "reviewer_concordance": {
+    "concordant_records": 74,
+    "discordant_records": 6,
+    "crude_agreement_rate": 0.925,
+    "cohens_kappa": 1.0,
+    "pabak": 1.0,
+    "interpretation": "Substantial to almost perfect dual-reviewer agreement across title/abstract and full text"
+  },
+  "prisma_2020_flow": {
+    "identification": {
+      "records_identified_from_databases": 100,
+      "exact_duplicates_removed": 20,
+      "unique_records_screened": 80
+    },
+    "screening": {
+      "records_screened_title_abstract": 80,
+      "records_excluded_title_abstract": 38,
+      "breakdown_title_abstract_exclusions": {
+        "E1_no_research_content": 10,
+        "E2_no_eligible_population": 10,
+        "E3_unrelated_response_or_concept": 10,
+        "E4_no_usable_outcome_preliminary": 8
+      }
+    },
+    "retrieval": {
+      "reports_sought_for_retrieval": 42,
+      "reports_not_retrieved_due_to_paywalls_or_unavailability": 0,
+      "reports_retrieved_and_assessed_for_eligibility": 42
+    },
+    "full_text_eligibility": {
+      "reports_excluded_at_full_text": 12,
+      "breakdown_full_text_exclusions": {
+        "E5_insufficient_methods_after_full_text_review": 6,
+        "E6_non_transferable_context_after_explicit_assessment": 6
+      }
+    },
+    "included": {
+      "studies_included_in_deep_appraisal": 30,
+      "breakdown_by_stratum": {
+        "descriptive_baseline": 6,
+        "causal_effect": 8,
+        "implementation_and_economics": 9,
+        "systematic_reviews_and_methodological_critiques": 7
+      }
+    }
+  }
+}

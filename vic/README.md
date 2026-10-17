@@ -29,4 +29,14 @@ Use this folder for new shared working papers, cross-branch reviews or explicitl
 
 ## First independent claim assessment
 
-**Research — not adopted Fusion policy.** [Melton bus access, F-108](melton-bus-assessment-f-108/README.md) tests 12 claims from four proposals, with mixed verdicts, evidence limitations and a complete coverage ledger. No complete policy or the wider corpus is validated.
+> **Research — not adopted Fusion policy**
+
+[Melton bus access, F-108](melton-bus-assessment-f-108/README.md) tests 12 claims from four proposals, with mixed verdicts, evidence limitations and a complete coverage ledger. No complete policy or the wider corpus is validated.
+
+## Problem-led research agenda
+
+> **Research — not adopted Fusion policy**
+
+- [Problem agenda and prioritization (F-112)](problem-agenda-f-112/README.md) — 11 ranked Victorian outcome problems, child-safety sentinel baseline, and sensitivity scenarios.
+- [Tenancy sustainment assessment (F-113)](tenancy-sustainment-f-113/README.md) — First problem-led research batch evaluating evidence-led responses to prevent tenancy loss for low-income Victorian renters.
+
