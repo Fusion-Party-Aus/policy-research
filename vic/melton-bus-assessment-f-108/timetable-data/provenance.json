@@ -1,0 +1,28 @@
+{
+  "source_url": "https://data.ptv.vic.gov.au/downloads/gtfs.zip",
+  "archive_sha256": "4f1ca152898d7fe9bbab23b8bc358ddce496aa3a7961d97440f250ec47387eda",
+  "member": "4/google_transit.zip",
+  "member_sha256": "f94dfc7dbaa824edbab13ebb573bf9edc35bbeeaa597e978c97305437b2e5540",
+  "archive_member_timestamp": [
+    2026,
+    10,
+    15,
+    10,
+    50,
+    18
+  ],
+  "license": "CC BY 4.0; Department of Transport and Planning, Victoria",
+  "dates": [
+    "20261016",
+    "20261018"
+  ],
+  "rows": {
+    "routes": 4,
+    "trips": 753,
+    "stop_times": 19573,
+    "stops": 92,
+    "calendar": 18,
+    "calendar_dates": 333
+  },
+  "scope": "all route IDs numbered 457/459 in metropolitan bus member; calendar exceptions retained"
+}

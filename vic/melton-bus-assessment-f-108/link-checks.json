@@ -1,0 +1,168 @@
+[
+  {
+    "url": "https://assets.infrastructurevictoria.com.au/assets/Resources/06_WSP-for-Infrastructure-Victoria_Better-buses-for-Melbourne-Strategic-modelling-Validation-report-Sept-2023.pdf",
+    "checked_at_utc": "2026-10-17T00:03:48.028573+00:00",
+    "http": 200,
+    "final_url": "https://assets.infrastructurevictoria.com.au/assets/Resources/06_WSP-for-Infrastructure-Victoria_Better-buses-for-Melbourne-Strategic-modelling-Validation-report-Sept-2023.pdf",
+    "scope": "bounded GET; first 512 bytes; not source-truth or full-text verification"
+  },
+  {
+    "url": "https://assets.infrastructurevictoria.com.au/assets/Resources/Fast-Frequent-Fair-how-buses-can-better-connect-Melbourne-2025.pdf",
+    "checked_at_utc": "2026-10-17T00:03:48.051294+00:00",
+    "http": 200,
+    "final_url": "https://assets.infrastructurevictoria.com.au/assets/Resources/Fast-Frequent-Fair-how-buses-can-better-connect-Melbourne-2025.pdf",
+    "scope": "bounded GET; first 512 bytes; not source-truth or full-text verification"
+  },
+  {
+    "url": "https://assets.publishing.service.gov.uk/media/69383a8a5cc812f50aa41e71/rmf-phase1-evaluation.pdf",
+    "checked_at_utc": "2026-10-17T00:03:48.030964+00:00",
+    "http": 200,
+    "final_url": "https://assets.publishing.service.gov.uk/media/69383a8a5cc812f50aa41e71/rmf-phase1-evaluation.pdf",
+    "scope": "bounded GET; first 512 bytes; not source-truth or full-text verification"
+  },
+  {
+    "url": "https://content.legislation.vic.gov.au/sites/default/files/2025-12/10-6aa091-authorised.pdf",
+    "checked_at_utc": "2026-10-17T00:03:48.435234+00:00",
+    "http": 200,
+    "final_url": "https://content.legislation.vic.gov.au/sites/default/files/2025-12/10-6aa091-authorised.pdf",
+    "scope": "bounded GET; first 512 bytes; not source-truth or full-text verification"
+  },
+  {
+    "url": "https://data.ptv.vic.gov.au/downloads/gtfs.zip",
+    "checked_at_utc": "2026-10-17T00:03:48.068144+00:00",
+    "http": 200,
+    "final_url": "https://data.ptv.vic.gov.au/downloads/gtfs.zip",
+    "scope": "bounded GET; first 512 bytes; not source-truth or full-text verification"
+  },
+  {
+    "url": "https://discover.data.vic.gov.au/dataset/timetable-and-geographic-information-gtfs",
+    "error": "Exceeded 30 redirects.",
+    "scope": "bounded GET failed; provider access recorded separately"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.jtrangeo.2016.12.005",
+    "checked_at_utc": "2026-10-17T00:03:49.155647+00:00",
+    "http": 200,
+    "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0966692316307347",
+    "scope": "bounded GET; first 512 bytes; not source-truth or full-text verification"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.retrec.2020.100895",
+    "checked_at_utc": "2026-10-17T00:03:49.122494+00:00",
+    "http": 200,
+    "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0739885920300937",
+    "scope": "bounded GET; first 512 bytes; not source-truth or full-text verification"
+  },
+  {
+    "url": "https://doi.org/10.1016/j.tbs.2022.12.002",
+    "checked_at_utc": "2026-10-17T00:03:49.166500+00:00",
+    "http": 200,
+    "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S2214367X22001429",
+    "scope": "bounded GET; first 512 bytes; not source-truth or full-text verification"
+  },
+  {
+    "url": "https://doi.org/10.1177/0361198118790842",
+    "checked_at_utc": "2026-10-17T00:03:48.491023+00:00",
+    "http": 403,
+    "final_url": "https://journals.sagepub.com/doi/10.1177/0361198118790842",
+    "scope": "bounded GET; first 512 bytes; not source-truth or full-text verification"
+  },
+  {
+    "url": "https://transport.vic.gov.au/disruptions/disruptions-information/article/melton-station",
+    "checked_at_utc": "2026-10-17T00:03:48.563476+00:00",
+    "http": 403,
+    "final_url": "https://transport.vic.gov.au/disruptions/disruptions-information/article/melton-station",
+    "scope": "bounded GET; first 512 bytes; not source-truth or full-text verification"
+  },
+  {
+    "url": "https://transport.vic.gov.au/plan-a-journey/travel-tips-and-resources/flexiride-on-demand-bus-service",
+    "checked_at_utc": "2026-10-17T00:03:48.595560+00:00",
+    "http": 403,
+    "final_url": "https://transport.vic.gov.au/plan-a-journey/travel-tips-and-resources/flexiride-on-demand-bus-service",
+    "scope": "bounded GET; first 512 bytes; not source-truth or full-text verification"
+  },
+  {
+    "url": "https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA24650",
+    "checked_at_utc": "2026-10-17T00:03:48.758214+00:00",
+    "http": 200,
+    "final_url": "https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA24650",
+    "scope": "bounded GET; first 512 bytes; not source-truth or full-text verification"
+  },
+  {
+    "url": "https://www.audit.vic.gov.au/report/coordinating-public-transport?section=31275",
+    "checked_at_utc": "2026-10-17T00:03:49.000675+00:00",
+    "http": 200,
+    "final_url": "https://www.audit.vic.gov.au/report/coordinating-public-transport?section=31275",
+    "scope": "bounded GET; first 512 bytes; not source-truth or full-text verification"
+  },
+  {
+    "url": "https://www.audit.vic.gov.au/report/improving-bus-services",
+    "checked_at_utc": "2026-10-17T00:03:48.933689+00:00",
+    "http": 200,
+    "final_url": "https://www.audit.vic.gov.au/report/improving-bus-services",
+    "scope": "bounded GET; first 512 bytes; not source-truth or full-text verification"
+  },
+  {
+    "url": "https://www.audit.vic.gov.au/sites/default/files/2025-26/Improving%20Bus%20Services/20260617_Improving-Bus-Services-Appendix-D.pdf",
+    "checked_at_utc": "2026-10-17T00:03:49.072033+00:00",
+    "http": 200,
+    "final_url": "https://www.audit.vic.gov.au/sites/default/files/2025-26/Improving%20Bus%20Services/20260617_Improving-Bus-Services-Appendix-D.pdf",
+    "scope": "bounded GET; first 512 bytes; not source-truth or full-text verification"
+  },
+  {
+    "url": "https://www.gov.uk/government/publications/demand-responsive-transport/demand-responsive-transport",
+    "checked_at_utc": "2026-10-17T00:03:51.520888+00:00",
+    "http": 200,
+    "final_url": "https://www.gov.uk/government/publications/demand-responsive-transport/demand-responsive-transport",
+    "scope": "bounded GET; first 512 bytes; not source-truth or full-text verification"
+  },
+  {
+    "url": "https://www.gov.uk/government/publications/rural-mobility-fund-phase-1-evaluation-final-report",
+    "checked_at_utc": "2026-10-17T00:03:50.955212+00:00",
+    "http": 200,
+    "final_url": "https://www.gov.uk/government/publications/rural-mobility-fund-phase-1-evaluation-final-report",
+    "scope": "bounded GET; first 512 bytes; not source-truth or full-text verification"
+  },
+  {
+    "url": "https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-accessibility/whole-journey-guide",
+    "checked_at_utc": "2026-10-17T00:03:49.293600+00:00",
+    "http": 200,
+    "final_url": "https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-accessibility/whole-journey-guide",
+    "scope": "bounded GET; first 512 bytes; not source-truth or full-text verification"
+  },
+  {
+    "url": "https://www.infrastructurevictoria.com.au/resources/fast-frequent-fair-how-buses-can-better-connect-melbourne",
+    "checked_at_utc": "2026-10-17T00:03:49.298096+00:00",
+    "http": 200,
+    "final_url": "https://www.infrastructurevictoria.com.au/resources/fast-frequent-fair-how-buses-can-better-connect-melbourne",
+    "scope": "bounded GET; first 512 bytes; not source-truth or full-text verification"
+  },
+  {
+    "url": "https://www.legislation.gov.au/F2005B01059/latest/text",
+    "checked_at_utc": "2026-10-17T00:03:49.823739+00:00",
+    "http": 200,
+    "final_url": "https://www.legislation.gov.au/F2005B01059/latest/text",
+    "scope": "bounded GET; first 512 bytes; not source-truth or full-text verification"
+  },
+  {
+    "url": "https://www.legislation.vic.gov.au/in-force/acts/transport-integration-act-2010/091",
+    "checked_at_utc": "2026-10-17T00:03:49.871004+00:00",
+    "http": 200,
+    "final_url": "https://www.legislation.vic.gov.au/in-force/acts/transport-integration-act-2010/091",
+    "scope": "bounded GET; first 512 bytes; not source-truth or full-text verification"
+  },
+  {
+    "url": "https://www.melton.vic.gov.au/Council/About-Council/Advocacy/Transport",
+    "checked_at_utc": "2026-10-17T00:03:49.653375+00:00",
+    "http": 200,
+    "final_url": "https://www.melton.vic.gov.au/Council/About-Council/Advocacy/Transport",
+    "scope": "bounded GET; first 512 bytes; not source-truth or full-text verification"
+  },
+  {
+    "url": "https://www.premier.vic.gov.au/bus-bonanza",
+    "checked_at_utc": "2026-10-17T00:03:49.810799+00:00",
+    "http": 200,
+    "final_url": "https://www.premier.vic.gov.au/bus-bonanza",
+    "scope": "bounded GET; first 512 bytes; not source-truth or full-text verification"
+  }
+]

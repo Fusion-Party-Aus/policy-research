@@ -1,0 +1,22 @@
+# Gaps and the next bounded tranche
+
+> **Research — not adopted Fusion policy**
+
+Policy Researcher · 17 October 2026 AEDT · recommendations for human acceptance. No follow-up task, monitoring or service trial has been started.
+
+| Priority | Gap that could change a decision | Concrete question / evidence needed | Responsible capability and consequence |
+| --- | --- | --- | --- |
+| 1 | A useful offset might damage other trips | With the current fleet/driver blocks and rail/school constraints, which 457/459 offsets improve whole journeys, for whom, at what added cost? Publish feasible options, baseline and losses. | DTP/operator aggregate scheduling and transport economics. Resolves C08/C09; retain uncertain until demonstrated. |
+| 2 | DRT guarantee may trade short waits for refusals | What are Melton's requested/accepted/fulfilled trip counts, lead-time distributions, refused trips, last-leg distances and service hours by time/area? Use existing lawful public aggregates only; no personal trip collection. | DTP/public evaluation and accessibility expertise. Resolves C10/C12; if unavailable, state a public-data gap. |
+| 3 | Map can misclassify real access | For nominated essential destinations, how does walking/crossing accessibility and frequency/span change reachable destinations within 30/60 minutes, including slow walkers and mobility aids? | Pedestrian GIS plus affected-user review under separately approved methods. Resolves local magnitude for C01/C03–C05; no such model exists here. |
+| 4 | Source inconsistency and wrong modal transfer | Why do VAGO sections give 68% and 73%, and what are the service counts? What is the separate Melton V/Line connection baseline? | Auditor clarification/public aggregate data. C02 remains qualified; cannot apply the metropolitan audit metric to excluded V/Line. |
+| 5 | Cost envelope and legal instrument missing | Which operating/capital inputs and contract provisions change under each package, and what instrument would create an enforceable floor? | Transport/Treasury/legal review using public material. Prevents an unfunded promise or false zero-cost claim. |
+| 6 | Literature and fares incompletely appraised | Do broader native-catalogue searches and full-text fare/DRT/redesign evaluations alter the trade-off between services, fares and targeted assistance? | Single clearly bounded evidence follow-up with explicit access/QC limits. Partial-text and unappraised candidates remain available. |
+
+## Recommended next batch
+
+Recommend **B1b: Melton implementation and alternatives**, before treating B1 as an operational proposal: at most **6 new atomic claims, 20 additional external documents and 6 research hours**. This is a proposed scope, not an authorised new run. Start with the first three gaps and the legal/cost chain, using the same do-minimum release plus clearly versioned updates. Compare one constrained timetable option, one frequency/span option and one DRT/assisted-access option against the same cost and access outcomes. Do not select a winner when inputs cannot be obtained; a documented insufficient-evidence result remains legitimate. Obtain precise public-data availability first so the work does not become unbounded modelling.
+
+The next distinct policy-led corpus batch should then be **B11: Fix the Order, Not Just the Fare; Fund the Outer Suburbs**, because service/fare alternatives and funding assumptions are unresolved dependencies for B1. Preserve F-107's original S/W/F scoring, equal weights, tie-breaks and global B2 ranking in its historical plan. Moving B11 forward would be a human sequencing choice based on these dependencies, **not a retroactive change to measured policy importance**. Proposed B11 ceiling: 6 claims, 20 documents, 8 hours, with primary current fares/budgets, independent fare evaluations and fiscal-incidence tests. No revenue from proposed land/parking instruments should be booked before testing rates, legal powers and receipts.
+
+All other 37 policy records and 22 uninspected internal research resources remain in the [coverage ledger](coverage-ledger.csv); three inspected internal briefs also remain short of full independent validation. F-112/F-113 maintain separate selection rationales. Initial policy-led verdicts are frozen in this review commit before comparison; any later conflict is for F-109 to reconcile without using party agreement as an evidence-quality criterion.
