@@ -10,3 +10,11 @@ Victorian research already has an extensive history outside this new repository.
 The omnibus research has covered housing, land use, transport, energy, climate, health, human services and governance. Consult the original sources for current wording, status and revision history.
 
 Use this folder for new shared working papers, cross-branch reviews or explicitly migrated documents. If importing existing work, retain attribution and provenance and check the latest canonical version first.
+
+## Problem-led research agenda
+
+> **Research — not adopted Fusion policy**
+
+- [Problem agenda and prioritization (F-112)](problem-agenda-f-112/README.md) — 11 ranked Victorian outcome problems, child-safety sentinel baseline, and sensitivity scenarios.
+- [Tenancy sustainment assessment (F-113)](tenancy-sustainment-f-113/README.md) — First problem-led research batch evaluating evidence-led responses to prevent tenancy loss for low-income Victorian renters.
+

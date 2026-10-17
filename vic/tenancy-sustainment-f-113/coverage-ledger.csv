@@ -1,0 +1,13 @@
+problem_id,problem_title,rank,score,stage_1_status,stage_2_status,first_batch_code,atomic_assessments_completed,evidence_verdict,next_recommended_action
+VP-001,"Insecure, unaffordable or unsuitable housing",1,91.0,prioritised_first_batch,first_batch_completed_tenancy_sustainment,F113-PB01,8,well supported for acute prevention; better alternative in social housing; unaddressed in adopted Fusion policies,Publish research PR; maintain monitoring of longitudinal VHR and SHS data
+VP-002,Family violence and repeat harm,2,88.0,prioritised_second_batch,unassessed_pending_tranche,none,0,unassessed,Recommended next response tranche (F114-PB02): survivor-defined safety and repeat harm prevention
+VP-004,Climate-related exposure and avoidable harm,3,87.0,prioritised,unassessed_pending_tranche,none,0,unassessed,Parked pending human review of tranches 1 and 2
+VP-005,Delays in clinically appropriate care,4,86.0,prioritised,unassessed_pending_tranche,none,0,unassessed,Parked pending human review
+VP-010,Loss of native ecosystem condition and resilience,5,85.0,prioritised,unassessed_pending_tranche,none,0,unassessed,Parked pending human review
+VP-011,Unequal justice-system exposure and repeat harm,6,83.0,prioritised,unassessed_pending_tranche,none,0,unassessed,Parked pending human review
+VP-006,Inability to afford essential food and adequate home conditions,7,82.0,prioritised,unassessed_pending_tranche,none,0,unassessed,Parked pending human review
+VP-003,"Suicide, distress and unmet mental-health support",8,79.0,prioritised,unassessed_pending_tranche,none,0,unassessed,Parked pending human review
+VP-008,Exclusion from useful and accessible transport,9,79.0,prioritised,policy_led_parallel_assessment_F108,none,0,assessed under policy-led F-108 Melton bus batch (separate provenance),Integrate findings in Stage 5 decision pack (F-111)
+VP-009,Unequal early-childhood developmental opportunity,10,76.0,prioritised,unassessed_pending_tranche,none,0,unassessed,Parked pending human review
+VP-007,Preventable road deaths and serious injury,11,75.0,prioritised,unassessed_pending_tranche,none,0,unassessed,Parked pending human review
+VP-012,Child safety and culturally appropriate care in statutory systems,99,0.0,unranked_urgent_sentinel,baseline_refresh_required,none,0,unassessed sentinel gap,Mandatory baseline refresh before Stage 3 prioritization
