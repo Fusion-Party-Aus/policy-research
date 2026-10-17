@@ -7,7 +7,7 @@
     {
       "check": "all_core_files_exist_and_non_empty",
       "passed": true,
-      "detail": "11 files checked"
+      "detail": "12 files checked"
     },
     {
       "check": "severity_register_count_at_least_25",
@@ -32,7 +32,7 @@
     {
       "check": "has_major_findings",
       "passed": true,
-      "detail": "Found 22 MAJOR"
+      "detail": "Found 14 MAJOR"
     },
     {
       "check": "has_verified_strengths_no_material_weakness",
@@ -72,12 +72,12 @@
     {
       "check": "markdown_files_count_at_least_7",
       "passed": true,
-      "detail": "Found 8 files"
+      "detail": "Found 9 files"
     },
     {
       "check": "all_markdown_files_prominently_labeled",
       "passed": true,
-      "detail": "8 files checked"
+      "detail": "9 files checked"
     },
     {
       "check": "no_runtime_local_deliverable_links",
@@ -93,11 +93,11 @@
   "counts": {
     "severity_findings": 27,
     "critical_findings": 2,
-    "major_findings": 22,
+    "major_findings": 14,
     "verified_strengths": 2,
     "challenge_matrix_entries": 25,
     "rating_corrections": 12,
     "sources_appraised": 20,
-    "markdown_files_checked": 8
+    "markdown_files_checked": 9
   }
 }

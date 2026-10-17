@@ -24,7 +24,7 @@ def main():
         "critique-policy-led.md", "critique-problem-led.md",
         "corpus-contradictions.md", "severity-register.csv",
         "challenge-matrix.csv", "rating-corrections.csv",
-        "sources.md", "next-tranche.md"
+        "sources.md", "next-tranche.md", "LEARNINGS.md"
     ]
     all_files_exist = all((HERE / f).exists() and (HERE / f).stat().st_size > 0 for f in core_files)
     record_check("all_core_files_exist_and_non_empty", all_files_exist, f"{len(core_files)} files checked")

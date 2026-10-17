@@ -60,14 +60,14 @@ flowchart LR
   - *Fiscal Black Hole:* Running a DRT van with a paid driver costs $90 to $120 per operating hour. At 2 passengers per hour, the **subsidy per passenger boarding is $45 to $60**!
   - In comparison, a standard fixed-route 40-foot bus on a frequent corridor carries 25 to 50 passengers per hour, costing $3 to $6 per boarding.
   - Demanding tighter 15-minute response times and door-to-door guarantees forces the operator to reject ride requests or deploy additional empty vans circling the suburb, creating an unsustainable fiscal drain that inevitably forces cuts to trunk bus routes.
-- **Evidence Rating Correction (RC03):** Upgrade C12 from *unsupported (moderate)* to **unsupported (high confidence: refuted)**. Universal door-to-door microtransit in low-density suburbs is a proven policy failure.
+- **Evidence Rating Correction (RC03):** Reclassify C12 from *unsupported (moderate)* to **valid policy mechanism designed to expose microtransit cost failure; transition to fixed-route buses managed via operational decision frameworks and transparent costing (no statutory triggers required)**.
 
 ### 2.4 Claim C05: The "One-Kilometre Transit Guarantee" and Peri-Urban Sprawl
 - **Stage 2 Finding:** F-108 evaluated `policy-guarantee-the-one-kilometre-standard` and concluded that a uniform statewide distance threshold would be inappropriate across place types, treating it as a *supported design caution*.
 - **Devil's Advocate Challenge:** The critique must go deeper into the perverse urban planning incentives of the policy:
   - *Subsidising Low-Density Sprawl:* Enshrining a legal right that every residential dwelling must be within 1km of a 30-minute public transit service creates a severe moral hazard for property developers. Developers can acquire cheap farmland in the peri-urban fringe (e.g. Rockbank, Plumpton, Melton South), build sprawling master-planned estates with cul-de-sacs and curvilinear roads, and legally compel the Victorian taxpayer to fund bus services to their remote developments.
   - *The Meandering Route Problem:* To comply with a 1km buffer mandate across curvilinear outer-suburban street networks, bus routes must deviate off direct arterial roads into winding neighbourhood circuits (Jarrett Walker's "ridership vs coverage" dilemma, S05). This adds 15 to 25 minutes of travel time for passengers travelling along the primary arterial corridor, destroying transit ridership.
-  - *Direct Policy Conflict:* This policy directly contradicts Fusion's `policy-homes-and-stations-code` and `policy-complete-neighbourhoods`, which seek to concentrate growth in compact, walkable transit-oriented precincts.
+  - *Policy Tension:* A rigid 1km distance guarantee creates tension with Fusion's transit-oriented development policies (`policy-homes-and-stations-code` and `policy-complete-neighbourhoods`), which seek to concentrate growth in compact, walkable transit-oriented precincts. Designing transit access around destination accessibility metrics resolves this tension.
 
 ---
 
