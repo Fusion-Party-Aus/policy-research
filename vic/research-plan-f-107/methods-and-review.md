@@ -1,0 +1,57 @@
+# Methods, citation audit and limitations
+
+> **Research — not adopted Fusion policy**
+
+**Status:** internal stage-1 audit, 17 October 2026 AEDT. **Author:** Policy Researcher, AI-assisted. The same AI session retrieved, organised and critiqued the material. No independent human peer review, blinded screening or calibrated multi-reviewer result is claimed.
+
+## Workflows used
+
+Read F-107 and bounded F-105 threads before deciding scope; the later human direction asks for complementary policy-led and problem-led inquiry. At final status verification, an intervening F-105/F-107 update was discovered assigning the independent problem-led work to F-112/F-113. The draft candidate ranking was withdrawn from this revised pack; the policy-led queue remains separate, with no mapping until F-112 records its independent ranking. Read repository conventions and PR #2 before changing files. Reused its import on the isolated task branch. Checked GitHub state/base/head and public visibility, plus Multica's F-105 PR link table (empty). Kept all original adopted text and prior analyses unchanged.
+
+The five assigned academic skills were consulted proportionately:
+
+| Skill | Applied guidance / mode boundary | What was not run |
+| --- | --- | --- |
+| deep-research | Bounded fact-check of corpus/count claims; source-verification separation of metadata, access and claim fitness; reproducible search planning and counterevidence requirements | Full research pipeline, exhaustive literature review, causal synthesis or systematic review |
+| sr-screener | Protocol-design guidance: proposed operational eligibility, ordered reasons, full-text versus title/abstract rules, explicit pending states, synthetic boundary cases and human confirmation | No records screened, no deduped study corpus, no pilot/dual-AI fan-out, no PRISMA or agreement statistics |
+| academic-paper | Citation-check guidance adapted to exported source entries and URL reachability; preserve ambiguous metadata and distinguish URL response from source identity | No manuscript formatting, wholesale APA conversion, full DOI/retraction audit or claim-to-source verification |
+| academic-paper-reviewer | Quick critique principles adapted to the existing matrix/gap register: exact artifact anchors, constructive remedies, read-only originals and equal burden for negative claims | No journal-fit determination, reviewer panel, formal editorial acceptance or independent review |
+| academic-pipeline | Stage-boundary/state guidance: inventory and declared verification denominators before later research, accepted dependencies before progression | No end-to-end manuscript workflow, integrity “PASS” for unassessed claims, later-stage dispatch or external-model audit |
+
+These are bounded adaptations of relevant guidance, not a claim to have executed every skill's complete mode or its multi-agent machinery. No manuscript is being submitted, so no journal/paper intake or five-seat review was invented. Human acceptance is the existing F-107/F-105 programme gate; the proposed study-screening protocol remains unconfirmed, as required before a future run.
+
+## Search coverage and screening rules actually used
+
+The corpus audit used the two authorised JSON exports, existing PR files and metadata, and one fresh verification GET per endpoint. Inventory inclusion rule: retain **every** policy/resource in either original array; reconcile exact IDs and locations; no topical or evidence-quality exclusions. All records retained, zero duplicate IDs per collection. No literature-screening decisions were made. The 92 citation-instance entries and 337 URL occurrences retain their parent IDs and JSON pointers. HTTP checks deduplicate exact URL strings only; they do not deduplicate studies or verify authorship.
+
+For work-plan feasibility only, five general web query strings were submitted in two calls (three initial queries, then two targeted queries); see [search-log.csv](search-log.csv). The first query was malformed (`site.audit.vic.gov.au`, missing the colon) and returned broad discovery results. It is not a bounded VAGO-domain search. The two later targeted searches returned no results from this tool; this does not show the works are absent. Direct opens inspected the VAGO bus audit, Infrastructure Victoria bus report/strategy and the Productivity Commission health overview. One find for “headway” in the VAGO page returned no matching text; this is not evidence no relevant timetable research exists.
+
+The API URLs were inaccessible through the web reader; standard Python HTTPS GET succeeded and preserved the responses, headers and hashes. No native bibliographic database, omnibus repository history, full-text corpus, paywalled service or CMS login was searched. Discovery hits were not systematically exported or screened, so there is no defensible search-recall denominator. The stage-2 queries, limits and stopping rules are plans only. Source identity/existence was inspected selectively for discovery documents, not for all 79 cited URLs; no full effect appraisal was performed.
+
+## Citation audit scope
+
+Exported sources comprise **92 instances at 79 distinct URLs**, with original titles, publishers and notes in the citation inventory. Preserve original source keys and parent resource IDs. The 25 party research resources have null DOI fields; this says nothing about whether the external cited papers have DOIs. Record available metadata as supplied, without filling author/year/DOI fields from guesswork. Dates and author/title matching of every external source, reference completeness against body text, retractions, journal indexing, funding and methodological quality remain unverified. An HTTP 403 is an access exception, not a reference-existence failure; an unresolved reference must not become evidentiary support.
+
+All 79 cited URLs received the one-pass HTTP check: 61 returned 200, 15 returned 403, one 404, one 202 and one 203. No claim-faithfulness result follows from these statuses. No original citations or adopted policy text were edited. Metadata omissions and access failures are assigned follow-up in the exceptions table. This is a partial citation audit with explicit denominators, not citation integrity clearance.
+
+## Separate critique of the inherited matrix and gap register
+
+| Anchor in original artifact | Finding | Minimum remedy / implication |
+| --- | --- | --- |
+| evidence-matrix.md, “Assessment key”, Strong definition; per-policy evidence-strength labels | Labels reward cited source type and local relevance before verifying source content, causal design or costs. A high-rated policy may have a weak mechanism. The original disclosure already says citation verification is incomplete. | Use labels only as declared-source annotations. Start every claim assessment at unassessed and appraise the source–claim relationship. Preserve the original matrix. |
+| gap-register.md, “Policies without linked research” | The 18 missing links are verifiable structural gaps, not evidence of absent underlying research. Text length is not a quality measure. | Keep the linkage count; separate factual/causal/costing uncertainty and source discovery from a publication/linking task. |
+| gap-register.md, “Policy areas not addressed”, environment/climate/energy and water rows | “No … policy” is too categorical: data-centre requirements cover power, water and environmental impacts, and transport/housing intersect these domains. Broader omnibus work is also outside this export. | Say “no dedicated standalone title in this export” only after a title/field check; treat insufficient problem coverage as a question to investigate, not a proven absence. |
+| gap-register.md, final paragraph; PR #2 body | The claimed three largest Victorian expenditure areas were not established by a sourced, comparable budget classification. | Withhold the ranking from evidence findings; verify current official budget functions and scope before using it. No alternative budget ranking is asserted here. |
+| gap-register.md, “Cross-cutting research needs”, quantified net fiscal impact assertion | No independent costing/model audit was performed. Qualitative fields alone cannot establish whether modelling exists elsewhere. | Reframe as “no independently verified net costing in this audit”; request assumptions, price years and reproducible models batch by batch. |
+| gap-register.md, priority key and “Policy areas not addressed” | Importance/absence is an analyst judgment without a problem baseline. Organising only by existing policies anchors discovery to current answers. | Use explicit provisional policy-led triage scores; leave independent problem selection/ranking to F-112 and defer cross-stream mapping. |
+| proposal field interaction: expose-the-tunnel-deal summary versus linked Metro Tunnel PPP brief title | The summary concerns toll-road contracts while the linked resource is titled for Metro Tunnel. Title/scope tension is visible; an actual contradiction or wrong citation has not been established. | B13 identifies the exact project, entity and contract first, then checks source alignment. Do not infer misconduct from a headline. |
+
+The strongest countercase to this policy-led plan is that a transport-first tranche remains anchored to the present corpus. Its claim-testing mitigation is a needs/context baseline and six alternatives before mechanism assessment. The programme-level mitigation is the separate F-112/F-113 inquiry, with no seeding or mapping from this plan until the independent ranking is recorded. A second concern is that scores could imply measured need; the plan labels them provisional judgments, exposes reasons and calls for re-ranking after actual baseline work. A third is scope creep through compound claims: B1 caps atomic claims and leaves unselected clauses pending. These mitigations reduce identified risks; they do not prove bias has been eliminated.
+
+## Verification and remaining limits
+
+The offline audit checks exact original hashes against the log, fresh array comparisons, unique IDs/slugs/URLs, count reconciliation, all 149 point IDs, manifest/matrix title coverage and resolved reciprocal links. It also records every original item's location/hash. A separate offline check verifies the index/register/coverage sets, policy batch partition, JSON parsing, file links and archive integrity. No repository build or test suite is configured. A 66/66 inventory is not a 66/66 independent evidence review; title presence does not validate the original matrix's prose.
+
+CSV row terminators were normalised to LF without changing parsed field values. `git diff --check` is clean outside CSVs; it reports five trailing spaces inside verbatim source strings in the proposal/key-point CSVs (land-windfalls summary and pension key-point descriptions). Those spaces already exist in the original JSON strings and are deliberately retained. This is a documented formatting exception, not a modified policy or failed count check.
+
+Known limits: public/cached exports only, no CMS completeness denominator, no adoption instruments, no historical-version audit, no recursively imported attachments or external full texts, missing policy licences/one research licence and author, one-pass network observations, incomplete source-identity and claim verification, and provisional unconfirmed research/screening design. No new draft was pushed to the public repository, no policy was amended, and no later stage or scheduled work was activated.

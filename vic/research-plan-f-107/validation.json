@@ -1,0 +1,38 @@
+{
+  "validation_scope": "offline inventory/metadata/links, not empirical claim verification",
+  "checks": {
+    "original_import_unchanged": true,
+    "all_evidence_assessment_pending": true,
+    "41_policy_docs_149_points": true,
+    "all_points_verbatim": true,
+    "all_canonical_record_urls_http_200": true,
+    "url_check_coverage_exact": true,
+    "all_non200_have_exception": true,
+    "index_41_unique_titles": true,
+    "batches_cover_each_policy_once": true,
+    "b1_four_named_policies": true,
+    "coverage_batch_matches_register": true,
+    "no_screening_claimed": true,
+    "relative_artifact_links_exist": true,
+    "original_hashes_match_log": true,
+    "fresh_records_unchanged": true,
+    "all_json_parse": true,
+    "coverage_ids_exact_66_policy_led_only": true
+  },
+  "relative_links_checked": 41,
+  "all_passed": true,
+  "format_check": {
+    "non_csv_git_diff_check": "passed",
+    "csv_line_endings": "LF; parsed values unchanged",
+    "verbatim_source_whitespace_exceptions": 5,
+    "locations": [
+      "key-point-register.csv:153",
+      "key-point-register.csv:157",
+      "proposal-register.csv:39",
+      "proposal-register.csv:41",
+      "proposal-register.csv:43"
+    ],
+    "reason": "Retain original policy strings exactly; source whitespace is not removed"
+  },
+  "coordination_scope": "F-112/F-113 independent problem-led ranking/research excluded; no cross-stream mapping"
+}

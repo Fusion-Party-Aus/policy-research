@@ -1,0 +1,46 @@
+[
+  {
+    "kind": "policies",
+    "original_file": "../corpus/policies.json",
+    "original_bytes": 289580,
+    "original_sha256": "717057699d69ece07f90afd1e58d9473f5b35c2275a2a63a3ecb4f43169e32bf",
+    "original_generated_at": "2026-10-16T14:16:18.431Z",
+    "original_retrieved_at_reported": "2026-10-16T14:16:29Z",
+    "fresh_file": "snapshots/policies.json",
+    "fresh_bytes": 289580,
+    "fresh_sha256": "0c01ad0171c441905b82129a435187ddc8c24024f0423812643b6a8be2d768a6",
+    "fresh_generated_at": "2026-10-16T14:49:36.093Z",
+    "original_count": 41,
+    "fresh_count": 41,
+    "changed_root_keys": [
+      "generated_at"
+    ],
+    "added_ids": [],
+    "removed_ids": [],
+    "changed_records": [],
+    "original_array_sha256_canonical_json": "e114b1c075b0cdce71f6379a59f71a049fa2e1eb762733cfe878ca7605f42375",
+    "fresh_array_sha256_canonical_json": "e114b1c075b0cdce71f6379a59f71a049fa2e1eb762733cfe878ca7605f42375"
+  },
+  {
+    "kind": "research",
+    "original_file": "../corpus/research.json",
+    "original_bytes": 228262,
+    "original_sha256": "df30a305755ffdb09e8bc07eea8ec3be7c04cebcd7da70283b5e778de11d8482",
+    "original_generated_at": "2026-10-16T14:16:18.954Z",
+    "original_retrieved_at_reported": "2026-10-16T14:16:29Z",
+    "fresh_file": "snapshots/research.json",
+    "fresh_bytes": 228262,
+    "fresh_sha256": "a0171102d93ba22b7cb7002c7237397ee33ac623037575c480484cc162b829d7",
+    "fresh_generated_at": "2026-10-16T14:49:38.057Z",
+    "original_count": 25,
+    "fresh_count": 25,
+    "changed_root_keys": [
+      "generated_at"
+    ],
+    "added_ids": [],
+    "removed_ids": [],
+    "changed_records": [],
+    "original_array_sha256_canonical_json": "426dcc2a34fa0e9ae64c23a0d0f56b1c3af76fb9a07ccdfe34f3fd10a9fa29b2",
+    "fresh_array_sha256_canonical_json": "426dcc2a34fa0e9ae64c23a0d0f56b1c3af76fb9a07ccdfe34f3fd10a9fa29b2"
+  }
+]
