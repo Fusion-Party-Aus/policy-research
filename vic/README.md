@@ -26,3 +26,7 @@ The `corpus/` directory contains a snapshot of the Victorian policy and research
 - [Gap register](gap-register.md) — identifies unsupported claims, missing policy areas and prioritised follow-up research
 
 Use this folder for new shared working papers, cross-branch reviews or explicitly migrated documents. If importing existing work, retain attribution and provenance and check the latest canonical version first.
+
+## First independent claim assessment
+
+**Research — not adopted Fusion policy.** [Melton bus access, F-108](melton-bus-assessment-f-108/README.md) tests 12 claims from four proposals, with mixed verdicts, evidence limitations and a complete coverage ledger. No complete policy or the wider corpus is validated.
