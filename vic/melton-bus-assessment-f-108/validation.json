@@ -1,0 +1,22 @@
+{
+  "scope": "offline artifact integrity and described timetable behaviour; not empirical truth certification",
+  "checks": {
+    "original_snapshot_hashes": true,
+    "12_claims_4_policies_all_pointers_and_sources_resolve": true,
+    "66_record_ledger_preserves_original_columns_and_12_key_points": true,
+    "search_occurrences_and_pending_citation_leads_reconcile": true,
+    "research_labels_and_local_links": true,
+    "calendar_exceptions_weekends_boundaries_and_overnight_times": true,
+    "all_filtered_gtfs_rows_resolve_and_counts_match": true,
+    "byte_identical_reproduction_and_sunday_simultaneous_pairs": true
+  },
+  "all_passed": true,
+  "verdict_counts": {
+    "supported": 2,
+    "supported_as_design_caution": 1,
+    "supported_local_schedule": 1,
+    "supported_qualified": 1,
+    "uncertain": 4,
+    "unsupported": 3
+  }
+}

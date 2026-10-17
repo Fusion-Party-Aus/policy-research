@@ -1,0 +1,13 @@
+date,from_stop,from_name,to_stop,to_name,window,departures_457,departures_459,min_gap_minutes,median_gap_minutes,max_gap_minutes,adjacent_crossroute_pairs_within_5min
+20261016,13374,Richard Rd/Coburns Rd,13375,Joy St/Coburns Rd,09:00<=departure<15:00 Australia/Melbourne,12,12,2.0,9.0,29.0,1
+20261016,13375,Joy St/Coburns Rd,13376,Campaspe Cres/Coburns Rd,09:00<=departure<15:00 Australia/Melbourne,12,12,1.0,9.0,28.0,1
+20261016,13376,Campaspe Cres/Coburns Rd,13377,Brooklyn Rd/Coburns Rd,09:00<=departure<15:00 Australia/Melbourne,12,12,2.0,9.0,29.0,1
+20261016,13426,Joy St/Coburns Rd,13425,Richard Rd/Coburns Rd,09:00<=departure<15:00 Australia/Melbourne,12,12,1.0,4.0,34.0,12
+20261016,13427,Campaspe Cres/Coburns Rd,13426,Joy St/Coburns Rd,09:00<=departure<15:00 Australia/Melbourne,12,12,2.0,5.0,33.0,12
+20261016,13428,Brooklyn Rd/Coburns Rd,13427,Campaspe Cres/Coburns Rd,09:00<=departure<15:00 Australia/Melbourne,12,12,1.0,4.0,34.0,12
+20261018,13374,Richard Rd/Coburns Rd,13375,Joy St/Coburns Rd,09:00<=departure<15:00 Australia/Melbourne,9,9,7.0,7.0,33.0,0
+20261018,13375,Joy St/Coburns Rd,13376,Campaspe Cres/Coburns Rd,09:00<=departure<15:00 Australia/Melbourne,9,9,7.0,7.0,33.0,0
+20261018,13376,Campaspe Cres/Coburns Rd,13377,Brooklyn Rd/Coburns Rd,09:00<=departure<15:00 Australia/Melbourne,9,9,7.0,7.0,33.0,0
+20261018,13426,Joy St/Coburns Rd,13425,Richard Rd/Coburns Rd,09:00<=departure<15:00 Australia/Melbourne,9,10,0.0,15.0,40.0,8
+20261018,13427,Campaspe Cres/Coburns Rd,13426,Joy St/Coburns Rd,09:00<=departure<15:00 Australia/Melbourne,9,10,0.0,15.0,40.0,8
+20261018,13428,Brooklyn Rd/Coburns Rd,13427,Campaspe Cres/Coburns Rd,09:00<=departure<15:00 Australia/Melbourne,9,10,0.0,15.0,40.0,8

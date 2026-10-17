@@ -1,0 +1,113 @@
+{
+  "issue": "F-108",
+  "status": "Research — not adopted Fusion policy",
+  "date_aedt": "2026-10-17",
+  "source_pack_attachment": "01a1453f-001b-7e08-9537-d3e8c9a4325c",
+  "source_pack_sha256": "8e610b6b67364e11ab3d0d4e19d5cdee4f358c7aeb5b9a6db096f42bbf504b78",
+  "stage_1_commit": "f668cad",
+  "stage_1_pr": "https://github.com/Fusion-Party-Aus/policy-research/pull/2",
+  "original_import_commit": "70a8128719610594d4e396ad809e169408cac1a3",
+  "publication_authority": "Ethan approval recorded in current F-108 description, citing F-105 comment 01a1471c-6b0b-7939-99a4-415f86db6a84",
+  "original_snapshot_hashes": {
+    "policies.json": "717057699d69ece07f90afd1e58d9473f5b35c2275a2a63a3ecb4f43169e32bf",
+    "research.json": "df30a305755ffdb09e8bc07eea8ec3be7c04cebcd7da70283b5e778de11d8482"
+  },
+  "discovery_query_runs": 18,
+  "returned_occurrences": 305,
+  "exact_unique_urls": 289,
+  "counts": {
+    "selected_policy_records": 4,
+    "policy_records_total": 41,
+    "research_records_total": 25,
+    "internal_briefs_inspected": 3,
+    "external_source_families": 19,
+    "all_inspected_families": 26,
+    "claims": 12,
+    "fully_validated_policy_records": 0,
+    "fully_validated_research_records": 0
+  },
+  "research_run_started_at_utc": null,
+  "research_run_start_precision": "not captured; all work in one foreground turn; no person-hour precision claimed",
+  "artifacts_generated_at_utc": "2026-10-17T00:03:31.820399+00:00",
+  "model_context": "one AI context, runtime defaults; no independent human or blinded screening",
+  "git_identity": "No user identity configured; commit reused the existing PR #2 Policy Researcher author identity via per-command environment; no git config identity changed.",
+  "retrieval_receipts": [
+    {
+      "id": "gtfszip",
+      "url": "https://data.ptv.vic.gov.au/downloads/gtfs.zip",
+      "final_url": "https://data.ptv.vic.gov.au/downloads/gtfs.zip",
+      "status": 200,
+      "bytes": 267168816,
+      "sha256": "4f1ca152898d7fe9bbab23b8bc358ddce496aa3a7961d97440f250ec47387eda",
+      "retrieved_at": "2026-10-16T23:50:10.096400+00:00"
+    },
+    {
+      "id": "flexi",
+      "url": "https://transport.vic.gov.au/plan-a-journey/travel-tips-and-resources/flexiride-on-demand-bus-service",
+      "final_url": "https://transport.vic.gov.au/plan-a-journey/travel-tips-and-resources/flexiride-on-demand-bus-service",
+      "status": 403,
+      "bytes": 5723,
+      "sha256": "1f83bb72c5166f82551de7748366fd0c9d6322b834f9e7913175758598fb5883",
+      "retrieved_at": "2026-10-16T23:49:46.978924+00:00"
+    },
+    {
+      "id": "lawpdf",
+      "url": "https://content.legislation.vic.gov.au/sites/default/files/2025-12/10-6aa091-authorised.pdf",
+      "final_url": "https://content.legislation.vic.gov.au/sites/default/files/2025-12/10-6aa091-authorised.pdf",
+      "status": 200,
+      "bytes": 2041665,
+      "sha256": "2174d19a76b9a0cb59c33f61fe342000570599f14ae818df55289f5c0a2275b8",
+      "retrieved_at": "2026-10-16T23:49:49.247256+00:00"
+    },
+    {
+      "id": "iv",
+      "url": "https://www.infrastructurevictoria.com.au/resources/fast-frequent-fair-how-buses-can-better-connect-melbourne",
+      "final_url": "https://www.infrastructurevictoria.com.au/resources/fast-frequent-fair-how-buses-can-better-connect-melbourne",
+      "status": 200,
+      "bytes": 152487,
+      "sha256": "5986e86704467208d0c784d8276261e1d6b6948bc5a32d609639601b937ce667",
+      "retrieved_at": "2026-10-16T23:49:47.187744+00:00"
+    },
+    {
+      "id": "wsp",
+      "url": "https://assets.infrastructurevictoria.com.au/assets/Resources/06_WSP-for-Infrastructure-Victoria_Better-buses-for-Melbourne-Strategic-modelling-Validation-report-Sept-2023.pdf",
+      "final_url": "https://assets.infrastructurevictoria.com.au/assets/Resources/06_WSP-for-Infrastructure-Victoria_Better-buses-for-Melbourne-Strategic-modelling-Validation-report-Sept-2023.pdf",
+      "status": 200,
+      "bytes": 5638736,
+      "sha256": "073351c0ab3ff51a82fd57fba3377f526200585e1b8d3d19ef31c952b99552af",
+      "retrieved_at": "2026-10-16T23:49:47.961517+00:00"
+    },
+    {
+      "id": "ivpdf",
+      "url": "https://assets.infrastructurevictoria.com.au/assets/Resources/Fast-Frequent-Fair-how-buses-can-better-connect-Melbourne-2025.pdf",
+      "final_url": "https://assets.infrastructurevictoria.com.au/assets/Resources/Fast-Frequent-Fair-how-buses-can-better-connect-Melbourne-2025.pdf",
+      "status": 200,
+      "bytes": 17309484,
+      "sha256": "ccd19c57408f4de6acd3631efa175604206528244d143c91633ca5ade221c38a",
+      "retrieved_at": "2026-10-16T23:50:00.215088+00:00"
+    },
+    {
+      "id": "vago",
+      "url": "https://www.audit.vic.gov.au/report/improving-bus-services",
+      "final_url": "https://www.audit.vic.gov.au/report/improving-bus-services",
+      "status": 200,
+      "bytes": 117526,
+      "sha256": "2d0b77b21cb743790e7fa4443c14c7e8053d260d7a9923f0468ff00a0826a575",
+      "retrieved_at": "2026-10-16T23:49:47.101167+00:00"
+    },
+    {
+      "id": "rmf.pdf",
+      "sha256": "05aaea9bdb980e81333d7a0ef52cbf1f9b2cc1ea5fb6f3ac8f4167b9e210e0f9",
+      "bytes": 3591141,
+      "access": "200; private working copy not redistributed",
+      "retrieval_time_precision": "run date only"
+    },
+    {
+      "id": "vago-appendix-d.pdf",
+      "sha256": "210cb976ab5117df72fad3e5fc774df3d364dd13e0837eb89f33f92fe46250d6",
+      "bytes": 763503,
+      "access": "200; private working copy not redistributed",
+      "retrieval_time_precision": "run date only"
+    }
+  ]
+}

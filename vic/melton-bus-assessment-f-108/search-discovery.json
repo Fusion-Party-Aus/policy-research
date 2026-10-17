@@ -1,0 +1,2324 @@
+{
+  "runs": [
+    {
+      "id": "Q01-Q04",
+      "queries": [
+        "site:audit.vic.gov.au \"Improving Bus Services\"",
+        "site:transport.vic.gov.au Melton FlexiRide",
+        "site:transport.vic.gov.au \"457\" \"459\"",
+        "site:discover.data.vic.gov.au \"GTFS\""
+      ],
+      "engine": "web search tool (general web index)",
+      "executed_date_utc": "2026-10-16",
+      "timestamp_precision": "date only; individual call timestamps not captured",
+      "filters": "none",
+      "requested_window": "tool-returned ranked result set, at most first 50; no pagination",
+      "per_query_attribution": "combined response; per-query ranks unavailable"
+    },
+    {
+      "id": "Q05",
+      "queries": [
+        "site:abs.gov.au Melton \"motor vehicles\""
+      ],
+      "engine": "web search tool (general web index)",
+      "executed_date_utc": "2026-10-16",
+      "timestamp_precision": "date only; individual call timestamps not captured",
+      "filters": "none",
+      "requested_window": "tool-returned ranked result set, at most first 50; no pagination",
+      "per_query_attribution": "single query"
+    },
+    {
+      "id": "Q06",
+      "queries": [
+        "site:infrastructurevictoria.com.au \"Fast, frequent, fair\""
+      ],
+      "engine": "web search tool (general web index)",
+      "executed_date_utc": "2026-10-16",
+      "timestamp_precision": "date only; individual call timestamps not captured",
+      "filters": "none",
+      "requested_window": "tool-returned ranked result set, at most first 50; no pagination",
+      "per_query_attribution": "single query"
+    },
+    {
+      "id": "Q07",
+      "queries": [
+        "Melton transport disadvantage accessibility jobs services evaluation"
+      ],
+      "engine": "web search tool (general web index)",
+      "executed_date_utc": "2026-10-16",
+      "timestamp_precision": "date only; individual call timestamps not captured",
+      "filters": "none",
+      "requested_window": "tool-returned ranked result set, at most first 50; no pagination",
+      "per_query_attribution": "single query"
+    },
+    {
+      "id": "Q08",
+      "queries": [
+        "outer suburban public transport accessibility carless disability service span"
+      ],
+      "engine": "web search tool (general web index)",
+      "executed_date_utc": "2026-10-16",
+      "timestamp_precision": "date only; individual call timestamps not captured",
+      "filters": "none",
+      "requested_window": "tool-returned ranked result set, at most first 50; no pagination",
+      "per_query_attribution": "single query"
+    },
+    {
+      "id": "Q9",
+      "queries": [
+        "(\"bus network redesign\" OR \"bus frequency\" OR \"timetable coordination\") AND (accessibility OR travel-time OR equity) AND (evaluation OR \"natural experiment\")"
+      ],
+      "engine": "web search tool (general web index)",
+      "executed_date_utc": "2026-10-16",
+      "timestamp_precision": "date only; individual call timestamps not captured",
+      "filters": "none",
+      "requested_window": "tool-returned ranked result set, at most first 50; no pagination",
+      "per_query_attribution": "single query"
+    },
+    {
+      "id": "Q10",
+      "queries": [
+        "(\"demand responsive transport\" OR microtransit OR \"community transport\") AND (cost OR access OR evaluation)"
+      ],
+      "engine": "web search tool (general web index)",
+      "executed_date_utc": "2026-10-16",
+      "timestamp_precision": "date only; individual call timestamps not captured",
+      "filters": "none",
+      "requested_window": "tool-returned ranked result set, at most first 50; no pagination",
+      "per_query_attribution": "single query"
+    },
+    {
+      "id": "Q11",
+      "queries": [
+        "(\"bus network redesign\" OR \"bus grid\") AND (failure OR \"no effect\" OR inequity OR displacement)"
+      ],
+      "engine": "web search tool (general web index)",
+      "executed_date_utc": "2026-10-16",
+      "timestamp_precision": "date only; individual call timestamps not captured",
+      "filters": "none",
+      "requested_window": "tool-returned ranked result set, at most first 50; no pagination",
+      "per_query_attribution": "single query"
+    },
+    {
+      "id": "Q12",
+      "queries": [
+        "(\"demand responsive transport\" OR microtransit) AND (\"booking window\" OR \"door to door\") AND (cost OR failure OR refusal)"
+      ],
+      "engine": "web search tool (general web index)",
+      "executed_date_utc": "2026-10-16",
+      "timestamp_precision": "date only; individual call timestamps not captured",
+      "filters": "none",
+      "requested_window": "tool-returned ranked result set, at most first 50; no pagination",
+      "per_query_attribution": "single query"
+    },
+    {
+      "id": "Q13",
+      "queries": [
+        "(\"bus timetable\" OR \"pulse scheduling\") AND (constraint OR \"missed connections\" OR \"vehicle scheduling\")"
+      ],
+      "engine": "web search tool (general web index)",
+      "executed_date_utc": "2026-10-16",
+      "timestamp_precision": "date only; individual call timestamps not captured",
+      "filters": "none",
+      "requested_window": "tool-returned ranked result set, at most first 50; no pagination",
+      "per_query_attribution": "single query"
+    },
+    {
+      "id": "Q14",
+      "queries": [
+        "(\"bus fare reduction\" OR \"fare subsidy\") AND (accessibility OR equity OR evaluation)"
+      ],
+      "engine": "web search tool (general web index)",
+      "executed_date_utc": "2026-10-16",
+      "timestamp_precision": "date only; individual call timestamps not captured",
+      "filters": "none",
+      "requested_window": "tool-returned ranked result set, at most first 50; no pagination",
+      "per_query_attribution": "single query"
+    },
+    {
+      "id": "Q15",
+      "queries": [
+        "site:legislation.vic.gov.au \"Transport Integration Act 2010\""
+      ],
+      "engine": "web search tool (general web index)",
+      "executed_date_utc": "2026-10-16",
+      "timestamp_precision": "date only; individual call timestamps not captured",
+      "filters": "none",
+      "requested_window": "tool-returned ranked result set, at most first 50; no pagination",
+      "per_query_attribution": "single query"
+    },
+    {
+      "id": "Q16",
+      "queries": [
+        "site:transport.vic.gov.au \"bus\" \"contract\" \"service standards\""
+      ],
+      "engine": "web search tool (general web index)",
+      "executed_date_utc": "2026-10-16",
+      "timestamp_precision": "date only; individual call timestamps not captured",
+      "filters": "none",
+      "requested_window": "tool-returned ranked result set, at most first 50; no pagination",
+      "per_query_attribution": "single query"
+    },
+    {
+      "id": "Q17",
+      "queries": [
+        "bus network redesign accessibility equity winners losers evaluation"
+      ],
+      "engine": "web search tool (general web index)",
+      "executed_date_utc": "2026-10-16",
+      "timestamp_precision": "date only; individual call timestamps not captured",
+      "filters": "none",
+      "requested_window": "tool-returned ranked result set, at most first 50; no pagination",
+      "per_query_attribution": "single query"
+    },
+    {
+      "id": "Q18",
+      "queries": [
+        "Melton bus 457 459 timetable 2026"
+      ],
+      "engine": "web search tool (general web index)",
+      "executed_date_utc": "2026-10-16",
+      "timestamp_precision": "date only; individual call timestamps not captured",
+      "filters": "none",
+      "requested_window": "tool-returned ranked result set, at most first 50; no pagination",
+      "per_query_attribution": "single query"
+    }
+  ],
+  "candidates": [
+    {
+      "record_id": "W001",
+      "query_group": "Q01-Q04",
+      "returned_rank": 1,
+      "title": "Improving Bus Services | Victorian Auditor-General's Office",
+      "url": "https://www.audit.vic.gov.au/dashboards/improving-bus-services"
+    },
+    {
+      "record_id": "W002",
+      "query_group": "Q01-Q04",
+      "returned_rank": 2,
+      "title": "Improving Bus Services | Victorian Auditor-General's Office",
+      "url": "https://www.audit.vic.gov.au//report/improving-bus-services"
+    },
+    {
+      "record_id": "W003",
+      "query_group": "Q01-Q04",
+      "returned_rank": 3,
+      "title": "FlexiRide | On-demand bus service | Victoria - Transport Victoria",
+      "url": "https://transport.vic.gov.au/plan-a-journey/travel-tips-and-resources/flexiride-on-demand-bus-service"
+    },
+    {
+      "record_id": "W004",
+      "query_group": "Q01-Q04",
+      "returned_rank": 4,
+      "title": "| Victorian Auditor-General's Office",
+      "url": "https://www.audit.vic.gov.au/node"
+    },
+    {
+      "record_id": "W005",
+      "query_group": "Q01-Q04",
+      "returned_rank": 5,
+      "title": "Annual Report 2025–26 | Victorian Auditor-General's Office",
+      "url": "https://www.audit.vic.gov.au/report/annual-report-2025-26?section=35670--3-services-to-the-public-sector"
+    },
+    {
+      "record_id": "W006",
+      "query_group": "Q01-Q04",
+      "returned_rank": 6,
+      "title": "Improving Bus Services | Victorian Auditor-General's Office",
+      "url": "https://www.audit.vic.gov.au/report/improving-bus-services?section=35541--1-our-key-findings&show-sections=1"
+    },
+    {
+      "record_id": "W007",
+      "query_group": "Q01-Q04",
+      "returned_rank": 7,
+      "title": "Victorian Auditor-General's Office | Victorian Auditor-General's Office",
+      "url": "https://www.audit.vic.gov.au//"
+    },
+    {
+      "record_id": "W008",
+      "query_group": "Q01-Q04",
+      "returned_rank": 8,
+      "title": "Annual Plan 2025–26 | Victorian Auditor-General's Office",
+      "url": "https://www.audit.vic.gov.au/report/annual-plan-2025-26?section=35097--4-2025-26-parliamentary-reports&show-sections=1"
+    },
+    {
+      "record_id": "W009",
+      "query_group": "Q01-Q04",
+      "returned_rank": 9,
+      "title": "Search results | Victorian Auditor-General's Office",
+      "url": "https://www.audit.vic.gov.au//search/reports?f%5B0%5D=status%3Acompleted"
+    },
+    {
+      "record_id": "W010",
+      "query_group": "Q01-Q04",
+      "returned_rank": 10,
+      "title": "Annual Plan 2025-26",
+      "url": "https://www.audit.vic.gov.au/sites/default/files/2025-06/20250618_Annual-Plan-2025%E2%80%9326_0.pdf?uid=bdc46786bc"
+    },
+    {
+      "record_id": "W011",
+      "query_group": "Q01-Q04",
+      "returned_rank": 11,
+      "title": "Appendix B:",
+      "url": "https://www.audit.vic.gov.au/sites/default/files/2024-25/Annual%20Plan%202025-26/20250618_Annual-Plan-2025%E2%80%9326-Appendix-B.pdf"
+    },
+    {
+      "record_id": "W012",
+      "query_group": "Q01-Q04",
+      "returned_rank": 12,
+      "title": "Annual Plan 2025-26",
+      "url": "https://www.audit.vic.gov.au/sites/default/files/2025-06/20250618_Annual-Plan-2025%E2%80%9326_0.pdf"
+    },
+    {
+      "record_id": "W013",
+      "query_group": "Q01-Q04",
+      "returned_rank": 13,
+      "title": "Melton Station: Temporary car park closures and pedestrian access changes until 2026 - Transport Victoria",
+      "url": "https://transport.vic.gov.au/disruptions/disruptions-information/article/melton-station"
+    },
+    {
+      "record_id": "W014",
+      "query_group": "Q01-Q04",
+      "returned_rank": 14,
+      "title": "Coordinating Public Transport | Victorian Auditor-General's Office",
+      "url": "https://www.audit.vic.gov.au/report/coordinating-public-transport?section=31275"
+    },
+    {
+      "record_id": "W015",
+      "query_group": "Q01-Q04",
+      "returned_rank": 15,
+      "title": "Coordinating Public Transport | Victorian Auditor-General's Office",
+      "url": "https://www.audit.vic.gov.au/node/31278"
+    },
+    {
+      "record_id": "W016",
+      "query_group": "Q01-Q04",
+      "returned_rank": 16,
+      "title": "Melbourne’s New Bus Contracts",
+      "url": "https://www.audit.vic.gov.au/sites/default/files/20090624-bus-full-report.pdf"
+    },
+    {
+      "record_id": "W017",
+      "query_group": "Q01-Q04",
+      "returned_rank": 17,
+      "title": "Managing the Environmental Impacts of Transport",
+      "url": "https://www.audit.vic.gov.au/sites/default/files/20140820-Environment-Transport.pdf"
+    },
+    {
+      "record_id": "W018",
+      "query_group": "Q05",
+      "returned_rank": 1,
+      "title": "2021 Melton (Western Victoria), Census All persons QuickStats | Australian Bureau of Statistics",
+      "url": "https://abs.gov.au/census/find-census-data/quickstats/2021/SED24808"
+    },
+    {
+      "record_id": "W019",
+      "query_group": "Q05",
+      "returned_rank": 2,
+      "title": "2021 Melton, Census All persons QuickStats | Australian Bureau of Statistics",
+      "url": "https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA24650"
+    },
+    {
+      "record_id": "W020",
+      "query_group": "Q05",
+      "returned_rank": 3,
+      "title": "2021 Melton (Vic.), Census All persons QuickStats | Australian Bureau of Statistics",
+      "url": "https://www.abs.gov.au/census/find-census-data/quickstats/2021/SAL21642"
+    },
+    {
+      "record_id": "W021",
+      "query_group": "Q05",
+      "returned_rank": 4,
+      "title": "2021 Melton, Census All persons QuickStats | Australian Bureau of Statistics",
+      "url": "https://abs.gov.au/census/find-census-data/quickstats/2021/UCL211002"
+    },
+    {
+      "record_id": "W022",
+      "query_group": "Q05",
+      "returned_rank": 5,
+      "title": "2021 Melton, Census All persons QuickStats | Australian Bureau of Statistics",
+      "url": "https://abs.gov.au/census/find-census-data/quickstats/2021/213041577"
+    },
+    {
+      "record_id": "W023",
+      "query_group": "Q05",
+      "returned_rank": 6,
+      "title": "2021 Melton (Vic.), Census All persons QuickStats | Australian Bureau of Statistics",
+      "url": "https://abs.gov.au/census/find-census-data/quickstats/2021/SAL21642"
+    },
+    {
+      "record_id": "W024",
+      "query_group": "Q05",
+      "returned_rank": 7,
+      "title": "2021 Melton - Bacchus Marsh, Census All persons QuickStats | Australian Bureau of Statistics",
+      "url": "https://www.abs.gov.au/census/find-census-data/quickstats/2021/21304"
+    },
+    {
+      "record_id": "W025",
+      "query_group": "Q05",
+      "returned_rank": 8,
+      "title": "2021 Melton, Census All persons QuickStats | Australian Bureau of Statistics",
+      "url": "https://www.abs.gov.au/census/find-census-data/quickstats/2021/UCL211002"
+    },
+    {
+      "record_id": "W026",
+      "query_group": "Q05",
+      "returned_rank": 9,
+      "title": "2011 Melton (Vic.), Census All persons QuickStats | Australian Bureau of Statistics",
+      "url": "https://www.abs.gov.au/census/find-census-data/quickstats/2011/SSC20869"
+    },
+    {
+      "record_id": "W027",
+      "query_group": "Q05",
+      "returned_rank": 10,
+      "title": "2021 Melton (SA), Census All persons QuickStats | Australian Bureau of Statistics",
+      "url": "https://www.abs.gov.au/census/find-census-data/quickstats/2021/SAL40858"
+    },
+    {
+      "record_id": "W028",
+      "query_group": "Q05",
+      "returned_rank": 11,
+      "title": "2011 Melton, Census All persons QuickStats | Australian Bureau of Statistics",
+      "url": "https://www.abs.gov.au/census/find-census-data/quickstats/2011/UCL212001"
+    },
+    {
+      "record_id": "W029",
+      "query_group": "Q05",
+      "returned_rank": 12,
+      "title": "2011 Melton (Vic.), Census All persons QuickStats | Australian Bureau of Statistics",
+      "url": "https://www.abs.gov.au/census/find-census-data/quickstats/2011/GL_VIC1636"
+    },
+    {
+      "record_id": "W030",
+      "query_group": "Q05",
+      "returned_rank": 13,
+      "title": "MOTOR VEHICLE CENSUS",
+      "url": "https://www.ausstats.abs.gov.au/Ausstats/subscriber.nsf/0/29DAD6FC17370C50CA257394000ECB08/%24File/93090_31%20mar%202007.pdf"
+    },
+    {
+      "record_id": "W031",
+      "query_group": "Q05",
+      "returned_rank": 14,
+      "title": "Submission guide  - 2026 Census topic consultation phase two",
+      "url": "https://consult.abs.gov.au/census/2026-census-topic-consultation-phase-two/supporting_documents/Submission%20Guide%20%202026%20Census%20topic%20consultation%20phase%20two.pdf"
+    },
+    {
+      "record_id": "W032",
+      "query_group": "Q05",
+      "returned_rank": 15,
+      "title": "Australian Bureau of Statistics",
+      "url": "https://www.abs.gov.au/ausstats/abs%40.nsf/0/7b7de5e4cdc080f3ca2583d2000b02db/%24FILE/Victoria%20%282016%20CED%20Profiles%29.pdf"
+    },
+    {
+      "record_id": "W033",
+      "query_group": "Q05",
+      "returned_rank": 16,
+      "title": "9309.0 Motor Vehicle Census, Australia (31 Mar 2009)",
+      "url": "https://www.ausstats.abs.gov.au/Ausstats/subscriber.nsf/0/DC551064A4316C21CA257670000E2950/%24File/93090_31%20Mar%202009%20%28Reissue%29.pdf"
+    },
+    {
+      "record_id": "W034",
+      "query_group": "Q05",
+      "returned_rank": 17,
+      "title": "ANZSCO [Preliminary] Proposed Changes",
+      "url": "https://consult.abs.gov.au/standards-and-classifications/anzsco-comprehensive-review-round-3/results/retailtrade-preliminaryproposedchanges.pdf"
+    },
+    {
+      "record_id": "W035",
+      "query_group": "Q06",
+      "returned_rank": 1,
+      "title": "Infrastructure Victoria | Fast, frequent, fair",
+      "url": "https://www.infrastructurevictoria.com.au/resources/fast-frequent-fair-how-buses-can-better-connect-melbourne"
+    },
+    {
+      "record_id": "W036",
+      "query_group": "Q06",
+      "returned_rank": 2,
+      "title": "Fast, frequent, fair",
+      "url": "https://assets.infrastructurevictoria.com.au/assets/Resources/Fast-Frequent-Fair-how-buses-can-better-connect-Melbourne-2025.pdf"
+    },
+    {
+      "record_id": "W037",
+      "query_group": "Q06",
+      "returned_rank": 3,
+      "title": "Infrastructure Victoria | Buses, trains and bicycles - how we can…",
+      "url": "https://www.infrastructurevictoria.com.au/resources/active-and-public-transport"
+    },
+    {
+      "record_id": "W038",
+      "query_group": "Q06",
+      "returned_rank": 4,
+      "title": "Infrastructure Victoria | Transport",
+      "url": "https://www.infrastructurevictoria.com.au/topics/transport"
+    },
+    {
+      "record_id": "W039",
+      "query_group": "Q06",
+      "returned_rank": 5,
+      "title": "Infrastructure Victoria | Build a new bus rapid transit network",
+      "url": "https://www.infrastructurevictoria.com.au/topics/transport/recommendations/build-a-new-bus-rapid-transit-network?from=%2Ftopics%2Ftransport"
+    },
+    {
+      "record_id": "W040",
+      "query_group": "Q06",
+      "returned_rank": 6,
+      "title": "Infrastructure Victoria | Better bus network is best solution to…",
+      "url": "https://www.infrastructurevictoria.com.au/news-events/better-bus-network-is-best-solution-to-melbournes-growing-transport-needs"
+    },
+    {
+      "record_id": "W041",
+      "query_group": "Q06",
+      "returned_rank": 7,
+      "title": "Infrastructure Victoria | How we developed the strategy: Public…",
+      "url": "https://www.infrastructurevictoria.com.au/infrastructure-strategy/how-we-developed-the-strategy"
+    },
+    {
+      "record_id": "W042",
+      "query_group": "Q07",
+      "returned_rank": 1,
+      "title": "Transport Melton City Council",
+      "url": "https://www.melton.vic.gov.au/Council/About-Council/Advocacy/Transport"
+    },
+    {
+      "record_id": "W043",
+      "query_group": "Q07",
+      "returned_rank": 2,
+      "title": "Melton Integrated Transport Strategy",
+      "url": "https://www.melton.vic.gov.au/files/assets/public/v/1/services/building-planning-amp-transport/strategic-planning/studies-strategies-guidelines/moving-melton-its/moving_melton_background_report.pdf"
+    },
+    {
+      "record_id": "W044",
+      "query_group": "Q07",
+      "returned_rank": 3,
+      "title": "All of these factors contribute to the high level of car dependency. The current use of public or active transport frequently results in slow journey times, delays, and issues with safety or comfort. Additionally, commuter experience on the Melbourne to Ballarat Railway Line includes overcrowding, delays, unreliable services and poor timetabling. This situation has adverse impacts on the ability of residents to access services, employment and even social opportunities, leading to poor health, economic disadvantage, social isolation and loneliness. Underperforming transport services impose unnecessary economic costs on the community. In particular, local residents will be pushed to use high cost private transport options. Without intervention, this situation is expected to worsen as the City of Melton grows in coming decades.",
+      "url": "https://www.melton.vic.gov.au/files/assets/public/v/2/services/building-planning-amp-transport/strategic-planning/studies-strategies-guidelines/moving-melton-its/moving-melton-integrated-transport-strategy-report.pdf"
+    },
+    {
+      "record_id": "W045",
+      "query_group": "Q07",
+      "returned_rank": 4,
+      "title": "Why Transport? — Moving Melton",
+      "url": "https://www.movingmelton.com.au/why-transport"
+    },
+    {
+      "record_id": "W046",
+      "query_group": "Q07",
+      "returned_rank": 5,
+      "title": "Transport projects strategic evaluation",
+      "url": "https://assets.infrastructurevictoria.com.au/assets/Resources/report-transport-projects-strategic-evaluation.pdf"
+    },
+    {
+      "record_id": "W047",
+      "query_group": "Q07",
+      "returned_rank": 6,
+      "title": "Bus Network — Moving Melton",
+      "url": "https://www.movingmelton.com.au/busnetwork"
+    },
+    {
+      "record_id": "W048",
+      "query_group": "Q07",
+      "returned_rank": 7,
+      "title": "Transport poverty and access to essential services - SCIE 2026",
+      "url": "https://www.scie.org.uk/insights/care-equity/evidence/transport-poverty-and-access-to-essential-services/"
+    },
+    {
+      "record_id": "W049",
+      "query_group": "Q07",
+      "returned_rank": 8,
+      "title": "Evaluating equity and accessibility to jobs by public transport across Canada - ScienceDirect",
+      "url": "https://doi.org/10.1016/j.jtrangeo.2018.10.006"
+    },
+    {
+      "record_id": "W050",
+      "query_group": "Q07",
+      "returned_rank": 9,
+      "title": "Access to Transport and Life Opportunities - GOV.UK",
+      "url": "https://www.gov.uk/government/publications/access-to-transport-and-life-opportunities"
+    },
+    {
+      "record_id": "W051",
+      "query_group": "Q07",
+      "returned_rank": 10,
+      "title": "Transport accessibility: rapid evidence review - GOV.UK",
+      "url": "https://www.gov.uk/government/publications/transport-accessibility-rapid-evidence-review"
+    },
+    {
+      "record_id": "W052",
+      "query_group": "Q07",
+      "returned_rank": 11,
+      "title": "Future of mobility: inequalities in mobility and access in the UK - GOV.UK",
+      "url": "https://www.gov.uk/government/publications/future-of-mobility-inequalities-in-mobility-and-access-in-the-uk"
+    },
+    {
+      "record_id": "W053",
+      "query_group": "Q07",
+      "returned_rank": 12,
+      "title": "Accessibility, mobility, and realized travel behavior: Assessing transport disadvantage from a policy perspective - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0966692316000144"
+    },
+    {
+      "record_id": "W054",
+      "query_group": "Q07",
+      "returned_rank": 13,
+      "title": "Evaluation of the Inclusive Transport Strategy | National Centre for Social Research",
+      "url": "https://natcen.ac.uk/publications/evaluation-inclusive-transport-strategy"
+    },
+    {
+      "record_id": "W055",
+      "query_group": "Q07",
+      "returned_rank": 14,
+      "title": "Developing Transport Infrastructure and Services for Population Growth Areas | Victorian Auditor-General's Office",
+      "url": "https://www.audit.vic.gov.au//report/developing-transport-infrastructure-and-services-population-growth-areas"
+    },
+    {
+      "record_id": "W056",
+      "query_group": "Q07",
+      "returned_rank": 15,
+      "title": "The relationship between transport and disadvantage in Australia | Australian Institute of Family Studies",
+      "url": "https://aifs.gov.au/resources/policy-and-practice-papers/relationship-between-transport-and-disadvantage-australia"
+    },
+    {
+      "record_id": "W057",
+      "query_group": "Q07",
+      "returned_rank": 16,
+      "title": "Melton, Victoria",
+      "url": "https://en.wikipedia.org/wiki/Melton%2C_Victoria"
+    },
+    {
+      "record_id": "W058",
+      "query_group": "Q07",
+      "returned_rank": 17,
+      "title": "Transport divide",
+      "url": "https://en.wikipedia.org/wiki/Transport_divide"
+    },
+    {
+      "record_id": "W059",
+      "query_group": "Q07",
+      "returned_rank": 18,
+      "title": "Melton Mowbray",
+      "url": "https://en.wikipedia.org/wiki/Melton_Mowbray"
+    },
+    {
+      "record_id": "W060",
+      "query_group": "Q07",
+      "returned_rank": 19,
+      "title": "Mount Atkinson, Rockbank, Tarneit, Melton: The Melbourne suburbs with bad public transport links",
+      "url": "https://www.reddit.com/r/MelbourneTrains/comments/1hrppk0"
+    },
+    {
+      "record_id": "W061",
+      "query_group": "Q07",
+      "returned_rank": 20,
+      "title": "Melton railway station (Suffolk)",
+      "url": "https://en.wikipedia.org/wiki/Melton_railway_station_%28Suffolk%29"
+    },
+    {
+      "record_id": "W062",
+      "query_group": "Q07",
+      "returned_rank": 21,
+      "title": "Towards a generalized accessibility measure for transportation equity and efficiency",
+      "url": "https://arxiv.org/abs/2404.04985"
+    },
+    {
+      "record_id": "W063",
+      "query_group": "Q07",
+      "returned_rank": 22,
+      "title": "Transport economics",
+      "url": "https://en.wikipedia.org/wiki/Transport_economics"
+    },
+    {
+      "record_id": "W064",
+      "query_group": "Q07",
+      "returned_rank": 23,
+      "title": "Quantifying the Improvement of Accessibility achieved via Shared Mobility on Demand",
+      "url": "https://arxiv.org/abs/2507.13100"
+    },
+    {
+      "record_id": "W065",
+      "query_group": "Q07",
+      "returned_rank": 24,
+      "title": "Eddington Transport Report",
+      "url": "https://en.wikipedia.org/wiki/Eddington_Transport_Report"
+    },
+    {
+      "record_id": "W066",
+      "query_group": "Q07",
+      "returned_rank": 25,
+      "title": "Mobility-on-demand versus fixed-route transit systems: an evaluation of traveler preferences in low-income communities",
+      "url": "https://arxiv.org/abs/1901.07607"
+    },
+    {
+      "record_id": "W067",
+      "query_group": "Q07",
+      "returned_rank": 26,
+      "title": "Urban Spatial Structure and the Potential for Vehicle Miles Traveled Reduction: The Effects of Accessibility to Jobs within and beyond Employment Sub-centers",
+      "url": "https://arxiv.org/abs/2206.12613"
+    },
+    {
+      "record_id": "W068",
+      "query_group": "Q08",
+      "returned_rank": 1,
+      "title": "Melbourne’s outer suburbs face stark healthcare access gap without a car, new study finds",
+      "url": "https://www.unimelb.edu.au/newsroom/news/2026/may/melbournes-outer-suburbs-face-stark-healthcare-access-gap-without-a-car%2C-new-study-finds"
+    },
+    {
+      "record_id": "W069",
+      "query_group": "Q08",
+      "returned_rank": 2,
+      "title": "Public transport usability - Inclusive homes and communities - Australian Institute of Health and Welfare",
+      "url": "https://www.aihw.gov.au/australias-disability-strategy/outcomes/inclusive-homes-and-communities/public-transport-usability"
+    },
+    {
+      "record_id": "W070",
+      "query_group": "Q08",
+      "returned_rank": 3,
+      "title": "ACCESSIBLE TRANSPORT ON LOW TRAFFIC BUS ROUTES - TRID",
+      "url": "https://trid.trb.org/View/654421"
+    },
+    {
+      "record_id": "W071",
+      "query_group": "Q08",
+      "returned_rank": 4,
+      "title": "For Riders with Disabilities | Pace Suburban Bus",
+      "url": "https://www.pacebus.com/riders-disabilities"
+    },
+    {
+      "record_id": "W072",
+      "query_group": "Q08",
+      "returned_rank": 5,
+      "title": "Urban Density and Equity of Access to Social Services in Australian Urban Areas",
+      "url": "https://arxiv.org/abs/2511.09797"
+    },
+    {
+      "record_id": "W073",
+      "query_group": "Q08",
+      "returned_rank": 6,
+      "title": "Outer Urban Public Transport - REFORM SERIES - Improving accessibility in lower-density areas October 2018 - Infrastructure Australia",
+      "url": "https://www.readkong.com/page/outer-urban-public-transport-reform-series-improving-9434424"
+    },
+    {
+      "record_id": "W074",
+      "query_group": "Q08",
+      "returned_rank": 7,
+      "title": "Outer urban public transport: improving accessibility in lower-density areas - TRID",
+      "url": "https://trid.trb.org/View/1569725"
+    },
+    {
+      "record_id": "W075",
+      "query_group": "Q08",
+      "returned_rank": 8,
+      "title": "VAGO report shows urgent need to fix outer Melbourne's failing bus network - Outer Melbourne Councils",
+      "url": "https://outermelbournecouncils.com.au/vago-report-shows-urgent-need-to-fix-outer-melbournes-failing-bus-network/"
+    },
+    {
+      "record_id": "W076",
+      "query_group": "Q08",
+      "returned_rank": 9,
+      "title": "Whole Journey Guide | Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts",
+      "url": "https://www.infrastructure.gov.au/infrastructure-transport-vehicles/transport-accessibility/whole-journey-guide"
+    },
+    {
+      "record_id": "W077",
+      "query_group": "Q08",
+      "returned_rank": 10,
+      "title": "2022 Review of the Disability Standards for Accessible Public Transport - Final Report",
+      "url": "https://www.infrastructure.gov.au/sites/default/files/documents/2022-review-of-the-disability-standards-for-accessible-public-transport.pdf"
+    },
+    {
+      "record_id": "W078",
+      "query_group": "Q08",
+      "returned_rank": 11,
+      "title": "Microsoft Word - SUB_070823_DSAPT Review.doc",
+      "url": "https://www.infrastructure.gov.au/sites/default/files/migrated/transport/disabilities/review/files/submissions/68_VCOSS.pdf"
+    },
+    {
+      "record_id": "W079",
+      "query_group": "Q08",
+      "returned_rank": 12,
+      "title": "Transit Supportive Guidelines | Pace Suburban Bus",
+      "url": "https://pacebus.com/tsg"
+    },
+    {
+      "record_id": "W080",
+      "query_group": "Q08",
+      "returned_rank": 13,
+      "title": "Coordinated Plan Development - LA Metro",
+      "url": "https://www.metro.net/projects/coordinated-plan-development/"
+    },
+    {
+      "record_id": "W081",
+      "query_group": "Q08",
+      "returned_rank": 14,
+      "title": "accessible fixed routes | Pace Suburban Bus",
+      "url": "https://www.pacebus.com/accessible-fixed-routes"
+    },
+    {
+      "record_id": "W082",
+      "query_group": "Q08",
+      "returned_rank": 15,
+      "title": "Comparing private and public transport access to diabetic health services across inner, middle, and outer suburbs of Melbourne, Australia - PMC",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5899403/"
+    },
+    {
+      "record_id": "W083",
+      "query_group": "Q08",
+      "returned_rank": 16,
+      "title": "Improving Transport Accessibility for All (EN)",
+      "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2006/05/improving-transport-accessibility-for-all_g1gh6b3f/9789282101407-en.pdf"
+    },
+    {
+      "record_id": "W084",
+      "query_group": "Q08",
+      "returned_rank": 17,
+      "title": "Submission to the 2012 Reviewofthe Disability Standards for Accessible Public Transport 2002",
+      "url": "https://www.infrastructure.gov.au/sites/default/files/migrated/transport/disabilities/review/files/2012_submissions/No_49_City_of_Greater_Geelong.pdf"
+    },
+    {
+      "record_id": "W085",
+      "query_group": "Q08",
+      "returned_rank": 18,
+      "title": "Buses in Melbourne",
+      "url": "https://en.wikipedia.org/wiki/Buses_in_Melbourne"
+    },
+    {
+      "record_id": "W086",
+      "query_group": "Q08",
+      "returned_rank": 19,
+      "title": "Assessment of Disability Services in Virginia study, there is insufficient transportation of this type to accommodate rising demand.35 The outpaced demand for transportation also disproportionately impacts individuals with disabilities, who also tend to rely on public transportation to travel. Similarly, although Maryland has more extensive public transportation modes for individuals with disabilities, less extensive infrastructure in suburban areas reduces access for individuals with disabilities.",
+      "url": "https://www.mwcog.org/assets/1/28/FFX_final_withcover1.pdf"
+    },
+    {
+      "record_id": "W087",
+      "query_group": "Q08",
+      "returned_rank": 20,
+      "title": "Equity Scores for Public Transit Lines from Open-Data and Accessibility Measures",
+      "url": "https://arxiv.org/abs/2210.00128"
+    },
+    {
+      "record_id": "W088",
+      "query_group": "Q08",
+      "returned_rank": 21,
+      "title": "Suburban Rail Loop",
+      "url": "https://en.wikipedia.org/wiki/Suburban_Rail_Loop"
+    },
+    {
+      "record_id": "W089",
+      "query_group": "Q08",
+      "returned_rank": 22,
+      "title": "Pace Suburban Bus",
+      "url": "https://en.wikipedia.org/wiki/Pace_Suburban_Bus"
+    },
+    {
+      "record_id": "W090",
+      "query_group": "Q08",
+      "returned_rank": 23,
+      "title": "Evaluating Transit Accessibility to Education and Effects of Operational Delays in Japanese Regional Cities: A Case Study of Matsumoto City",
+      "url": "https://arxiv.org/abs/2605.09467"
+    },
+    {
+      "record_id": "W091",
+      "query_group": "Q08",
+      "returned_rank": 24,
+      "title": "Car Dependency in Urban Accessibility",
+      "url": "https://arxiv.org/abs/2604.01019"
+    },
+    {
+      "record_id": "W092",
+      "query_group": "Q08",
+      "returned_rank": 25,
+      "title": "Buses in Sydney",
+      "url": "https://en.wikipedia.org/wiki/Buses_in_Sydney"
+    },
+    {
+      "record_id": "W093",
+      "query_group": "Q08",
+      "returned_rank": 26,
+      "title": "Public transport",
+      "url": "https://en.wikipedia.org/wiki/Public_transport"
+    },
+    {
+      "record_id": "W094",
+      "query_group": "Q08",
+      "returned_rank": 27,
+      "title": "Stony Point line",
+      "url": "https://en.wikipedia.org/wiki/Stony_Point_line"
+    },
+    {
+      "record_id": "W095",
+      "query_group": "Q08",
+      "returned_rank": 28,
+      "title": "Is public transport accessible to people with disabilities?",
+      "url": "https://www.reddit.com/r/transit/comments/170rqb0"
+    },
+    {
+      "record_id": "W096",
+      "query_group": "Q08",
+      "returned_rank": 29,
+      "title": "Transportation for disabled folks",
+      "url": "https://www.reddit.com/r/washingtondc/comments/1hdksyt"
+    },
+    {
+      "record_id": "W097",
+      "query_group": "Q9",
+      "returned_rank": 1,
+      "title": "Improving Bus Service Levels and social equity through bus frequency modelling - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0966692316307347"
+    },
+    {
+      "record_id": "W098",
+      "query_group": "Q9",
+      "returned_rank": 2,
+      "title": "Improving Bus Service Levels and social equity through bus frequency modelling - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0966692316307347"
+    },
+    {
+      "record_id": "W099",
+      "query_group": "Q9",
+      "returned_rank": 3,
+      "title": "Multi-period bus frequency optimization and fleet rebalancing based on equity over time",
+      "url": "https://ideas.repec.org/a/kap/transp/v53y2026i6d10.1007_s11116-025-10623-8.html"
+    },
+    {
+      "record_id": "W100",
+      "query_group": "Q9",
+      "returned_rank": 4,
+      "title": "Improving Bus Service Levels and social equity through bus frequency modelling",
+      "url": "https://ideas.repec.org/a/eee/jotrge/v58y2017icp220-233.html"
+    },
+    {
+      "record_id": "W101",
+      "query_group": "Q9",
+      "returned_rank": 5,
+      "title": "Will bus travellers walk further for a more frequent service? An international study using a stated preference approach - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S0967070X17309022"
+    },
+    {
+      "record_id": "W102",
+      "query_group": "Q9",
+      "returned_rank": 6,
+      "title": "A spatially-explicit method for analyzing the equity of transit commuters' accessibility",
+      "url": "https://ideas.repec.org/a/eee/transa/v120y2019icp31-42.html"
+    },
+    {
+      "record_id": "W103",
+      "query_group": "Q9",
+      "returned_rank": 7,
+      "title": "Resilient bus services design in a multimodal network with uncertain metro system disruption - ScienceDirect",
+      "url": "https://doi.org/10.1016/j.trc.2025.105118"
+    },
+    {
+      "record_id": "W104",
+      "query_group": "Q9",
+      "returned_rank": 8,
+      "title": "Using MATSim-NYC to Optimize the Brooklyn Bus Network Redesign - C2SMART Home",
+      "url": "https://c2smart.engineering.nyu.edu/using-matsim-nyc-to-optimize-the-brooklyn-bus-network-redesign/"
+    },
+    {
+      "record_id": "W105",
+      "query_group": "Q9",
+      "returned_rank": 9,
+      "title": "Bus Service Level and Horizontal Equity Analysis in the Context of the Modifiable Areal Unit Problem",
+      "url": "https://www.mdpi.com/2220-9964/10/3/111"
+    },
+    {
+      "record_id": "W106",
+      "query_group": "Q9",
+      "returned_rank": 10,
+      "title": "Optimization of service frequency and vehicle size for automated bus systems with crowding externalities and travel time stochasticity - ScienceDirect",
+      "url": "https://doi.org/jnm3"
+    },
+    {
+      "record_id": "W107",
+      "query_group": "Q9",
+      "returned_rank": 11,
+      "title": "Optimal Design of Bus Transit Networks Incorporating BRT-Lane-Sharing",
+      "url": "https://ieeexplore.ieee.org/abstract/document/11595083"
+    },
+    {
+      "record_id": "W108",
+      "query_group": "Q9",
+      "returned_rank": 12,
+      "title": "Modeling the Effects of Public Transit Investments on Equity in Access to Employment in Washington | Urban Data Catalog",
+      "url": "https://datacatalog.urban.org/modeling-the-effects-of-public-transit-investments-on-equity-in-access-to-employment-in-washington-b0dbe9e923f5"
+    },
+    {
+      "record_id": "W109",
+      "query_group": "Q9",
+      "returned_rank": 13,
+      "title": "Equitable Public Bus Network Optimization for Social Good: A Case Study of Singapore",
+      "url": "https://facctconference.org/static/pdfs_2022/facct22-3533092.pdf"
+    },
+    {
+      "record_id": "W110",
+      "query_group": "Q9",
+      "returned_rank": 14,
+      "title": "Evoluindo resiliência em rotas de ônibus: Proposta de um método para a maximização de acessibilidade em cenários de incerteza por meio de algoritmo genético",
+      "url": "https://arxiv.org/abs/2506.20375"
+    },
+    {
+      "record_id": "W111",
+      "query_group": "Q9",
+      "returned_rank": 15,
+      "title": "World Bank Document",
+      "url": "https://documents1.worldbank.org/curated/en/929931556620501708/pdf/Supporting-Report-5-Shifting-Melaka-s-Mobility-Modal-Split.pdf"
+    },
+    {
+      "record_id": "W112",
+      "query_group": "Q9",
+      "returned_rank": 16,
+      "title": "Bus Frequency Optimization: When Waiting Time Matters in User Satisfaction",
+      "url": "https://arxiv.org/abs/2004.07812"
+    },
+    {
+      "record_id": "W113",
+      "query_group": "Q9",
+      "returned_rank": 17,
+      "title": "A Design Methodology for Bus Transit Networks with Coordinated Operations",
+      "url": "https://static.tti.tamu.edu/swutc.tamu.edu/publications/technicalreports/60016-1.pdf"
+    },
+    {
+      "record_id": "W114",
+      "query_group": "Q9",
+      "returned_rank": 18,
+      "title": "Crowding controls the scaling of bus frequency with demand",
+      "url": "https://arxiv.org/abs/2609.04520"
+    },
+    {
+      "record_id": "W115",
+      "query_group": "Q9",
+      "returned_rank": 19,
+      "title": "Effects of Bus Operations on Urban Networks",
+      "url": "https://archiv.ivt.ethz.ch/docs/students/sa450.pdf"
+    },
+    {
+      "record_id": "W116",
+      "query_group": "Q9",
+      "returned_rank": 20,
+      "title": "TECHNICAL NOTE No IDB-TN-2798",
+      "url": "https://publications.iadb.org/publications/english/document/The-Efficiency-of-Urban-Transport-Policies-in-Latin-American-Cities.pdf?download=true"
+    },
+    {
+      "record_id": "W117",
+      "query_group": "Q9",
+      "returned_rank": 21,
+      "title": "Reducing Total Trip Time and Vehicle Emission through Park-and-Ride -- methods and case-study",
+      "url": "https://arxiv.org/abs/2407.05572"
+    },
+    {
+      "record_id": "W118",
+      "query_group": "Q9",
+      "returned_rank": 22,
+      "title": "An adjustment framework for mitigating the impact of rail transit construction on bus operations",
+      "url": "https://www.nature.com/articles/s41598-022-14543-w.pdf"
+    },
+    {
+      "record_id": "W119",
+      "query_group": "Q9",
+      "returned_rank": 23,
+      "title": "Central Ohio Transit Authority",
+      "url": "https://en.wikipedia.org/wiki/Central_Ohio_Transit_Authority"
+    },
+    {
+      "record_id": "W120",
+      "query_group": "Q9",
+      "returned_rank": 24,
+      "title": "BusConnects",
+      "url": "https://en.wikipedia.org/wiki/BusConnects"
+    },
+    {
+      "record_id": "W121",
+      "query_group": "Q9",
+      "returned_rank": 25,
+      "title": "Division Bus Rapid Transit",
+      "url": "https://en.wikipedia.org/wiki/Division_Bus_Rapid_Transit"
+    },
+    {
+      "record_id": "W122",
+      "query_group": "Q9",
+      "returned_rank": 26,
+      "title": "Public transport in New Zealand",
+      "url": "https://en.wikipedia.org/wiki/Public_transport_in_New_Zealand"
+    },
+    {
+      "record_id": "W123",
+      "query_group": "Q10",
+      "returned_rank": 1,
+      "title": "Demand responsive transport - GOV.UK",
+      "url": "https://www.gov.uk/government/publications/demand-responsive-transport"
+    },
+    {
+      "record_id": "W124",
+      "query_group": "Q10",
+      "returned_rank": 2,
+      "title": "The Potential of Demand-Responsive Transport as a Complement to Public Transport: An Assessment Framework and an Empirical Evaluation - María J. Alonso-González, Theo Liu, Oded Cats, Niels Van Oort, Serge Hoogendoorn, 2018",
+      "url": "https://doi.org/10.1177/0361198118790842"
+    },
+    {
+      "record_id": "W125",
+      "query_group": "Q10",
+      "returned_rank": 3,
+      "title": "Demand responsive transport - GOV.UK",
+      "url": "https://www.gov.uk/government/publications/demand-responsive-transport/demand-responsive-transport"
+    },
+    {
+      "record_id": "W126",
+      "query_group": "Q10",
+      "returned_rank": 4,
+      "title": "A survey of Demand Responsive Transport in Great Britain - ScienceDirect",
+      "url": "https://doi.org/10.1016/j.tranpol.2013.11.004"
+    },
+    {
+      "record_id": "W127",
+      "query_group": "Q10",
+      "returned_rank": 5,
+      "title": "The Potential of Demand-Responsive Transport as a Complement to Public Transport: An Assessment Framework and an Empirical Evaluation - TU Delft Research Portal",
+      "url": "https://research.tudelft.nl/en/publications/the-potential-of-demand-responsive-transport-as-a-complement-to-p/"
+    },
+    {
+      "record_id": "W128",
+      "query_group": "Q10",
+      "returned_rank": 6,
+      "title": "The evaluation of demand responsive transport services in Europe - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0966692303000267/pdfft?md5=97628c6861e4c4d779469ca854cd9c86&pid=1-s2.0-S0966692303000267-main.pdf"
+    },
+    {
+      "record_id": "W129",
+      "query_group": "Q10",
+      "returned_rank": 7,
+      "title": "Rural Mobility Fund phase 1 evaluation: final report - GOV.UK",
+      "url": "https://www.gov.uk/government/publications/rural-mobility-fund-phase-1-evaluation-final-report"
+    },
+    {
+      "record_id": "W130",
+      "query_group": "Q10",
+      "returned_rank": 8,
+      "title": "The Potential of Demand-Responsive Transport as a Complement to Public Transport: An Assessment Framework and an Empirical Evaluation - TU Delft Research Portal",
+      "url": "https://research.tudelft.nl/en/publications/12234a16-a12e-419a-a361-3b9dd5e33085"
+    },
+    {
+      "record_id": "W131",
+      "query_group": "Q10",
+      "returned_rank": 9,
+      "title": "On-Demand Transit: Features, Benefits, Challenges, Costs, and Evaluation - National Laboratory of the Rockies",
+      "url": "https://research-hub.nlr.gov/en/publications/on-demand-transit-features-benefits-challenges-costs-and-evaluati/"
+    },
+    {
+      "record_id": "W132",
+      "query_group": "Q10",
+      "returned_rank": 10,
+      "title": "Why most DRT/Micro-Transits fail – What the survivors tell us about progress - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0739885920300937"
+    },
+    {
+      "record_id": "W133",
+      "query_group": "Q10",
+      "returned_rank": 11,
+      "title": "Prospect and evolution of the demand-responsive transport: price, subsidies, and market dynamics - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0965856426001576"
+    },
+    {
+      "record_id": "W134",
+      "query_group": "Q10",
+      "returned_rank": 12,
+      "title": "The Potential of Demand-Responsive Transport as a Complement to Public Transport: An Assessment Framework and an Empirical Evaluation - TRID",
+      "url": "https://trid.trb.org/View/1496272"
+    },
+    {
+      "record_id": "W135",
+      "query_group": "Q10",
+      "returned_rank": 13,
+      "title": "Demand-responsive transport",
+      "url": "https://en.wikipedia.org/wiki/Demand-responsive_transport"
+    },
+    {
+      "record_id": "W136",
+      "query_group": "Q10",
+      "returned_rank": 14,
+      "title": "On-Demand transport: governance, operation, modelling, and integration",
+      "url": "https://www.tandfonline.com/doi/pdf/10.1080/03081060.2025.2569148"
+    },
+    {
+      "record_id": "W137",
+      "query_group": "Q10",
+      "returned_rank": 15,
+      "title": "Implementation of a cost-benefit analysis of Demand-Responsive Transport with a Multi-Agent Transport Simulation",
+      "url": "https://arxiv.org/abs/2011.12869"
+    },
+    {
+      "record_id": "W138",
+      "query_group": "Q10",
+      "returned_rank": 16,
+      "title": "Sustainable Accessibility for All (EN)",
+      "url": "https://www.oecd-ilibrary.org/content/dam/oecd/en/publications/reports/2024/06/sustainable-accessibility-for-all_508c25df/5c91857c-en.pdf"
+    },
+    {
+      "record_id": "W139",
+      "query_group": "Q10",
+      "returned_rank": 17,
+      "title": "Data-Driven Computation of the Accessibility Provided by Demand-Responsive Transport",
+      "url": "https://arxiv.org/abs/2501.01898"
+    },
+    {
+      "record_id": "W140",
+      "query_group": "Q10",
+      "returned_rank": 18,
+      "title": "The Impact of Shared Autonomous Vehicles in Microtransit Systems: A Case Study in Atlanta",
+      "url": "https://arxiv.org/abs/2601.21046"
+    },
+    {
+      "record_id": "W141",
+      "query_group": "Q10",
+      "returned_rank": 19,
+      "title": "Demand Responsive Transit: Understanding Emerging Solutions",
+      "url": "https://es.wri.org/sites/default/files/Demand_Responsive_Transit_FINAL_0.pdf"
+    },
+    {
+      "record_id": "W142",
+      "query_group": "Q10",
+      "returned_rank": 20,
+      "title": "Research report 425 Demand responsive passenger transport in low-demand situations",
+      "url": "https://nzta.govt.nz/assets/resources/research/reports/425/docs/425.pdf"
+    },
+    {
+      "record_id": "W143",
+      "query_group": "Q10",
+      "returned_rank": 21,
+      "title": "Buses connecting communities: Government Response",
+      "url": "https://committees.parliament.uk/publications/50010/documents/269339/default/"
+    },
+    {
+      "record_id": "W144",
+      "query_group": "Q10",
+      "returned_rank": 22,
+      "title": "6. **Evaluating the potential of alternative service models, including demand responsive transport (DRT) and community transport, and other innovations or technologies which could support or replace buses serving less populated communities, and what steps the Government should take to support them.**",
+      "url": "https://committees.parliament.uk/writtenevidence/133434/pdf/"
+    },
+    {
+      "record_id": "W145",
+      "query_group": "Q10",
+      "returned_rank": 23,
+      "title": "Microtransit",
+      "url": "https://en.wikipedia.org/wiki/Microtransit"
+    },
+    {
+      "record_id": "W146",
+      "query_group": "Q10",
+      "returned_rank": 24,
+      "title": "Towards Understanding the Benefits and Challenges of Demand Responsive Public Transit- A Case Study in the City of Charlotte, NC",
+      "url": "https://arxiv.org/abs/2304.06467"
+    },
+    {
+      "record_id": "W147",
+      "query_group": "Q10",
+      "returned_rank": 25,
+      "title": "Paratransit",
+      "url": "https://en.wikipedia.org/wiki/Paratransit"
+    },
+    {
+      "record_id": "W148",
+      "query_group": "Q10",
+      "returned_rank": 26,
+      "title": "Demand responsive Transport",
+      "url": "https://www.reddit.com/r/transit/comments/1qdjgec/demand_responsive_transport/"
+    },
+    {
+      "record_id": "W149",
+      "query_group": "Q10",
+      "returned_rank": 27,
+      "title": "Telebus",
+      "url": "https://en.wikipedia.org/wiki/Telebus"
+    },
+    {
+      "record_id": "W150",
+      "query_group": "Q10",
+      "returned_rank": 28,
+      "title": "Lorain County Transit",
+      "url": "https://en.wikipedia.org/wiki/Lorain_County_Transit"
+    },
+    {
+      "record_id": "W151",
+      "query_group": "Q10",
+      "returned_rank": 29,
+      "title": "Shared transport",
+      "url": "https://en.wikipedia.org/wiki/Shared_transport"
+    },
+    {
+      "record_id": "W152",
+      "query_group": "Q10",
+      "returned_rank": 30,
+      "title": "Does demand responsive Transport (DRT) make sense for rural areas?",
+      "url": "https://www.reddit.com/r/transit/comments/1amqwri"
+    },
+    {
+      "record_id": "W153",
+      "query_group": "Q10",
+      "returned_rank": 31,
+      "title": "Demand-Responsive Transit — Never been able to get it to work",
+      "url": "https://www.reddit.com/r/transit/comments/1mx3s0l/demandresponsive_transit_never_been_able_to_get/"
+    },
+    {
+      "record_id": "W154",
+      "query_group": "Q10",
+      "returned_rank": 32,
+      "title": "PSA: demand-response is NOT transit.",
+      "url": "https://www.reddit.com/r/transit/comments/1kfa4mq"
+    },
+    {
+      "record_id": "W155",
+      "query_group": "Q10",
+      "returned_rank": 33,
+      "title": "What if public transit was like Uber? A small city ended its bus service to find out",
+      "url": "https://apnews.com/article/675f6f7a6e550a2ec8113bda5b001ffa"
+    },
+    {
+      "record_id": "W156",
+      "query_group": "Q10",
+      "returned_rank": 34,
+      "title": "Microtransit is here, but few Valley cities looking to continue its spread",
+      "url": "https://www.axios.com/local/phoenix/2023/09/06/microtransit-phoenix-valley-cities-spread"
+    },
+    {
+      "record_id": "W157",
+      "query_group": "Q10",
+      "returned_rank": 35,
+      "title": "From Scooters to Microtransit, Cities Are Embracing Alternatives to Short Car Trips",
+      "url": "https://time.com/7022399/micromobility-microtransit-cities-climate/"
+    },
+    {
+      "record_id": "W158",
+      "query_group": "Q11",
+      "returned_rank": 1,
+      "title": "Chapter 62",
+      "url": "https://house.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_62.html"
+    },
+    {
+      "record_id": "W159",
+      "query_group": "Q11",
+      "returned_rank": 2,
+      "title": "Powerica Limited - 19th August 2025 - Securities and Exchange Board of India - Gazette Notification PDF",
+      "url": "https://policyindex.ai/in/gazette/powerica-limited-xazen2"
+    },
+    {
+      "record_id": "W160",
+      "query_group": "Q11",
+      "returned_rank": 3,
+      "title": "CRITIS 2016: Critical Infrastructure Security Conference Proceedings",
+      "url": "https://studylib.net/doc/27267440/978-3-319-71368-7"
+    },
+    {
+      "record_id": "W161",
+      "query_group": "Q11",
+      "returned_rank": 4,
+      "title": "(PDF) Neighborhood change in North Denver: Municipal codes, cultural norms and public space",
+      "url": "https://www.researchgate.net/publication/275973665_Neighborhood_change_in_North_Denver_Municipal_codes_cultural_norms_and_public_space"
+    },
+    {
+      "record_id": "W162",
+      "query_group": "Q11",
+      "returned_rank": 5,
+      "title": "Chapter 62",
+      "url": "https://www3.ncleg.gov/EnactedLegislation/Statutes/HTML/ByChapter/Chapter_62.html"
+    },
+    {
+      "record_id": "W163",
+      "query_group": "Q11",
+      "returned_rank": 6,
+      "title": "ATSB",
+      "url": "https://www.atsb.gov.au/node?page=243"
+    },
+    {
+      "record_id": "W164",
+      "query_group": "Q11",
+      "returned_rank": 7,
+      "title": "IEEE Std 141: Electric Power Distribution for Industrial Plants",
+      "url": "https://studylib.net/doc/25864016/ieee-0141-1993-red-electric-power-distribution-for-industr"
+    },
+    {
+      "record_id": "W165",
+      "query_group": "Q11",
+      "returned_rank": 8,
+      "title": "Topological Analysis of Power Grid To Identify Vulnerable Transmission Lines and Nodes | PDF | Computer Network | Vertex (Graph Theory)",
+      "url": "https://www.scribd.com/document/708070917/53189576"
+    },
+    {
+      "record_id": "W166",
+      "query_group": "Q11",
+      "returned_rank": 9,
+      "title": "IEEE Std 141-1993 Electric Power Distribution for Industrial Plants",
+      "url": "https://studylib.net/doc/28254345/color_book_ieee_std_141_1993__red_book__recommended_pract..."
+    },
+    {
+      "record_id": "W167",
+      "query_group": "Q11",
+      "returned_rank": 10,
+      "title": "IEEE 141-1993 Red Book: Electric Power Distribution for Industrial Plants",
+      "url": "https://studylib.net/doc/28993175/ieee-std-141-1993-red-book--practice-for-electric-power-d..."
+    },
+    {
+      "record_id": "W168",
+      "query_group": "Q11",
+      "returned_rank": 11,
+      "title": "2018, Tjernberg, Lina Bertling - Infrastructure Asset Management With Power System Applications | PDF | Reliability Engineering",
+      "url": "https://www.scribd.com/document/707124164/1-2018-Tjernberg-Lina-Bertling-Infrastructure-Asset-Management-with-Power-System-Applications"
+    },
+    {
+      "record_id": "W169",
+      "query_group": "Q11",
+      "returned_rank": 12,
+      "title": "Modern Power Station Practice | PDF | Electrical Grid | Transformer",
+      "url": "https://pt.scribd.com/doc/82677232/Modern-Power-Station-Practice"
+    },
+    {
+      "record_id": "W170",
+      "query_group": "Q12",
+      "returned_rank": 1,
+      "title": "Demand responsive transport - GOV.UK",
+      "url": "https://www.gov.uk/government/publications/demand-responsive-transport/demand-responsive-transport"
+    },
+    {
+      "record_id": "W171",
+      "query_group": "Q12",
+      "returned_rank": 2,
+      "title": "Why most DRT/Micro-Transits fail – What the survivors tell us about progress - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0739885920300937"
+    },
+    {
+      "record_id": "W172",
+      "query_group": "Q12",
+      "returned_rank": 3,
+      "title": "Demand responsive transport - GOV.UK",
+      "url": "https://www.gov.uk/government/publications/demand-responsive-transport"
+    },
+    {
+      "record_id": "W173",
+      "query_group": "Q12",
+      "returned_rank": 4,
+      "title": "Demand-responsive transport",
+      "url": "https://en.wikipedia.org/wiki/Demand-responsive_transport"
+    },
+    {
+      "record_id": "W174",
+      "query_group": "Q12",
+      "returned_rank": 5,
+      "title": "A survey of Demand Responsive Transport in Great Britain - ScienceDirect",
+      "url": "https://doi.org/10.1016/j.tranpol.2013.11.004"
+    },
+    {
+      "record_id": "W175",
+      "query_group": "Q12",
+      "returned_rank": 6,
+      "title": "Demand responsive (DRT) and microtransit software | Shotl",
+      "url": "https://shotl.com/services/on-demand"
+    },
+    {
+      "record_id": "W176",
+      "query_group": "Q12",
+      "returned_rank": 7,
+      "title": "Demand responsive transport case studies - GOV.UK",
+      "url": "https://www.gov.uk/government/publications/demand-responsive-transport/demand-responsive-transport-case-studies"
+    },
+    {
+      "record_id": "W177",
+      "query_group": "Q12",
+      "returned_rank": 8,
+      "title": "(PDF) Why do demand responsive transport systems fail?",
+      "url": "https://www.researchgate.net/publication/42800012_Why_do_demand_responsive_transport_systems_fail"
+    },
+    {
+      "record_id": "W178",
+      "query_group": "Q12",
+      "returned_rank": 9,
+      "title": "Anticipatory demand planning for microtransit with strategic use of latent capacity at fixed stops - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1366554526002784"
+    },
+    {
+      "record_id": "W179",
+      "query_group": "Q12",
+      "returned_rank": 10,
+      "title": "On-demand minibus services beneficial in rural areas but face financial challenges, trials suggest | UWE Bristol",
+      "url": "https://www.uwe.ac.uk/news/demand-responsive-transport"
+    },
+    {
+      "record_id": "W180",
+      "query_group": "Q12",
+      "returned_rank": 11,
+      "title": "Demand responsive transit systems with time-dependent demand: User equilibrium, system optimum, and management strategy - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0191261515002374"
+    },
+    {
+      "record_id": "W181",
+      "query_group": "Q12",
+      "returned_rank": 12,
+      "title": "What Are the Requirements for Demand-Responsive Service? | FTA",
+      "url": "https://www.transit.dot.gov/what-are-requirements-demand-responsive-service"
+    },
+    {
+      "record_id": "W182",
+      "query_group": "Q12",
+      "returned_rank": 13,
+      "title": "Why most DRT/Micro-Transits fail – What the survivors tell us about progress - TRID",
+      "url": "https://trid.trb.org/View/1717848"
+    },
+    {
+      "record_id": "W183",
+      "query_group": "Q12",
+      "returned_rank": 14,
+      "title": "Research report 425 Demand responsive passenger transport in low-demand situations",
+      "url": "https://nzta.govt.nz/assets/resources/research/reports/425/docs/425.pdf"
+    },
+    {
+      "record_id": "W184",
+      "query_group": "Q12",
+      "returned_rank": 15,
+      "title": "Page 1 to 7",
+      "url": "https://www.find-tender.service.gov.uk/Notice/001998-2026/PDF"
+    },
+    {
+      "record_id": "W185",
+      "query_group": "Q12",
+      "returned_rank": 16,
+      "title": "DEMAND-RESPONSIVE TRANSIT DESIGN METHODS AND",
+      "url": "https://satc.org.za/archive19/assets/2a_04.pdf"
+    },
+    {
+      "record_id": "W186",
+      "query_group": "Q12",
+      "returned_rank": 17,
+      "title": "Transforming Transportation",
+      "url": "https://publictransportresearchgroup.info/wp-content/uploads/2020/03/Demand-Responsive-Micro-Transit.pdf"
+    },
+    {
+      "record_id": "W187",
+      "query_group": "Q12",
+      "returned_rank": 18,
+      "title": "Microtransit",
+      "url": "https://en.wikipedia.org/wiki/Microtransit"
+    },
+    {
+      "record_id": "W188",
+      "query_group": "Q12",
+      "returned_rank": 19,
+      "title": "DEMAND RESPONSIVE",
+      "url": "https://www.smacker-toolbox.eu/pdfs/GUIDELINES/SMACKER_D.T3.5.2_Guidelines%20for%20Public%20transport%20Service%20providers_final.pdf"
+    },
+    {
+      "record_id": "W189",
+      "query_group": "Q12",
+      "returned_rank": 20,
+      "title": "Telebus",
+      "url": "https://en.wikipedia.org/wiki/Telebus"
+    },
+    {
+      "record_id": "W190",
+      "query_group": "Q12",
+      "returned_rank": 21,
+      "title": "Connect2Wiltshire",
+      "url": "https://en.wikipedia.org/wiki/Connect2Wiltshire"
+    },
+    {
+      "record_id": "W191",
+      "query_group": "Q12",
+      "returned_rank": 22,
+      "title": "Demand-Responsive Transit — Never been able to get it to work",
+      "url": "https://www.reddit.com/r/transit/comments/1mx3s0l/demandresponsive_transit_never_been_able_to_get/"
+    },
+    {
+      "record_id": "W192",
+      "query_group": "Q12",
+      "returned_rank": 23,
+      "title": "需求响应式运输",
+      "url": "https://zh.wikipedia.org/wiki/%E9%9C%80%E6%B1%82%E5%93%8D%E5%BA%94%E5%BC%8F%E8%BF%90%E8%BE%93"
+    },
+    {
+      "record_id": "W193",
+      "query_group": "Q12",
+      "returned_rank": 24,
+      "title": "Dial-a-ride problem with modular platooning and en-route transfers",
+      "url": "https://arxiv.org/abs/2212.00289"
+    },
+    {
+      "record_id": "W194",
+      "query_group": "Q12",
+      "returned_rank": 25,
+      "title": "WESTlink (on-demand bus)",
+      "url": "https://en.wikipedia.org/wiki/WESTlink_%28on-demand_bus%29"
+    },
+    {
+      "record_id": "W195",
+      "query_group": "Q12",
+      "returned_rank": 26,
+      "title": "Robust and Flexible Microtransit Design: Chance-Constrained Dial-a-Ride Problem with Soft Time Windows",
+      "url": "https://arxiv.org/abs/2506.20788"
+    },
+    {
+      "record_id": "W196",
+      "query_group": "Q12",
+      "returned_rank": 27,
+      "title": "Does demand responsive Transport (DRT) make sense for rural areas?",
+      "url": "https://www.reddit.com/r/transit/comments/1amqwri"
+    },
+    {
+      "record_id": "W197",
+      "query_group": "Q12",
+      "returned_rank": 28,
+      "title": "Real-world Meeting Points for Shared Demand-Responsive Transportation Systems",
+      "url": "https://arxiv.org/abs/1709.08488"
+    },
+    {
+      "record_id": "W198",
+      "query_group": "Q12",
+      "returned_rank": 29,
+      "title": "Adaptive Transit Design: Optimizing Fixed and Demand Responsive Multi-Modal Transportation via Continuous Approximation",
+      "url": "https://arxiv.org/abs/2112.14748"
+    },
+    {
+      "record_id": "W199",
+      "query_group": "Q12",
+      "returned_rank": 30,
+      "title": "Criteria for deciding when to use demand response instead of buses?",
+      "url": "https://www.reddit.com/r/urbanplanning/comments/1fnnzan/criteria_for_deciding_when_to_use_demand_response/"
+    },
+    {
+      "record_id": "W200",
+      "query_group": "Q12",
+      "returned_rank": 31,
+      "title": "PSA: demand-response is NOT transit.",
+      "url": "https://www.reddit.com/r/transit/comments/1kfa4mq"
+    },
+    {
+      "record_id": "W201",
+      "query_group": "Q12",
+      "returned_rank": 32,
+      "title": "What if public transit was like Uber? A small city ended its bus service to find out",
+      "url": "https://apnews.com/article/675f6f7a6e550a2ec8113bda5b001ffa"
+    },
+    {
+      "record_id": "W202",
+      "query_group": "Q13",
+      "returned_rank": 1,
+      "title": "US20260195822A1 - Ai-driven healthcare platform for integrated and automated care workflows - Google Patents",
+      "url": "https://patents.google.com/patent/US20260195822A1/en"
+    },
+    {
+      "record_id": "W203",
+      "query_group": "Q13",
+      "returned_rank": 2,
+      "title": "US20260010773A1 - Temporal dynamics simulation in matmul-free neural architectures - Google Patents",
+      "url": "https://patents.google.com/patent/US20260010773A1/en"
+    },
+    {
+      "record_id": "W204",
+      "query_group": "Q13",
+      "returned_rank": 3,
+      "title": "US20260148042A1 - Content-Aware Hybrid Quantum Enhanced Optimization and Orchestration Layer - Google Patents",
+      "url": "https://patents.google.com/patent/US20260148042A1/en"
+    },
+    {
+      "record_id": "W205",
+      "query_group": "Q14",
+      "returned_rank": 1,
+      "title": "Evaluation of the £2 bus fare cap - GOV.UK",
+      "url": "https://www.gov.uk/government/publications/evaluation-of-the-2-bus-fare-cap"
+    },
+    {
+      "record_id": "W206",
+      "query_group": "Q14",
+      "returned_rank": 2,
+      "title": "Fare-free transit in the United States: Effects on ridership, service, and finances - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0967070X26003288"
+    },
+    {
+      "record_id": "W207",
+      "query_group": "Q14",
+      "returned_rank": 3,
+      "title": "Evaluating the effects of fare characteristics on fare equity: A scoping review - ScienceDirect",
+      "url": "https://doi.org/10.1016/j.jpubtr.2025.100140"
+    },
+    {
+      "record_id": "W208",
+      "query_group": "Q14",
+      "returned_rank": 4,
+      "title": "Should Urban Transit Subsidies Be Reduced? - American Economic Association",
+      "url": "https://www.aeaweb.org/articles?id=10.1257%2Faer.99.3.700"
+    },
+    {
+      "record_id": "W209",
+      "query_group": "Q14",
+      "returned_rank": 5,
+      "title": "Fare Policy and Vertical Equity: The Trade-off between Affordability and Cost Recovery - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1077291X22000613"
+    },
+    {
+      "record_id": "W210",
+      "query_group": "Q14",
+      "returned_rank": 6,
+      "title": "MIT Low-income Fare Study",
+      "url": "https://equitytransit.mit.edu/"
+    },
+    {
+      "record_id": "W211",
+      "query_group": "Q14",
+      "returned_rank": 7,
+      "title": "Assessing the Equity Implications of Innovative Transit Fare Programs",
+      "url": "https://its.ucla.edu/project/assessing-the-equity-implications-of-innovative-transit-fare-programs/"
+    },
+    {
+      "record_id": "W212",
+      "query_group": "Q14",
+      "returned_rank": 8,
+      "title": "Fare enough: how European cities design affordable public transport schemes - EU Urban Mobility Observatory",
+      "url": "https://urban-mobility-observatory.transport.ec.europa.eu/resources/case-studies/fare-enough-how-european-cities-design-affordable-public-transport-schemes_en?prefLang=de"
+    },
+    {
+      "record_id": "W213",
+      "query_group": "Q14",
+      "returned_rank": 9,
+      "title": "Title VI Fare Change Equity Analysis: Low-Income Bus Fare Reduction",
+      "url": "https://mkcclegisearch.kingcounty.gov/View.ashx?GUID=38E9CCDD-5919-41ED-982F-B7D2DF1F06F2&ID=13327277&M=F"
+    },
+    {
+      "record_id": "W214",
+      "query_group": "Q14",
+      "returned_rank": 10,
+      "title": "Taking a “free” ride: Where do we stand on free or low fare public transport and where do we go next?",
+      "url": "https://ideas.repec.org/a/eee/trapol/v186y2026ics0967070x26002118.html"
+    },
+    {
+      "record_id": "W215",
+      "query_group": "Q14",
+      "returned_rank": 11,
+      "title": "Re-examining fare-free public transport for greater inclusivity - ScienceDirect",
+      "url": "https://doi.org/10.1016/j.trip.2025.101558"
+    },
+    {
+      "record_id": "W216",
+      "query_group": "Q14",
+      "returned_rank": 12,
+      "title": "Read \"Fare-Free Transit Evaluation Framework\" at NAP.edu",
+      "url": "https://www.nationalacademies.org/read/26732/chapter/6"
+    },
+    {
+      "record_id": "W217",
+      "query_group": "Q14",
+      "returned_rank": 13,
+      "title": "Philadelphia’s Zero Fare Transit Pilot Program | Urban Institute",
+      "url": "https://www.urban.org/research/publication/philadelphias-zero-fare-transit-pilot-program"
+    },
+    {
+      "record_id": "W218",
+      "query_group": "Q14",
+      "returned_rank": 14,
+      "title": "Fare-Free Bus Service and CO2 Reductions: Evidence from a Natural Experiment",
+      "url": "https://arxiv.org/abs/2601.02190"
+    },
+    {
+      "record_id": "W219",
+      "query_group": "Q14",
+      "returned_rank": 15,
+      "title": "Appendix D - Fair Pass Evaluation Framework",
+      "url": "https://www.toronto.ca/legdocs/mmis/2016/ex/bgrd/backgroundfile-98471.pdf"
+    },
+    {
+      "record_id": "W220",
+      "query_group": "Q14",
+      "returned_rank": 16,
+      "title": "Distributional welfare impacts and compensatory transit strategies under NYC congestion pricing",
+      "url": "https://arxiv.org/abs/2510.06416"
+    },
+    {
+      "record_id": "W221",
+      "query_group": "Q14",
+      "returned_rank": 17,
+      "title": "World Bank Document",
+      "url": "https://documents1.worldbank.org/curated/en/099103124131039015/pdf/BOSIB1f5343dd00801b7d91f5ac932523ee.pdf"
+    },
+    {
+      "record_id": "W222",
+      "query_group": "Q14",
+      "returned_rank": 18,
+      "title": "Equity-aware Design and Timing of Fare-free Transit Zoning under Demand Uncertainty",
+      "url": "https://arxiv.org/abs/2502.08731"
+    },
+    {
+      "record_id": "W223",
+      "query_group": "Q14",
+      "returned_rank": 19,
+      "title": "Fares Fair",
+      "url": "https://en.wikipedia.org/wiki/Fares_Fair"
+    },
+    {
+      "record_id": "W224",
+      "query_group": "Q14",
+      "returned_rank": 20,
+      "title": "Reduced fare program",
+      "url": "https://en.wikipedia.org/wiki/Reduced_fare_program"
+    },
+    {
+      "record_id": "W225",
+      "query_group": "Q14",
+      "returned_rank": 21,
+      "title": "Public Transport Council",
+      "url": "https://en.wikipedia.org/wiki/Public_Transport_Council"
+    },
+    {
+      "record_id": "W226",
+      "query_group": "Q14",
+      "returned_rank": 22,
+      "title": "Bus transport in the United Kingdom",
+      "url": "https://en.wikipedia.org/wiki/Bus_transport_in_the_United_Kingdom"
+    },
+    {
+      "record_id": "W227",
+      "query_group": "Q14",
+      "returned_rank": 23,
+      "title": "Fare capping",
+      "url": "https://en.wikipedia.org/wiki/Fare_capping"
+    },
+    {
+      "record_id": "W228",
+      "query_group": "Q14",
+      "returned_rank": 24,
+      "title": "Mobility-on-demand versus fixed-route transit systems: an evaluation of traveler preferences in low-income communities",
+      "url": "https://arxiv.org/abs/1901.07607"
+    },
+    {
+      "record_id": "W229",
+      "query_group": "Q14",
+      "returned_rank": 25,
+      "title": "Ever since the free bus scheme, travelling by bus has become a struggle",
+      "url": "https://www.reddit.com/r/andhra_pradesh/comments/1wsatlw/ever_since_the_free_bus_scheme_travelling_by_bus/"
+    },
+    {
+      "record_id": "W230",
+      "query_group": "Q14",
+      "returned_rank": 26,
+      "title": "Community Transit",
+      "url": "https://en.wikipedia.org/wiki/Community_Transit"
+    },
+    {
+      "record_id": "W231",
+      "query_group": "Q14",
+      "returned_rank": 27,
+      "title": "Low-income subway, bus and commuter rail riders in Boston could be getting cheaper fares",
+      "url": "https://apnews.com/article/d6647b5082972597aa493ec1276b6cb1"
+    },
+    {
+      "record_id": "W232",
+      "query_group": "Q14",
+      "returned_rank": 28,
+      "title": "Aren't socio economic conditions warranting free bus travel nearly absent in our state?",
+      "url": "https://www.reddit.com/r/NewKeralaRevolution/comments/1teeu47/arent_socio_economic_conditions_warranting_free/"
+    },
+    {
+      "record_id": "W233",
+      "query_group": "Q14",
+      "returned_rank": 29,
+      "title": "No bus fare? No problem - the ride's free",
+      "url": "https://www.axios.com/2022/12/08/free-bus-service"
+    },
+    {
+      "record_id": "W234",
+      "query_group": "Q14",
+      "returned_rank": 30,
+      "title": "Massachusetts governor wants fare cuts for low income riders",
+      "url": "https://apnews.com/article/e606164305d01fb857ec12e32539b29a"
+    },
+    {
+      "record_id": "W235",
+      "query_group": "Q14",
+      "returned_rank": 31,
+      "title": "(Cantonese request) Public Light Bus - reduced fare for connecting after an MTR trip",
+      "url": "https://www.reddit.com/r/HongKong/comments/1dyuajv"
+    },
+    {
+      "record_id": "W236",
+      "query_group": "Q14",
+      "returned_rank": 32,
+      "title": "Call to extend 20% bus fare reduction to private sector",
+      "url": "https://www.reddit.com/r/ireland/comments/15r1irw"
+    },
+    {
+      "record_id": "W237",
+      "query_group": "Q14",
+      "returned_rank": 33,
+      "title": "Is Karnataka’s free bus scheme for women overwhelming public transport capacity?",
+      "url": "https://www.reddit.com/r/KarnatakaRajya/comments/1sjeqxn/is_karnatakas_free_bus_scheme_for_women/"
+    },
+    {
+      "record_id": "W238",
+      "query_group": "Q14",
+      "returned_rank": 34,
+      "title": "Opinion | Something Surprising Happens When Bus Rides Are Free",
+      "url": "https://www.reddit.com/r/nyc/comments/1r4kkm4/opinion_something_surprising_happens_when_bus/"
+    },
+    {
+      "record_id": "W239",
+      "query_group": "Q14",
+      "returned_rank": 35,
+      "title": "Should Karnataka reconsider the free bus scheme for women considering rising fuel prices?",
+      "url": "https://www.reddit.com/r/bangalore/comments/1tdl615/should_karnataka_reconsider_the_free_bus_scheme/"
+    },
+    {
+      "record_id": "W240",
+      "query_group": "Q14",
+      "returned_rank": 36,
+      "title": "Should the bus be free? -- \"Free buses\" is one of the big ideas that helped Zohran Mamdani win the Democratic mayoral primary in New York City. But the track record in cities that have stopped collecting fares is mixed.",
+      "url": "https://www.reddit.com/r/transit/comments/1o84u3z"
+    },
+    {
+      "record_id": "W241",
+      "query_group": "Q15",
+      "returned_rank": 1,
+      "title": "Transport Integration Act 2010 | legislation.vic.gov.au",
+      "url": "https://www.legislation.vic.gov.au/in-force/acts/transport-integration-act-2010/038"
+    },
+    {
+      "record_id": "W242",
+      "query_group": "Q15",
+      "returned_rank": 2,
+      "title": "Transport Integration Act 2010 | legislation.vic.gov.au",
+      "url": "https://www.legislation.vic.gov.au/in-force/acts/transport-integration-act-2010/088"
+    },
+    {
+      "record_id": "W243",
+      "query_group": "Q15",
+      "returned_rank": 3,
+      "title": "Transport Integration Act 2010 | legislation.vic.gov.au",
+      "url": "https://www.legislation.vic.gov.au/in-force/acts/transport-integration-act-2010/033"
+    },
+    {
+      "record_id": "W244",
+      "query_group": "Q15",
+      "returned_rank": 4,
+      "title": "Transport Integration Act 2010 | legislation.vic.gov.au",
+      "url": "https://www.legislation.vic.gov.au/as-made/acts/transport-integration-act-2010"
+    },
+    {
+      "record_id": "W245",
+      "query_group": "Q15",
+      "returned_rank": 5,
+      "title": "S320201112.pdf",
+      "url": "https://www.legislation.vic.gov.au/sites/default/files/2020-11/Authorising%20Acts%20under%20which%20there%20are%20principal%20statutory%20rules%20in%20force_2.pdf"
+    },
+    {
+      "record_id": "W246",
+      "query_group": "Q15",
+      "returned_rank": 6,
+      "title": "A620200619.pdf",
+      "url": "https://www.legislation.vic.gov.au/sites/default/files/2020-06/Authorising%20Acts%20under%20which%20there%20are%20principal%20statutory%20rules%20in%20force_4.pdf"
+    },
+    {
+      "record_id": "W247",
+      "query_group": "Q15",
+      "returned_rank": 7,
+      "title": "S320200522.pdf",
+      "url": "https://www.legislation.vic.gov.au/sites/default/files/2020-05/Authorising%20Acts%20under%20which%20there%20are%20principal%20statutory%20rules%20in%20force_1.pdf"
+    },
+    {
+      "record_id": "W248",
+      "query_group": "Q15",
+      "returned_rank": 8,
+      "title": "S320200703.pdf",
+      "url": "https://www.legislation.vic.gov.au/sites/default/files/2020-07/Authorising%20Acts%20under%20which%20there%20are%20principal%20statutory%20rules%20in%20force_0.pdf"
+    },
+    {
+      "record_id": "W249",
+      "query_group": "Q15",
+      "returned_rank": 9,
+      "title": "S320210503.pdf",
+      "url": "https://www.legislation.vic.gov.au/sites/default/files/2021-05/Authorising%20Acts%20under%20which%20there%20are%20principal%20statutory%20rules%20in%20force.pdf"
+    },
+    {
+      "record_id": "W250",
+      "query_group": "Q15",
+      "returned_rank": 10,
+      "title": "A620200226.pdf",
+      "url": "https://www.legislation.vic.gov.au/sites/default/files/2020-03/Authorising%20Acts%20under%20which%20there%20are%20principal%20statutory%20rules%20in%20force.pdf"
+    },
+    {
+      "record_id": "W251",
+      "query_group": "Q15",
+      "returned_rank": 11,
+      "title": "Transport Legislation Amendment (Port Reforms and Other Matters) Bill 2022 | legislation.vic.gov.au",
+      "url": "https://www.legislation.vic.gov.au/bills/transport-legislation-amendment-port-reforms-and-other-matters-bill-2022"
+    },
+    {
+      "record_id": "W252",
+      "query_group": "Q17",
+      "returned_rank": 1,
+      "title": "Bus network redesigns and public transit equity analysis: Evaluating system-wide changes in Richmond, Virginia - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2214367X22001429"
+    },
+    {
+      "record_id": "W253",
+      "query_group": "Q17",
+      "returned_rank": 2,
+      "title": "Is Title VI enough? A review of bus network redesign equity analyses - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1361920925003153"
+    },
+    {
+      "record_id": "W254",
+      "query_group": "Q17",
+      "returned_rank": 3,
+      "title": "TCRP Synthesis 159: Assessing Equity and Identifying Impacts Associated with Bus Network Redesigns • Foursquare ITP",
+      "url": "https://www.foursquareitp.com/articles/tcrp-synthesis-159-assessing-equity-and-identifying-impacts-associated-with-bus-network-redesigns/"
+    },
+    {
+      "record_id": "W255",
+      "query_group": "Q17",
+      "returned_rank": 4,
+      "title": "Is Title VI enough? A review of bus network redesign equity analyses",
+      "url": "https://eurekamag.com/research/095/526/095526884.php"
+    },
+    {
+      "record_id": "W256",
+      "query_group": "Q17",
+      "returned_rank": 5,
+      "title": "Assessing Equity and Identifying Impacts Associated with Bus Network Redesigns | The National Academies Press",
+      "url": "https://www.nationalacademies.org/publications/26487"
+    },
+    {
+      "record_id": "W257",
+      "query_group": "Q17",
+      "returned_rank": 6,
+      "title": "Bus network redesigns and public transit equity analysis: Evaluating system-wide changes in Richmond, Virginia - TRID",
+      "url": "https://trid.trb.org/View/2083966"
+    },
+    {
+      "record_id": "W258",
+      "query_group": "Q17",
+      "returned_rank": 7,
+      "title": "Bus Network Redesign: Project Details | Bus Network Redesign | MBTA",
+      "url": "https://mbta.getanchor.io/projects/bus-network-redesign/bus-network-redesign-project-details.html"
+    },
+    {
+      "record_id": "W259",
+      "query_group": "Q17",
+      "returned_rank": 8,
+      "title": "Is Title VI enough? A review of bus network redesign equity analyses - TRID",
+      "url": "https://trid.trb.org/View/2577384"
+    },
+    {
+      "record_id": "W260",
+      "query_group": "Q17",
+      "returned_rank": 9,
+      "title": "Is Title VI enough? A review of bus network redesign equity analyses - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/abs/pii/S1361920925003153"
+    },
+    {
+      "record_id": "W261",
+      "query_group": "Q17",
+      "returned_rank": 10,
+      "title": "Assessing Equity and Identifying Impacts Associated with Bus Network Redesigns - TRID",
+      "url": "https://trid.trb.org/View/1919009"
+    },
+    {
+      "record_id": "W262",
+      "query_group": "Q17",
+      "returned_rank": 11,
+      "title": "Assessing Equity and Identifying Impacts Associated with Bus Network Redesigns - APTA",
+      "url": "https://www.apta.com/resource/assessing-equity-and-identifying-impacts-associated-with-bus-network-redesigns/"
+    },
+    {
+      "record_id": "W263",
+      "query_group": "Q17",
+      "returned_rank": 12,
+      "title": "Revising bus routes to improve access for the transport disadvantaged: A reinforcement learning approach - ScienceDirect",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1077291X23000024"
+    },
+    {
+      "record_id": "W264",
+      "query_group": "Q17",
+      "returned_rank": 13,
+      "title": "Equity Impacts of Public Transit Network Redesign with Shared Autonomous Mobility Services",
+      "url": "https://arxiv.org/abs/2501.01615"
+    },
+    {
+      "record_id": "W265",
+      "query_group": "Q17",
+      "returned_rank": 14,
+      "title": "BUS NETWORK REDESIGNS:",
+      "url": "https://repository.upenn.edu/server/api/core/bitstreams/7e754570-1ce6-42d8-9d82-434a88b09dcf/content"
+    },
+    {
+      "record_id": "W266",
+      "query_group": "Q17",
+      "returned_rank": 15,
+      "title": "PART 2 [PN]",
+      "url": "https://onlinepubs.trb.org/onlinepubs/tcrp/docs/TCRP_H56_Final_Report.pdf"
+    },
+    {
+      "record_id": "W267",
+      "query_group": "Q17",
+      "returned_rank": 16,
+      "title": "World Bank Document",
+      "url": "https://documents1.worldbank.org/curated/en/716381480965677299/pdf/WPS7904.pdf"
+    },
+    {
+      "record_id": "W268",
+      "query_group": "Q17",
+      "returned_rank": 17,
+      "title": "Restoring Accessibility During Urban Rail Disruptions via Bus Network Redesign",
+      "url": "https://arxiv.org/abs/2411.08782"
+    },
+    {
+      "record_id": "W269",
+      "query_group": "Q17",
+      "returned_rank": 18,
+      "title": "Public Transport Network Design for Equality of Accessibility via Message Passing Neural Networks and Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2410.08841"
+    },
+    {
+      "record_id": "W270",
+      "query_group": "Q17",
+      "returned_rank": 19,
+      "title": "A public transit network optimization model for equitable access to social services",
+      "url": "https://arxiv.org/abs/2106.06881"
+    },
+    {
+      "record_id": "W271",
+      "query_group": "Q17",
+      "returned_rank": 20,
+      "title": "Metro Rapid",
+      "url": "https://en.wikipedia.org/wiki/Metro_Rapid"
+    },
+    {
+      "record_id": "W272",
+      "query_group": "Q17",
+      "returned_rank": 21,
+      "title": "BusConnects",
+      "url": "https://en.wikipedia.org/wiki/BusConnects"
+    },
+    {
+      "record_id": "W273",
+      "query_group": "Q17",
+      "returned_rank": 22,
+      "title": "Public transport in New Plymouth",
+      "url": "https://en.wikipedia.org/wiki/Public_transport_in_New_Plymouth"
+    },
+    {
+      "record_id": "W274",
+      "query_group": "Q17",
+      "returned_rank": 23,
+      "title": "Q72 (New York City bus)",
+      "url": "https://en.wikipedia.org/wiki/Q72_%28New_York_City_bus%29"
+    },
+    {
+      "record_id": "W275",
+      "query_group": "Q17",
+      "returned_rank": 24,
+      "title": "Woodhaven and Cross Bay Boulevards buses",
+      "url": "https://en.wikipedia.org/wiki/Woodhaven_and_Cross_Bay_Boulevards_buses"
+    },
+    {
+      "record_id": "W276",
+      "query_group": "Q17",
+      "returned_rank": 25,
+      "title": "Q14 and Q38 buses",
+      "url": "https://en.wikipedia.org/wiki/Q14_and_Q38_buses"
+    },
+    {
+      "record_id": "W277",
+      "query_group": "Q17",
+      "returned_rank": 26,
+      "title": "Study: DART redesign boosts job access but creates gaps",
+      "url": "https://www.axios.com/local/des-moines/2026/07/28/dart-redesign-job-access-suburban-gaps"
+    },
+    {
+      "record_id": "W278",
+      "query_group": "Q17",
+      "returned_rank": 27,
+      "title": "DART is dropping about half its bus stops",
+      "url": "https://www.axios.com/local/des-moines/2026/04/15/dart-des-moines-bus-stops-faster-distance"
+    },
+    {
+      "record_id": "W279",
+      "query_group": "Q17",
+      "returned_rank": 28,
+      "title": "Weigh in on SEPTA's bus redesign plans",
+      "url": "https://www.axios.com/local/philadelphia/2022/05/27/septa-bus-redesign-options-feedback"
+    },
+    {
+      "record_id": "W280",
+      "query_group": "Q18",
+      "returned_rank": 1,
+      "title": "Brooklyn Rd/Coburns Rd - Transport Victoria",
+      "url": "https://transport.vic.gov.au/stop/14416/brooklyn-rdcoburns-rd/2/bus"
+    },
+    {
+      "record_id": "W281",
+      "query_group": "Q18",
+      "returned_rank": 2,
+      "title": "455-459 Bus Timetable – Melton town services – Transport Victoria",
+      "url": "https://railmaps.au/routedetails.php?TableSelect=3337"
+    },
+    {
+      "record_id": "W282",
+      "query_group": "Q18",
+      "returned_rank": 3,
+      "title": "457 Route: Stops, Schedules & Maps - Melton - Melton Station via Melton West",
+      "url": "https://busmaps.com/en/australia/public_transit-line-457-4195063647-4068385005"
+    },
+    {
+      "record_id": "W283",
+      "query_group": "Q18",
+      "returned_rank": 4,
+      "title": "Church St/O'Neills Rd - Transport Victoria",
+      "url": "https://transport.vic.gov.au/stop/11629/church-stoneills-rd/2/bus"
+    },
+    {
+      "record_id": "W284",
+      "query_group": "Q18",
+      "returned_rank": 5,
+      "title": "Swan St/O'Neills Rd - Transport Victoria",
+      "url": "https://transport.vic.gov.au/stop/11156/swan-stoneills-rd/2/bus"
+    },
+    {
+      "record_id": "W285",
+      "query_group": "Q18",
+      "returned_rank": 6,
+      "title": "455-459 Bus Timetable – Melton town services – Transport Victoria",
+      "url": "https://railmaps.com.au/routedetails.php?TableSelect=3337"
+    },
+    {
+      "record_id": "W286",
+      "query_group": "Q18",
+      "returned_rank": 7,
+      "title": "MC4 | Centrebus",
+      "url": "https://www.centrebus.info/bus-services/mc4/"
+    },
+    {
+      "record_id": "W287",
+      "query_group": "Q18",
+      "returned_rank": 8,
+      "title": "TransportVic - Melton Bus Interchange/Palmerston Street",
+      "url": "https://transportvic.me/bus/timings/melton/melton-bus-interchange-palmerston-street"
+    },
+    {
+      "record_id": "W288",
+      "query_group": "Q18",
+      "returned_rank": 9,
+      "title": "MC4 | Centrebus",
+      "url": "https://www.centrebus.info/bus-services/mc4/?allTimes=True&clearCache=false&date=2025-12-21&forceAllTimes=True&guid=4595a011-t019-5a9e-ye9b-1014a58t800p&operatorCode=&print=true&serviceName=MC4&ticketerCode=depot-6-MC4"
+    },
+    {
+      "record_id": "W289",
+      "query_group": "Q18",
+      "returned_rank": 10,
+      "title": "457 Melton - Melton Station PTV Metro Bus Schedule",
+      "url": "https://rideschedules.com/457-melton-station-ptv-185801.html"
+    },
+    {
+      "record_id": "W290",
+      "query_group": "Q18",
+      "returned_rank": 11,
+      "title": "MC4 | Centrebus",
+      "url": "https://www.centrebus.info/bus-services/mc4/?allTimes=True&clearCache=false&forceAllTimes=True&guid=4595a011-t019-5a9e-ye9b-1014a58t800p&operatorCode=&print=true&serviceName=MC4&ticketerCode=MC4"
+    },
+    {
+      "record_id": "W291",
+      "query_group": "Q18",
+      "returned_rank": 12,
+      "title": "Joy St/Coburns Rd stop - Routes, Timetables, and Fares",
+      "url": "https://moovitapp.com/index/en-gb/public_transportation-Joy_St_Coburns_Rd-Melbourne-stop_7978843-2803"
+    },
+    {
+      "record_id": "W292",
+      "query_group": "Q18",
+      "returned_rank": 13,
+      "title": "2026 Bus Information",
+      "url": "https://assets.heathdale.vic.edu.au/media/2026-Melton-Bus-Stops-Updated-14-May-2026.pdf"
+    },
+    {
+      "record_id": "W293",
+      "query_group": "Q18",
+      "returned_rank": 14,
+      "title": "Routes 457, 458 and X58 bus timetable",
+      "url": "https://cdn.metrotas.com.au/uploads/2026/05/Mount-Nelson-to-Hobart.pdf"
+    },
+    {
+      "record_id": "W294",
+      "query_group": "Q18",
+      "returned_rank": 15,
+      "title": "N",
+      "url": "https://www.timetable.org.au/wp-content/uploads/2026/03/tabletalk202601issue.pdf"
+    },
+    {
+      "record_id": "W295",
+      "query_group": "Q18",
+      "returned_rank": 16,
+      "title": "Melton Integrated Transport Strategy",
+      "url": "https://www.melton.vic.gov.au/files/assets/public/v/1/services/building-planning-amp-transport/strategic-planning/studies-strategies-guidelines/moving-melton-its/moving_melton_background_report.pdf"
+    },
+    {
+      "record_id": "W296",
+      "query_group": "Q18",
+      "returned_rank": 17,
+      "title": "City of Melton",
+      "url": "https://timetable-archive.transportvic.me/assets/bc5de02844ea6f2b442443c679bd5efcb47e8a04.pdf"
+    },
+    {
+      "record_id": "W297",
+      "query_group": "Q18",
+      "returned_rank": 18,
+      "title": "457 bus time schedule & line route map",
+      "url": "https://appassets.mvtdev.com/map/41/l/2803/71366550.pdf"
+    },
+    {
+      "record_id": "W298",
+      "query_group": "Q18",
+      "returned_rank": 19,
+      "title": "PSA: Extra NYE bus services tonight not showing properly on Transport Victoria's web timetables/Next 5 Departures",
+      "url": "https://www.reddit.com/r/melbourne/comments/1q0627k/psa_extra_nye_bus_services_tonight_not_showing/"
+    },
+    {
+      "record_id": "W299",
+      "query_group": "Q18",
+      "returned_rank": 20,
+      "title": "List of bus routes in Singapore",
+      "url": "https://en.wikipedia.org/wiki/List_of_bus_routes_in_Singapore"
+    },
+    {
+      "record_id": "W300",
+      "query_group": "Q18",
+      "returned_rank": 21,
+      "title": "List of bus routes in Melbourne",
+      "url": "https://en.wikipedia.org/wiki/List_of_bus_routes_in_Melbourne"
+    },
+    {
+      "record_id": "W301",
+      "query_group": "Q18",
+      "returned_rank": 22,
+      "title": "Melton, Victoria",
+      "url": "https://en.wikipedia.org/wiki/Melton%2C_Victoria"
+    },
+    {
+      "record_id": "W302",
+      "query_group": "Q18",
+      "returned_rank": 23,
+      "title": "Melton South, Victoria",
+      "url": "https://en.wikipedia.org/wiki/Melton_South%2C_Victoria"
+    },
+    {
+      "record_id": "W303",
+      "query_group": "Q18",
+      "returned_rank": 24,
+      "title": "Better bus services from Sunday 4 October 2026",
+      "url": "https://www.reddit.com/r/MelbourneTrains/comments/1wkep7g/better_bus_services_from_sunday_4_october_2026/"
+    },
+    {
+      "record_id": "W304",
+      "query_group": "Q18",
+      "returned_rank": 25,
+      "title": "1,680 new weekly bus services to be introduced on 26 July with 2 new routes and 2 routes improved",
+      "url": "https://www.reddit.com/r/MelbourneTrains/comments/1uxbctr/1680_new_weekly_bus_services_to_be_introduced_on/"
+    },
+    {
+      "record_id": "W305",
+      "query_group": "Q18",
+      "returned_rank": 26,
+      "title": "New bus Route 464 and upgrades to Route 463",
+      "url": "https://www.reddit.com/r/MelbourneTrains/comments/1wkdomj/new_bus_route_464_and_upgrades_to_route_463/"
+    }
+  ]
+}

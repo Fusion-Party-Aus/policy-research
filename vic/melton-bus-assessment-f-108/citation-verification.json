@@ -1,0 +1,187 @@
+[
+  {
+    "source_id": "S12",
+    "doi": "10.1016/j.retrec.2020.100895",
+    "crossref_url": "https://api.crossref.org/works/10.1016/j.retrec.2020.100895",
+    "crossref_http": 200,
+    "title": "Why most DRT/Micro-Transits fail – What the survivors tell us about progress",
+    "authors": [
+      {
+        "given": "Graham",
+        "family": "Currie"
+      },
+      {
+        "given": "Nicholas",
+        "family": "Fournier"
+      }
+    ],
+    "publication": {
+      "date-parts": [
+        [
+          2020,
+          11
+        ]
+      ]
+    },
+    "container": [
+      "Research in Transportation Economics"
+    ],
+    "volume": "83",
+    "issue": null,
+    "pages": "100895",
+    "article_number": "100895",
+    "crossref_receipt_sha256": "282e5fd01e9b2ddb47d8d1560a1cb874dfe0c029e106c69ed0267de864f82b5f",
+    "crossref_update_to": null,
+    "semantic_scholar_http": 200,
+    "semantic_scholar_id": "288ba9d939a9ea9f1faf8716550021c19cbe4c14",
+    "semantic_scholar_title": "Why most DRT/Micro-Transits fail – What the survivors tell us about progress",
+    "semantic_scholar_year": 2020,
+    "identity_result": "title/DOI/year match; author initials retained when metadata differ",
+    "retraction_status": "not certified; update metadata alone insufficient",
+    "full_text": "indexed abstract/preview only"
+  },
+  {
+    "source_id": "S13",
+    "doi": "10.1177/0361198118790842",
+    "crossref_url": "https://api.crossref.org/works/10.1177/0361198118790842",
+    "crossref_http": 200,
+    "title": "The Potential of Demand-Responsive Transport as a Complement to Public Transport: An Assessment Framework and an Empirical Evaluation",
+    "authors": [
+      {
+        "given": "María J.",
+        "family": "Alonso-González"
+      },
+      {
+        "given": "Theo",
+        "family": "Liu"
+      },
+      {
+        "given": "Oded",
+        "family": "Cats"
+      },
+      {
+        "given": "Niels",
+        "family": "Van Oort"
+      },
+      {
+        "given": "Serge",
+        "family": "Hoogendoorn"
+      }
+    ],
+    "publication": {
+      "date-parts": [
+        [
+          2018,
+          8,
+          27
+        ]
+      ]
+    },
+    "container": [
+      "Transportation Research Record: Journal of the Transportation Research Board"
+    ],
+    "volume": "2672",
+    "issue": "8",
+    "pages": "879-889",
+    "article_number": null,
+    "crossref_receipt_sha256": "ae9b7ec6e01c542959cb8b9b6c55e9cfe6600425aefff3683f0aeb2c1955e22a",
+    "crossref_update_to": null,
+    "semantic_scholar_http": 200,
+    "semantic_scholar_id": "8a5f80db97a58085ba7c3f5ecb8c5955c5a4f2d7",
+    "semantic_scholar_title": "The Potential of Demand-Responsive Transport as a Complement to Public Transport: An Assessment Framework and an Empirical Evaluation",
+    "semantic_scholar_year": 2018,
+    "identity_result": "title/DOI/year match; author initials retained when metadata differ",
+    "retraction_status": "not certified; update metadata alone insufficient",
+    "full_text": "publisher HTML sections read"
+  },
+  {
+    "source_id": "S14",
+    "doi": "10.1016/j.tbs.2022.12.002",
+    "crossref_url": "https://api.crossref.org/works/10.1016/j.tbs.2022.12.002",
+    "crossref_http": 200,
+    "title": "Bus network redesigns and public transit equity analysis: Evaluating system-wide changes in Richmond, Virginia",
+    "authors": [
+      {
+        "given": "Haijing",
+        "family": "Liu"
+      },
+      {
+        "given": "Mashrur",
+        "family": "Rahman"
+      },
+      {
+        "given": "Alex",
+        "family": "Karner"
+      }
+    ],
+    "publication": {
+      "date-parts": [
+        [
+          2023,
+          4
+        ]
+      ]
+    },
+    "container": [
+      "Travel Behaviour and Society"
+    ],
+    "volume": "31",
+    "issue": null,
+    "pages": "151-165",
+    "article_number": null,
+    "crossref_receipt_sha256": "3dc45547d5df56fa830638b64ff8a79c0bbaf77efadffe7d8c32837af20c46d5",
+    "crossref_update_to": null,
+    "semantic_scholar_http": 200,
+    "semantic_scholar_id": "f7617d9f9b7315f7325147ec1c21d4122d08d4ad",
+    "semantic_scholar_title": "Bus network redesigns and public transit equity analysis: Evaluating system-wide changes in Richmond, Virginia",
+    "semantic_scholar_year": 2023,
+    "identity_result": "title/DOI/year match; author initials retained when metadata differ",
+    "retraction_status": "not certified; update metadata alone insufficient",
+    "full_text": "indexed abstract/preview only"
+  },
+  {
+    "source_id": "S15",
+    "doi": "10.1016/j.jtrangeo.2016.12.005",
+    "crossref_url": "https://api.crossref.org/works/10.1016/j.jtrangeo.2016.12.005",
+    "crossref_http": 200,
+    "title": "Improving Bus Service Levels and social equity through bus frequency modelling",
+    "authors": [
+      {
+        "given": "Maurici",
+        "family": "Ruiz"
+      },
+      {
+        "given": "Joana Maria",
+        "family": "Segui-Pons"
+      },
+      {
+        "given": "Jaume",
+        "family": "Mateu-LLadó"
+      }
+    ],
+    "publication": {
+      "date-parts": [
+        [
+          2017,
+          1
+        ]
+      ]
+    },
+    "container": [
+      "Journal of Transport Geography"
+    ],
+    "volume": "58",
+    "issue": null,
+    "pages": "220-233",
+    "article_number": null,
+    "crossref_receipt_sha256": "5f673896a1f45710b33692c1f76b7f2e34a0dcbd88e666a45452fffc392cb864",
+    "crossref_update_to": null,
+    "semantic_scholar_http": 200,
+    "semantic_scholar_id": "cfaddaa5cff870ddc08d59afeaa18d9aeef62796",
+    "semantic_scholar_title": "Improving Bus Service Levels and social equity through bus frequency modelling",
+    "semantic_scholar_year": 2017,
+    "identity_result": "title/DOI/year match; author initials retained when metadata differ",
+    "retraction_status": "not certified; update metadata alone insufficient",
+    "full_text": "indexed abstract/preview only"
+  }
+]
