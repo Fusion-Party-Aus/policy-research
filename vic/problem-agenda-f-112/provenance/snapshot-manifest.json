@@ -1,0 +1,22 @@
+[
+  {
+    "file": "provenance/policies.json",
+    "sha256": "717057699d69ece07f90afd1e58d9473f5b35c2275a2a63a3ecb4f43169e32bf",
+    "source_archive": "F-107 revised attachment 01a1453f-001b-7e08-9537-d3e8c9a4325c",
+    "archive_sha256": "8e610b6b67364e11ab3d0d4e19d5cdee4f358c7aeb5b9a6db096f42bbf504b78",
+    "archive_member": "policy-research/vic/corpus/policies.json",
+    "original_retrieved_at": "2026-10-16T14:16:29Z",
+    "endpoint": "https://vic.fusionparty.org.au/api/policies.json",
+    "copy_created_at": "2026-10-16T15:18:17.119022+00:00"
+  },
+  {
+    "file": "provenance/research.json",
+    "sha256": "df30a305755ffdb09e8bc07eea8ec3be7c04cebcd7da70283b5e778de11d8482",
+    "source_archive": "F-107 revised attachment 01a1453f-001b-7e08-9537-d3e8c9a4325c",
+    "archive_sha256": "8e610b6b67364e11ab3d0d4e19d5cdee4f358c7aeb5b9a6db096f42bbf504b78",
+    "archive_member": "policy-research/vic/corpus/research.json",
+    "original_retrieved_at": "2026-10-16T14:16:29Z",
+    "endpoint": "https://vic.fusionparty.org.au/api/research.json",
+    "copy_created_at": "2026-10-16T15:18:17.119022+00:00"
+  }
+]
