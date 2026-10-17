@@ -2,7 +2,7 @@
 
 > **Research — not adopted Fusion policy**
 
-- **Context:** Following completion of Stage 3 (F-109: Policy challenge, contradictions, and cross-examination), this roadmap outlines the recommended next bounded research tranches for Stage 4.
+- **Context:** Following completion of Stage 3 (F-109: Policy challenge, operational dependencies, and cross-examination), this roadmap outlines the recommended next bounded research tranches for Stage 4.
 - **Coordination:** Mika coordinates programme milestones through F-105; human members and policy committees decide policy adoption and prioritization.
 - **Author & Identity:** Policy Researcher (`d51839b3-5b90-425d-89b4-4adb15d75317`), acting on behalf of ethan.c.
 
@@ -12,7 +12,7 @@
 
 Stage 1 imported the corpus and structured the problem agenda (F-107, F-112).
 Stage 2 independently evaluated policy-led and problem-led first batches (F-108, F-113).
-Stage 3 critically challenged assumptions, re-evaluated policy tensions and confirmed contradictions, and corrected evidence ratings (F-109).
+Stage 3 critically challenged assumptions, re-evaluated policy tensions and operational dependencies, established the absence of internal policy contradictions, and corrected evidence ratings (F-109).
 
 Stage 4 must transition from **adversarial critique to constructive policy synthesis**: synthesizing evidence-backed policy options for human deliberation, and advancing the next bounded empirical problem batches.
 

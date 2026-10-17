@@ -5,11 +5,16 @@
 - **Scope:** Systemic review across Fusion Party Victoria's 41 adopted platform policies (Sanity corpus snapshot October 2026).
 - **Analytical Standard:** Quotes operative policy provisions verbatim (including qualifications, conditionality, and funding notes), testing whether paired policies apply to the same circumstances, geography, institutions, and time horizons.
 - **Classification Rubric:**
-  - **Confirmed Contradiction:** Reserved strictly for commitments that genuinely cannot coexist as written under any plausible interpretation.
-  - **Implementation Dependency / Sequencing:** Policies whose co-existence requires explicit chronological sequencing or prior operational conditions.
+  - **Confirmed Contradiction:** Reserved strictly for two adopted commitments that genuinely cannot coexist as written under any plausible interpretation (Conclusion: Zero confirmed contradictions across the adopted 41-policy corpus).
+  - **Implementation Dependency / Sequencing:** Policies whose co-existence requires explicit chronological sequencing or prior operational conditions (e.g. sovereign fund accumulation preceding dividends).
+  - **Operational Rostering & Cost Dependency:** Operational adjustments requiring driver shift, layover, or contract rescheduling rather than statutory conflict (e.g. timetable staggering).
+  - **Policy Design Rationale & Transition Mechanism:** Deliberate policy levers designed to expose inefficiency and drive network transition (e.g. FlexiRide standards).
+  - **Intervention Design Safeguard:** Necessary statutory or procedural protections required in proposed program models (e.g. RTA s 91V lease severance in rent arrears relief).
+  - **Research Evidence Rating Correction:** Corrections to overstated analytical claims in prior research stages rather than adopted platform text (e.g. cashable vs economic benefits in F-113).
   - **Policy Tension / Distributional Trade-Off:** Policies whose simultaneous pursuit creates competing resource demands or divergent stakeholder impacts requiring political balancing.
-  - **Drafting Ambiguity / Clarification:** Policies whose high-level principles are compatible, but where statutory drafting requires explicit definitions or carve-outs to avoid misinterpretation.
-  - **Evidence Gap / Empirical Question:** Propositions whose compatibility hinges on empirical parameters requiring quantitative modeling rather than deductive critique.
+  - **Drafting Ambiguity / Clarification:** Policies whose high-level principles are compatible, but where statutory drafting requires explicit definitions or carve-outs to avoid misinterpretation (e.g. citizen jury baselines).
+  - **Evidence Gap / Empirical Question:** Propositions whose compatibility hinges on empirical parameters requiring quantitative modeling rather than deductive critique (e.g. windfall gains tax vs development feasibility).
+  - **Platform Scope Omission:** Gaps where the adopted corpus omits core state government functions (e.g. health, family violence, climate adaptation).
 - **Author & Identity:** Policy Researcher (`d51839b3-5b90-425d-89b4-4adb15d75317`), acting on behalf of ethan.c.
 - **Status:** Internal research deliverable for human policy review and political deliberation. AI role-separated critique; does not constitute independent human peer review.
 
@@ -197,21 +202,23 @@ A critical lesson from human review on F-109 is that **adversarial critique must
 
 ---
 
-## 3. Retained Legitimate Methodological Criticisms and Confirmed Contradictions
+## 3. Retained Legitimate Methodological Criticisms, Operational Dependencies, and Research Corrections
 
-Applying strict evidentiary criteria, the following core methodological challenges are confirmed and retained:
+Applying the strict standard—that a *confirmed contradiction* requires two actual commitments in adopted policies that genuinely cannot coexist as written—the analysis concludes that **there are zero confirmed contradictions between adopted policies across the 41-policy Victorian corpus**. 
 
-1. **Confirmed Contradiction: The "Costless Stagger" Fallacy (`policy-stagger-the-timetables` C08 / F01):**
-   - *Operative Conflict:* The policy key point and economic logic categorically assert that headway staggering can be delivered at "zero resource cost."
-   - *Refutation:* Altering bus schedules on shared corridors breaks driver shift rosters governed by the *Bus Safety Act 2009* (Vic) mandatory fatigue rules and transport industrial award meal breaks, requiring additional vehicle blocks or driver shift lines, and triggering contract variation claims under Metropolitan Bus Service Contracts. The claim of zero resource cost is factually and operationally contradicted.
-2. **Confirmed Contradiction: Uncosted FlexiRide Standards (`policy-end-flexiride-s-fake-flexibility` C12 / F03):**
-   - *Operative Conflict:* The policy key point asserts that tighter 15-minute response times and door-to-door delivery standards require "no additional service resources."
-   - *Refutation:* Peer-reviewed transit microeconomics (Currie & Fournier 2020) proves that microtransit in low-density suburban areas suffers from a severe geometric productivity ceiling (1–2.5 passengers/vehicle hour). Demanding tighter standards and door-to-door service without additional subsidies is mathematically unfeasible and triggers extreme per-trip costs ($35–$50).
-3. **Confirmed Policy Tension: The Bus-to-Rail Transfer Trade-Off (F02):**
-   - Offsetting Route 457 headways to smooth a 3-stop shared corridor on Brooklyn Road breaks the timed transfer to V/Line trains at Melton Station for rail commuters originating in Kurunjang and Westlake.
-4. **Confirmed Fiscal Reality: Non-Cashable Savings vs State Budget Cash (F17):**
-   - Averted downstream crisis costs (hospital and justice congestion) are societal and economic benefits, not cashable Treasury dividends that can balance operating budgets or fund recurrent cash brokerage.
-5. **Confirmed Platform Scope Omission (F18):**
+Candidate issues identified in earlier stages have been properly classified into operational dependencies, policy design mechanisms, intervention safeguards, and research corrections:
+
+1. **Operational Rostering & Cost Dependency: Timetable Staggering (`policy-stagger-the-timetables` C08 / F01):**
+   - *Evidentiary Finding:* Existing driver fatigue requirements under the *Bus Safety Act 2009* (Vic) and industrial award meal breaks do not inherently prevent shifting bus departures by 15 or 20 minutes. Shifting departure times requires adjusting vehicle blocks, driver duties, and depot layovers within contractual variation frameworks. It is an operational rostering and contract cost dependency, not an unresolvable statutory contradiction.
+2. **Intentional Policy Design Rationale: FlexiRide Service Standards (`policy-end-flexiride-s-fake-flexibility` C12 / F03):**
+   - *Evidentiary Finding:* Imposing stringent service standards (15-minute booking lead times, door-to-door delivery) is an intentional policy mechanism designed to expose the poor geometric economics of demand-responsive microtransit and incentivize its replacement with efficient fixed-route buses. The policy text explicitly recognizes that service and contract changes require costing and added driver funding at renewal. The operational risk is not an internal policy contradiction, but the adequacy of the transition mechanism to avoid service gaps while fixed-route networks are deployed.
+3. **Intervention Design Safeguard: Domestic Violence Tenancy Severance (VP-001 / F16):**
+   - *Evidentiary Finding:* No adopted Fusion policy requires unsafe joint tenancies to be preserved. When evaluating rent arrears relief interventions in research stage F-113, ensuring that joint leases do not trap victim-survivors is an essential operational safeguard. The required mechanism is embedding mandatory caseworker screening and fast-tracked statutory lease severance (*Residential Tenancies Act 1997* s 91V) into proposed program guidelines.
+4. **Research Evidence Rating Correction: Non-Cashable Savings vs State Budget Cash (VP-001 / F17):**
+   - *Evidentiary Finding:* No adopted Fusion policy promised downstream hospital emergency department or court congestion reductions as cashable Treasury revenue. That claim was an analytical overstatement originating in Stage 2 research (F-113, Option 1 / A08). Averted hospital and justice presentations represent broader economic and societal welfare gains, not cash revenues that flow into the state budget. This is a research evidence rating correction (RC09), not an adopted policy contradiction.
+5. **Confirmed Policy Tension: The Bus-to-Rail Transfer Trade-Off (F02):**
+   - Offsetting Route 457 headways to smooth a 3-stop shared corridor on Brooklyn Road breaks the timed transfer to V/Line trains at Melton Station for rail commuters originating in Kurunjang and Westlake, illustrating an inherent spatial-versus-corridor network trade-off.
+6. **Confirmed Platform Scope Omission (F18):**
    - The adopted Victorian corpus contains 41 policies but completely omits health and hospitals, family violence, emergency shelter, climate adaptation, and child protection, which together account for over 70% of state recurrent spending.
 
 ---
