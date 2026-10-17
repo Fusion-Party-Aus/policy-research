@@ -27,12 +27,12 @@
     {
       "check": "has_critical_findings",
       "passed": true,
-      "detail": "Found 9 CRITICAL"
+      "detail": "Found 4 CRITICAL"
     },
     {
       "check": "has_major_findings",
       "passed": true,
-      "detail": "Found 16 MAJOR"
+      "detail": "Found 20 MAJOR"
     },
     {
       "check": "has_verified_strengths_no_material_weakness",
@@ -92,8 +92,8 @@
   ],
   "counts": {
     "severity_findings": 27,
-    "critical_findings": 9,
-    "major_findings": 16,
+    "critical_findings": 4,
+    "major_findings": 20,
     "verified_strengths": 2,
     "challenge_matrix_entries": 25,
     "rating_corrections": 12,

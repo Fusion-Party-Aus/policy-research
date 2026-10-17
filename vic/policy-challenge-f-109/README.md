@@ -42,7 +42,7 @@ flowchart TD
 ### Key Analytical Takeaways:
 1. **The Spatial-Social Divide:** Suburban disadvantage cannot be resolved by spatial timetable engineering alone while acute housing eviction churn continues. Conversely, preserving tenancies in isolated transit deserts traps families in deep transport poverty. Transport and housing policy must be co-designed.
 2. **The Missing Social Platform:** Fusion's adopted platform of 41 policies is concentrated in transport engineering, urban zoning, and democratic integrity, but **contains almost zero adopted policy in healthcare, family violence, emergency shelter, climate adaptation, or child protection**—the areas comprising >70% of state spending.
-3. **Confirmed Policy Contradictions:** Identified direct mechanism clashes across the corpus, including mandatory station upzoning vs binding local citizen jury vetoes, universal cash dividends vs sovereign capital accumulation in a $178B debt state, and parking levies vs outer-suburban park-and-ride equity.
+3. **Rigorous Re-Evaluation of Policy Interactions:** Operative text, geographic scope, and time horizons were tested against strict evidentiary standards. Confirmed contradictions were reserved strictly for claims that cannot coexist as written (zero-cost headway shifts, uncosted DRT guarantees, unsevered joint tenancies in domestic violence, non-cashable Treasury offsets). Broader platform intersections were reclassified as implementation dependencies, sequencing requirements, geographic exemptions, empirical modeling questions, and drafting clarifications.
 4. **Evidence Corrections:** Factually validated Sunday bus departure clustering and baseline homelessness figures, while refuting categorical zero-cost claims, microtransit expansion guarantees, and untargeted rent arrears efficiency.
 
 ---
@@ -70,19 +70,17 @@ All artifacts in this package are self-contained, reproducible, and verifiable v
 
 ## 3. Severity Register Summary (F01–F27)
 
-The severity register (`severity-register.csv`) categorises all identified findings by impact and confirmed status:
+The severity register (`severity-register.csv`) categorises all 27 identified findings by impact and confirmed status:
 
-- **CRITICAL Findings (8):**
-  - `F01`: "Costless Stagger" Fallacy (`policy-stagger-the-timetables` C08) — Confirmed contradiction with driver fatigue rules and enterprise agreements.
-  - `F03`: DRT Microtransit Fiscal Collapse (`policy-end-flexiride-s-fake-flexibility` C11/C12) — Confirmed geometric failure; $35–$50 per-trip subsidies.
-  - `F06`: Capital Mega-projects vs Operating Bus Hours (`policy-build-the-melton-line`) — Confirmed borrowing crowd-out in a $178B debt budget.
-  - `F09`: Cash Arrears Grant Deadweight Loss (F-113 Option 1 / A02) — 80%+ deadweight loss unless screened for formal VCAT possession notices.
-  - `F14`: Market Upzoning vs Tenant Displacement (`policy-homes-and-stations-code`) — Demolition of older affordable flats accelerates low-income eviction.
-  - `F16`: Coerced Co-Tenancy & Domestic Violence Liability (F-113 A07) — Joint lease retention traps victim-survivors without mandatory RTA s 91V severance.
-  - `F18`: Severe Scope Omission of Core Social Policy — Adopted platform completely omits health, family violence, and climate adaptation.
-  - `F23`: Universal Dividend vs Crisis Triage Fiscal Cannibalisation (`policy-pay-every-victorian`) — Universal cash payouts crowd out targeted crisis services.
-- **MAJOR Findings (17):**
-  - Covers rail transfer severance (`F02`), 1km transit sprawl hazard (`F04`), grid walking displacement (`F05`), commuter parking levies (`F07`), franchise clawback risks (`F08`), landlord subsidy capture (`F10`), 24-month chronic poverty exit (`F11`), VCAT repayment traps (`F12`), VCAT listing congestion (`F13`), social housing capacity ceilings (`F15`), non-cashable Treasury offsets (`F17`), housing tractability bias (`F19`), siloed domestic violence framing (`F20`), outer transport poverty under-ranking (`F21`), child protection sentinel suppression (`F22`), citizen jury upzoning vetoes (`F24`), and sovereign fund debt borrowing (`F25`).
+- **CRITICAL Findings (4):**
+  - `F01`: "Costless Stagger" Fallacy (`policy-stagger-the-timetables` C08) — Confirmed contradiction with driver fatigue rules (*Bus Safety Act 2009*) and enterprise agreement shift blocks.
+  - `F03`: DRT Microtransit Fiscal Collapse (`policy-end-flexiride-s-fake-flexibility` C11/C12) — Confirmed contradiction with microtransit geometric cost realities ($35–$50 per trip).
+  - `F16`: Coerced Co-Tenancy & Domestic Violence Safety Failure (F-113 A07) — Confirmed contradiction with survivor safety unless statutory lease severance (RTA s 91V) is enforced.
+  - `F18`: Severe Scope Omission of Core Social Policy — Confirmed systemic platform omission: platform lacks adopted policies in health, family violence, and climate adaptation.
+- **MAJOR Findings (20):**
+  - Covers rail transfer severance (`F02`), 1km transit sprawl hazard (`F04`), grid walking displacement (`F05`), capital borrowing vs operating bus hours (`F06`), commuter parking levies (`F07`), franchise clawback operational risks (`F08`), targeting specificity in cash arrears (`F09`), landlord subsidy capture (`F10`), 24-month chronic poverty exit (`F11`), VCAT repayment hardship (`F12`), VCAT listing congestion (`F13`), windfall gains tax vs development feasibility (`F14`), social housing capacity ceilings (`F15`), non-cashable Treasury offsets (`F17`), housing tractability bias (`F19`), siloed domestic violence framing (`F20`), outer transport poverty under-ranking (`F21`), child protection sentinel suppression (`F22`), universal dividend vs crisis triage prioritization (`F23`), and sovereign fund debt borrowing sequencing (`F25`).
+- **MINOR Findings (1):**
+  - `F24`: Deliberative Citizen Juries vs Statewide Density Standards — Drafting ambiguity and implementation dependency; Key Point 2 of `policy-communities-set-policy` already specifies that local assemblies operate within statewide planning standards.
 - **VERIFIED STRENGTHS / NO MATERIAL WEAKNESS (2):**
   - `F26`: Open government presumption and whistleblower integrity protections are robust, sound, and evidence-aligned.
   - `F27`: Melton Sunday scheduled departure clustering on Brooklyn Road (Route 457/459) is a mathematically verified GTFS fact.

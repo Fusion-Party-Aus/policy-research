@@ -12,9 +12,9 @@
 
 Stage 1 imported the corpus and structured the problem agenda (F-107, F-112).
 Stage 2 independently evaluated policy-led and problem-led first batches (F-108, F-113).
-Stage 3 critically challenged assumptions, uncovered confirmed contradictions, and corrected evidence ratings (F-109).
+Stage 3 critically challenged assumptions, re-evaluated policy tensions and confirmed contradictions, and corrected evidence ratings (F-109).
 
-Stage 4 must transition from **adversarial critique to constructive policy synthesis**: resolving the confirmed contradictions, drafting actionable amendment options for human consideration, and advancing the next bounded empirical problem batches.
+Stage 4 must transition from **adversarial critique to constructive policy synthesis**: synthesizing evidence-backed policy options for human deliberation, and advancing the next bounded empirical problem batches.
 
 ---
 
@@ -41,15 +41,15 @@ flowchart TD
     B --> Stream2
 ```
 
-### Workstream 4A: Policy Platform Harmonisation & Amendment Drafting
+### Workstream 4A: Policy Platform Harmonisation & Deliberation Options
 1. **Station Upzoning and Tenant Protection Synthesis:**
-   - Develop model statutory amendments to `policy-homes-and-stations-code` integrating:
-     - Mandatory 20% permanent social and affordable housing contributions for code-assessable developments within 800m of railway stations;
-     - A statutory "Right-of-Return" and relocation compensation guarantee for existing tenants displaced by redevelopment of older residential flats;
-     - Demolition restrictions for existing low-rent stock until replacement social housing is constructed.
-2. **Harmonising Deliberative Democracy and State Planning:**
-   - Draft a constitutional and administrative hierarchy reconciling `policy-homes-and-stations-code` with `policy-communities-set-policy`.
-   - Define clear jurisdictional boundaries: state-wide environmental, transport, and minimum density standards establish non-negotiable statutory baselines, while local citizens' juries deliberate on precinct design, active transport links, public realm investments, and local service priorities.
+   - Develop policy options for human deliberation alongside `policy-homes-and-stations-code`, including:
+     - Voluntary density bonus schemes incentivising developer provision of permanent social and affordable housing;
+     - Statutory relocation assistance or Right-of-Return protections for tenants displaced by redevelopment of older residential flats;
+     - Empirical pro-forma testing of value capture and affordable housing thresholds to avoid undermining development viability.
+2. **Codifying Deliberative Democracy and Planning Hierarchy:**
+   - Draft administrative and statutory guidance codifying the existing carve-out in Key Point 2 of `policy-communities-set-policy`.
+   - Clarify jurisdictional boundaries: statewide planning standards set baseline zoning and density rules, while local deliberative assemblies deliberate on precinct streetscapes, active transport links, public realm investments, and community infrastructure.
 3. **Fiscal Sequencing & Balance-Sheet Realism:**
    - Model the operating vs capital expenditure balance for outer-suburban transport under Victoria's $178.4 billion net debt ceiling.
    - Establish a phased capital schedule prioritizing high-return recurrent feeder bus service expansions ($30M–$50M/yr) over debt-financed mega-rail electrification projects.

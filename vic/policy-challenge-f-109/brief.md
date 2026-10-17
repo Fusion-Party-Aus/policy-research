@@ -32,8 +32,8 @@ flowchart TD
     subgraph Stage3Challenge["Stage 3 Methodological Interrogation"]
         Crit1["Headway Staggering Fallacy & Rail Transfer Severance"]
         Crit2["DRT Microtransit Geometric Collapse ($35-$50 Subsidy)"]
-        Crit3["Cash Arrears Deadweight Loss (80%+ without VCAT Screening)"]
-        Crit4["VCAT s 330A Repayment Debt Traps & Tribunal Backlog"]
+        Crit3["Cash Arrears Targeting Risks (VCAT Notice Screening Needed)"]
+        Crit4["VCAT s 330A Repayment Hardship Risks & Listing Capacity"]
         Crit5["Severe Platform Omission: Health, Domestic Violence, Climate"]
     end
 
@@ -50,7 +50,7 @@ flowchart TD
 ### 2.1 The Two Inquiries Cross-Examined: Mutual Blind Spots
 1. **The Spatial vs Social Disadvantage Divide:** The policy-led inquiry treated suburban disadvantage as primarily an engineering problem (headways, route geometry), assuming smarter scheduling unlocks access. The problem-led inquiry demonstrated that outer-suburban disadvantage is fundamentally driven by acute poverty and rent stress. Staggering bus departures does nothing for an evicted family living in a car at Woodgrove Shopping Centre. Conversely, preserving a tenancy in an isolated transit desert leaves the household in deep transport poverty ($15,000/year car running costs). Housing and transit must be integrated.
 2. **The Structural Policy Omission:** A systemic crosswalk reveals that Fusion's adopted platform of 41 policies is heavily concentrated in transport, governance, and planning, but **contains almost zero policy addressing health and hospitals, family violence, emergency shelter, climate adaptation, or child protection**. These missing areas account for over 70% of Victorian state expenditure and humanitarian distress.
-3. **The Zoning vs Eviction Contradiction:** Fusion's flagship housing policy (`policy-homes-and-stations-code`) advocates for unconditional market upzoning around train stations. However, empirical evidence shows market-rate redevelopment of station precincts accelerates the demolition of older, relatively affordable low-rise rental flats, directly displacing low-income renters. Without mandatory inclusionary zoning (20–30% social housing) and statutory tenant right-of-return, upzoning directly worsens Problem VP-001.
+3. **The Zoning vs Tenant Protection Tension:** Fusion's flagship housing policy (`policy-homes-and-stations-code`) advocates for code-assessable medium-density zoning around train stations to expand supply. However, rapid redevelopment of station precincts can increase pressures on older, low-rent private flats, risking tenant displacement before new supply filters down. Deliberation should consider companion tenant protection options (such as voluntary density bonuses for affordable units, relocation assistance, or statutory notice protections) to protect vulnerable tenants without undermining project viability.
 
 ### 2.2 Challenging the Policy-Led Inquiry (F-108)
 - **The "Costless Stagger" Fallacy:** While Sunday departure clustering on Brooklyn Road was factually verified, the claim that staggering can be achieved at "zero cost" is **unsupported and refuted**. Altering bus timetables breaks driver shift blocks governed by the *Bus Safety Act 2009* (Vic) fatigue rules and enterprise agreement meal breaks, triggering contract variation liabilities.
@@ -59,23 +59,25 @@ flowchart TD
 - **The Sprawl Moral Hazard:** A statutory 1km service guarantee (`policy-guarantee-the-one-kilometre-standard`) subsidises low-density peri-urban developers and forces buses into slow, meandering loops that repel riders.
 
 ### 2.3 Challenging the Problem-Led Inquiry (F-113)
-- **Deadweight Loss in Cash Grants:** Only 10% to 18% of low-income renters in arrears enter a homeless shelter if unassisted (Shinn et al. 2013). Broad, untargeted cash relief generates 80%+ deadweight loss unless strictly screened for formal VCAT possession notices.
+- **Targeting Specificity vs Housing Stability in Cash Grants:** While empirical studies show that only 10% to 18% of low-income renters facing arrears enter formal homelessness shelters if unassisted (Shinn et al. 2013), this metric does not imply that remaining assistance is wasted; preventing eviction avoids severe informal instability, school disruption, and acute hardship. However, untargeted cash relief exhibits significant targeting inefficiency compared to assistance screened for formal VCAT possession lists.
 - **The 6-Month Triage Decay:** Cash arrears grants resolve temporary liquidity shocks, but 40% of recipients exit within 24 months when rent permanently exceeds 50% of income. One-off grants are a crisis triage tool, not durable affordability.
 - **The Landlord Capture Risk:** Cash arrears payouts can induce landlords to increase rents or pocket state funds before non-renewing leases at lease end. Grants must be legally conditioned on 6-month lease extensions and minimum rental standards.
-- **The VCAT Repayment Debt Trap:** VCAT orders under s 330A ("reasonable and proportionate") typically enforce arrears repayment plans. For tenants on JobSeeker ($395/week), paying an extra $40/week creates extreme nutritional deprivation and inevitably leads to subsequent 5-strike evictions (s 91ZM).
+- **The VCAT Repayment Hardship Risk:** VCAT orders under s 330A ("reasonable and proportionate") typically enforce arrears repayment plans. For households on deeply inadequate income support (e.g. JobSeeker at ~$395/week), committing an extra $30–$50/week creates severe material hardship, increasing the risk of subsequent default under s 91ZM.
 - **Non-Cashable Fiscal Offsets:** Averted emergency department visits and justice interactions are societal congestion reductions, not cashable Treasury dividends that can balance state budgets.
 
 ---
 
-## 3. Top 5 Confirmed Policy Contradictions Across the 41-Policy Corpus
+## 3. Evaluation of Policy Tensions, Implementation Dependencies, and Confirmed Contradictions
 
-| Contradiction ID | Conflicting Policy 1 | Conflicting Policy 2 | Nature of Confirmed Contradiction | Impact on State Platform |
+Following human review, proposed platform interactions were rigorously re-evaluated against operative policy text, institutional levels, geographic scope, and time horizons. Confirmed contradictions are strictly reserved across the register for commitments that genuinely cannot coexist as written (F01, F03, F16, F17). The five major corpus intersections are classified as follows:
+
+| Ref ID | Policy / Mechanism 1 | Policy / Mechanism 2 | Re-Evaluated Classification & Mechanics | Deliberation & Implementation Guidance |
 | --- | --- | --- | --- | --- |
-| **C-01** | `policy-homes-and-stations-code` (Mandatory state-wide station upzoning) | `policy-communities-set-policy` (Binding local deliberative citizen juries) | Local citizens' juries in established middle-ring suburbs consistently vote to block medium-density apartments (NIMBYism), halting the Homes and Stations Code. | Direct governance contradiction; state planning codes must take legal precedence. |
-| **C-02** | `policy-pay-every-victorian` (Universal basic cash dividend to all citizens) | `policy-build-the-sovereign-fund` (Capital accumulation in sovereign wealth fund) | In a state with $178B net debt and $9.2B interest, borrowing funds to capitalise a wealth fund while paying cash dividends produces negative net carry and debt blowout. | Direct fiscal contradiction; dividends cannot be paid from debt. |
-| **C-03** | `policy-charge-the-car-parks` (Levy on all commercial and commuter car parks) | `policy-fund-the-outer-suburbs` (Expand station park-and-ride for rail commuters) | In outer suburbs lacking frequent feeder buses, parking levies act as a regressive tax on workers, driving them onto congested tollways. | Direct spatial equity conflict; outer park-and-ride must be exempt until buses operate. |
-| **C-04** | `policy-claw-back-franchise-profits` (Windfall margin caps and penalty clawbacks) | `policy-stagger-the-timetables` / `policy-finish-the-network` (Expanded bus frequencies) | Bus franchising operates on 4–7% margins; squeezing contractor margins while demanding uncompensated re-rostering triggers operator insolvencies and service cancellations. | Direct contracting and operational risk under *Transport Integration Act 2010*. |
-| **C-05** | `policy-tax-the-land-windfalls` (50% windfall gains tax on rezoning uplifts) | `policy-homes-and-stations-code` (Private medium-density station development) | Combining a 50% windfall gains tax with local infrastructure contributions renders station apartment projects financially unfeasible for developers. | Direct economic feasibility conflict; suppresses housing supply. |
+| **T-01 (F24)** | `policy-homes-and-stations-code` (Statewide station upzoning) | `policy-communities-set-policy` (Deliberative citizen juries) | **Drafting Clarification & Statutory Hierarchy:** Key Point 2 of `policy-communities-set-policy` already specifies that assemblies cannot block compliant housing or override statewide codes. | Confirm and codify the statutory baseline in administrative instruments so local juries focus on streetscape, active transit, and public realm amenities. |
+| **T-02 (F25)** | `policy-build-the-sovereign-fund` (Capital accumulation) | `policy-pay-every-victorian` (Universal basic dividend) | **Implementation Dependency & Temporal Sequencing:** Dividend is explicitly conditioned on audited net surplus after debt service, maintenance, and reserves; capital accumulation is the multi-decade prior phase. | Clarify platform timeline: sovereign fund capital preservation precedes surplus distribution; no deficit borrowing for cash payouts. |
+| **T-03 (F07)** | `policy-charge-the-car-parks` (Commercial parking levy) | `policy-fund-the-outer-suburbs` (Outer commuter park-and-ride) | **Geographic Application & Implementation Sequencing:** Summary specifies inner-urban commercial parking; outer station park-and-rides require geographic exemption until feeder bus networks are delivered. | Explicitly exempt outer-suburban rail park-and-rides from parking levies until feeder buses achieve 15-minute 7-day frequencies. |
+| **T-04 (F08)** | `policy-claw-back-franchise-profits` (Contractual margin auditing) | `policy-stagger-the-timetables` / `policy-finish-the-network` (Expanded bus frequencies) | **Distinct Contractual Mechanisms & Operational Risk:** Recovering unjustified excess margins at contract renewal is distinct from compensating operators for newly commissioned service hours. | Maintain separate contractual mechanisms: robust margin transparency upon franchise renewal alongside fair, audited unit rates for new service hours. |
+| **T-05 (F14)** | `policy-tax-the-land-windfalls` (50% windfall gains tax) | `policy-homes-and-stations-code` (Medium-density station development) | **Empirical Feasibility Question & Policy Tension:** Windfall Gains Tax is existing 2021 law hypothecated to transit; whether combined taxes and infrastructure levies impair project viability is an empirical modeling question. | Commission site-specific residual land value pro-forma modeling to calibrate value capture rates against development viability. |
 
 ---
 
@@ -85,8 +87,8 @@ The Stage 3 audit produced 12 specific rating corrections and verifications (rec
 
 1. **RC02 (C08: Zero-cost staggering):** Corrected from *unsupported (moderate)* to **unsupported (high confidence: refuted)** due to binding crew fatigue and contract variation laws.
 2. **RC03 (C11/C12: Tighter FlexiRide standards at zero cost):** Corrected from *unsupported (moderate)* to **unsupported (high confidence: refuted)** due to proven microtransit geometric productivity collapse ($35–$50 per trip).
-3. **RC06 (A02: Cash arrears grants):** Corrected from *well supported* to **well supported for acute 6-month temporary shocks only; weak mechanism for structural poverty (>50% rent-to-income); deadweight loss without VCAT screening**.
-4. **RC07 (A03: Legal advocacy & VCAT representation):** Corrected from *well supported* to **well supported for tribunal defense; qualified by repayment debt-trap risks and tribunal capacity bottlenecks**.
+3. **RC06 (A02: Cash arrears grants):** Corrected from *well supported* to **well supported for acute 6-month temporary shocks; weak mechanism for structural poverty (>50% rent-to-income); requires VCAT notice screening to avoid targeting inefficiency**.
+4. **RC07 (A03: Legal advocacy & VCAT representation):** Corrected from *well supported* to **well supported for tribunal defense; qualified by repayment hardship risks and tribunal capacity bottlenecks**.
 5. **RC08 (A05: Rapid social housing transfers):** Corrected from *better alternative* to **better alternative in substantive stability; unfeasible as an emergency eviction prevention tool due to 17.2-month waitlists and 3% total stock deficit**.
 6. **RC09 (A08: Unit economics and fiscal offsets):** Corrected from *well supported* to **well supported for broader social welfare and non-cashable congestion offsets; unsupported as a cashable Treasury dividend**.
 7. **RC10/RC11/RC01/RC04/RC05 (Verified Strengths):** Factually verified that Sunday scheduled departure clustering on Brooklyn Rd (C07) is an indisputable GTFS fact; stop-proximity limitations (C01) and network walking metrics (C04) are methodologically sound; and AIHW homelessness baselines (A01) and econometric eviction externalities (A06) are robust.
@@ -99,11 +101,11 @@ This research brief delivers evidence and identifies trade-offs; **political cho
 
 1. **Retract Categorical "Zero Cost" and "Uncosted Guarantee" Platform Claims:**
    - Retract assertions that bus timetable staggering and door-to-door DRT can be achieved at zero cost. Re-frame them as costed service investments with explicit trade-offs.
-2. **Integrate Mandatory Inclusionary Zoning into Station Upzoning:**
-   - Amend `policy-homes-and-stations-code` to mandate that all medium-density developments within 800m of railway stations include **20% permanently affordable public or community housing**, accompanied by a statutory right-of-return for displaced tenants.
+2. **Deliberate Tenant Protection Options Alongside Station Upzoning:**
+   - Consider companion policy options alongside `policy-homes-and-stations-code` to mitigate tenant displacement and expand affordable housing, such as: (a) voluntary density bonus incentives for developments incorporating permanent social/affordable units; (b) statutory right-of-return and relocation assistance for tenants displaced by redevelopment of low-rise stock; or (c) state acquisition of turnkey dwellings within station precincts.
 3. **Establish a State-wide Eviction Diversion Protocol (Screened):**
-   - Fund a state-wide tenancy diversion service integrating VCAT listing alerts with immediate duty lawyer representation and targeted, non-repayable arrears grants. To eliminate deadweight loss, grants must be screened for formal VCAT possession notices and legally conditioned on 6-month lease renewals.
-4. **Clarify the Planning Hierarchy in Deliberative Democracy:**
-   - Formally resolve the contradiction between `policy-homes-and-stations-code` and `policy-communities-set-policy`. Establish that state-wide environmental, transit, and housing density standards establish binding baselines that local deliberative juries cannot veto.
+   - Fund a state-wide tenancy diversion service integrating VCAT listing alerts with immediate duty lawyer representation and targeted, non-repayable arrears grants. To maximize targeting efficiency, grants should be screened for formal VCAT possession notices and conditioned on 6-month lease extensions.
+4. **Codify Planning Hierarchy in Deliberative Instruments:**
+   - Ensure legislative drafting for `policy-communities-set-policy` explicitly reflects its adopted Key Point 2 carve-out, confirming that statewide planning and density baselines govern statutory approvals while citizen assemblies deliberate on local public realm and community infrastructure.
 5. **Expand Platform Scope into Missing Core Human Services:**
    - Form human policy working groups to draft state policies in **health and hospital capacity, family violence prevention and crisis housing, climate adaptation and thermal housing standards, and statutory child protection**.

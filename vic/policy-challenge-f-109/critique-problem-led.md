@@ -13,11 +13,11 @@
 
 Stage 2 (F-113) produced a comprehensive evidence matrix evaluating 5 intervention pathways for Problem VP-001, citing quasi-experimental and randomised trial literature. However, a rigorous Devil's Advocate interrogation reveals that **the F-113 researcher understated critical microeconomic distortions, procedural failure modes, and fiscal limitations** inherent in the proposed policy mechanisms:
 
-1. **The Deadweight Loss of Cash Arrears Grants:** F-113 rated Emergency Cash Arrears Grants (Option 1 / A02) as "well supported" based on Evans et al. (2016). However, the researcher glossed over the foundational finding of prevention screening science (Shinn et al. 2013, S15): **only 10% to 18% of low-income families experiencing rent arrears actually enter a homeless shelter if left unassisted**. Broad, untargeted cash relief generates 80%+ deadweight loss unless strictly screened for active VCAT possession notices.
-2. **The "Triage Decay" Reality in Structural Poverty:** Cash grants achieve a 76% reduction in shelter entry at 6 months, but longitudinal evidence shows that **the effect decays rapidly over 12 to 24 months**. When private market rent permanently consumes >50% of household income (as is standard for single parents on JobSeeker or DSP), a one-off $2,000 grant merely postpones an inevitable eviction by several months, functioning as a state liquidity bailout for private landlords rather than durable tenancy sustainment.
-3. **The VCAT Repayment Plan Debt Trap:** F-113 lauded VCAT legal representation under *Residential Tenancies Act 1997* (Vic) section 330A ("reasonable and proportionate" test) for achieving an 84% eviction avoidance rate. However, VCAT avoids eviction primarily by **ordering mandatory arrears repayment plans**. For tenants subsisting below the poverty line, adding $30 to $50/week in arrears repayments to market rents is mathematically impossible, forcing families into severe nutritional deprivation and inevitably triggering subsequent evictions under the 5-strike rule (s 91ZM).
-4. **Tribunal Congestion and Rental Market Screening Escalation:** Mandating statewide duty lawyer representation without quadrupling VCAT member and registry capacity will worsen existing 16-week listing delays, paralyzing the dispute system and inducing private rental providers to demand 4x income screening criteria, locking low-income applicants out of housing entirely.
-5. **The Illusion of Cashable Fiscal Offsets:** F-113 asserted that a $2,000 prevention grant yields $10,000 to $25,000 in downstream fiscal offsets. In reality, **these savings are overwhelmingly non-cashable economic and societal welfare benefits** (e.g. reduced emergency room congestion, shorter court queues). They do not return cash to the Department of Treasury and Finance to fund ongoing social programs.
+1. **The Targeting Specificity Challenge of Cash Arrears Grants:** F-113 rated Emergency Cash Arrears Grants (Option 1 / A02) as "well supported" based on Evans et al. (2016). However, prevention screening science (Shinn et al. 2013, S15) demonstrates that only 10% to 18% of low-income families experiencing rent arrears actually enter a homeless shelter if left unassisted. Avoiding shelter entry is a vital outcome, but it is not the sole benefit—preventing eviction preserves child educational continuity, tenant mental health, and physical security even when formal shelter entry wouldn't have occurred. Nevertheless, disbursing grants without screening for formal legal eviction notices (e.g. VCAT possession listings) reduces crisis-diversion efficiency, spending scarce funds on tenancies that would have resolved informally while leaving acute crises unfunded.
+2. **The "Triage Decay" Reality in Structural Poverty:** Cash grants achieve a 76% reduction in shelter entry at 6 months, but longitudinal evidence shows that **the effect decays over 12 to 24 months**. When private market rent permanently consumes >50% of household income (as is standard for single parents on JobSeeker or DSP), a one-off $2,000 grant resolves a temporary liquidity shock but does not create permanent affordability. Up to 40% of low-income renters exit within 24 months under chronic rent stress, functioning as an acute crisis triage tool rather than durable housing security.
+3. **The VCAT Repayment Plan Hardship Risk:** F-113 lauded VCAT legal representation under *Residential Tenancies Act 1997* (Vic) section 330A ("reasonable and proportionate" test) for achieving an 84% eviction avoidance rate. However, VCAT avoids eviction primarily by **ordering mandatory arrears repayment plans**. For tenants subsisting below the poverty line, adding $30 to $50/week in arrears repayments to market rents creates acute material hardship, forcing families to compromise on nutrition and healthcare, and creating a substantial risk of subsequent default under the 5-strike rule (s 91ZM).
+4. **Tribunal Congestion and Rental Market Screening Escalation:** Mandating statewide duty lawyer representation without expanding VCAT member and registry capacity risks worsening existing 16-week listing delays, creating procedural backlogs that induce private rental providers to demand stricter tenant screening criteria, potentially restricting low-income applicants' market access.
+5. **The Distinction Between Economic Benefits and Cashable Treasury Dividends:** F-113 highlighted that a $2,000 prevention grant yields $10,000 to $25,000 in downstream fiscal offsets. In reality, **these savings are overwhelmingly non-cashable economic and societal welfare benefits** (e.g. reduced emergency room congestion, shorter court queues). They do not return cash to the Department of Treasury and Finance to fund ongoing social programs.
 
 ---
 
@@ -42,37 +42,34 @@ flowchart TD
         D1["Lawyer invokes s 330A 'Reasonable & Proportionate'"]
         D2["VCAT dismisses eviction; orders Repayment Plan<br/>(Current Rent + $50/wk Arrears)"]
         D3{"Household Income on JobSeeker ($395/wk)"}
-        D4["Tenant Skips Food/Medication to Pay Rent"]
-        D5["Missed 5th Payment: Mandatory 5-Strike Eviction (s 91ZM)"]
+        D4["Tenant Faces Acute Food/Utility Trade-Offs"]
+        D5["Risk of 5th Payment Default: 5-Strike Eviction (s 91ZM)"]
         D1 --> D2 --> D3
-        D3 -->|"Mathematical Impossibility"| D4 --> D5
+        D3 -->|"Severe Hardship"| D4 --> D5
     end
 
     B --> Option1
     B --> Option2
 ```
 
-### 2.1 Option 1: Cash Arrears Grants, Deadweight Loss, and Landlord Moral Hazard
+### 2.1 Option 1: Cash Arrears Grants, Targeting Specificity, and Landlord Moral Hazard
 - **Stage 2 Finding:** Rated as *well supported* (A02), citing Evans et al. (2016) and Watson (2020), emphasizing 76% shelter entry reduction at 6 months.
 - **Devil's Advocate Challenge:**
-  - *Deadweight Loss (Targeting Specificity):* In an unconstrained program, the majority of grants go to households that would have borrowed from family, negotiated informally with the landlord, or doubled up with friends without entering crisis accommodation (Shinn et al. 2013). Disbursing grants without verifying an active VCAT possession notice wastes scarce state funds on false-positive cases.
-  - *Landlord Moral Hazard & Subsidy Capture:* Private rental providers operate on commercial profit motives. If landlords learn that the Victorian Government reliably extinguishes rent arrears up to $3,000, they have an incentive to:
-    1. Impose higher rent increases, knowing default risk is socialised by the state;
+  - *Targeting Specificity and Broader Welfare Value:* In an unconstrained program, many grants go to households that would have navigated informal solutions (borrowing from family, informal landlord workouts) without entering shelter (Shinn et al. 2013). While avoiding eviction delivers undeniable social and emotional stability for the family, achieving high crisis-diversion efficiency with finite state budgets requires screening for active VCAT possession notices.
+  - *Landlord Moral Hazard & Subsidy Capture:* Private rental providers operate on commercial profit motives. If landlords learn that the Victorian Government reliably extinguishes rent arrears up to $3,000, some may:
+    1. Impose higher rent increases, knowing default risk is partially backstopped by the state;
     2. Defer routine property maintenance until state agencies intervene;
-    3. Accept the public grant, wait out the statutory notice period, and then issue a notice to vacate for change of use or sale, pocketing public funds while still evicting the tenant.
-  - *The 6-Month Triage Decay:* F-113 conceded that up to 40% of recipients exit within 24 months, but still rated the intervention as "well supported". In public policy, a mechanism that collapses within 12 to 24 months is a **temporary crisis triage tool**, not a durable policy solution. Calling it "well supported" without qualification overstates its long-term efficacy.
-- **Evidence Rating Correction (RC06):** Correct A02 from *well supported* to **well supported for acute 6-month temporary shocks only; weak mechanism for structural poverty (>50% rent-to-income); deadweight loss without VCAT screening**.
+    3. Accept the public grant, wait out the statutory notice period, and then issue a notice to vacate for change of use or sale, pocketing public funds while still ending the tenancy.
+  - *The 6-Month Triage Decay:* F-113 noted that up to 40% of recipients exit within 24 months, but still rated the intervention as "well supported" without qualification. In public policy, a mechanism that experiences substantial decay within 12 to 24 months is an **acute crisis triage tool**, not durable affordability. Calling it "well supported" without qualification overstates its long-term efficacy for structural poverty.
+- **Evidence Rating Correction (RC06):** Correct A02 from *well supported* to **well supported for acute 6-month temporary shock relief; qualified by targeting challenges and structural poverty decay**.
 
-### 2.2 Option 2: Legal Representation, VCAT Repayment Traps, and Procedural Gridlock
+### 2.2 Option 2: Legal Representation, VCAT Repayment Traps, and Procedural Capacity
 - **Stage 2 Finding:** Rated as *well supported* (A03), citing Greiner et al. (2013) and Justice Connect (2024), reporting an 84% eviction avoidance rate under RTA section 330A.
 - **Devil's Advocate Challenge:**
-  - *The Repayment Plan Debt Trap:* Section 330A of the *Residential Tenancies Act 1997* grants VCAT discretion to refuse a possession order if it is not "reasonable and proportionate". However, tribunal members rarely dismiss arrears outright; they order a **conditional compliance plan** requiring the tenant to pay current rent plus an arrears instalment (e.g. $40/week).
-  - For a single parent on JobSeeker ($395/week) or Disability Support Pension ($560/week) paying $350/week in private rent, paying an extra $40/week leaves less than $10/day for food, electricity, and children's medicine. The tenant is placed in an impossible debt trap that leads directly to a subsequent possession order under section 91ZM (the 5-strike rule).
-  - *VCAT Listing Congestion and Market Screening:* In 2023–24, VCAT's Residential Tenancies List handled over 42,000 disputes, with contested listing times blowing out to 8–16 weeks (VCAT 2024, S13). If full legal representation is mandated for every possession matter without a 300% expansion in judicial members and hearing rooms:
-    1. Tribunal wait times will extend beyond 6 months, leaving landlords without rent for half a year;
-    2. In response, property managers will systematically refuse to lease private properties to anyone on income support, single parents, or low-wage workers, demanding rent-to-income ratios of less than 25% and 6 months' bank statements;
-    3. Paradoxically, expanding legal rights without expanding housing supply locks vulnerable renters out of the private market entirely!
-- **Evidence Rating Correction (RC07):** Correct A03 from *well supported* to **well supported for tribunal defense; qualified by repayment debt-trap risks and tribunal capacity bottlenecks**.
+  - *The Repayment Plan Hardship Risk:* Section 330A of the *Residential Tenancies Act 1997* grants VCAT discretion to refuse a possession order if it is not "reasonable and proportionate". However, tribunal members rarely dismiss arrears outright; they frequently order a **conditional compliance plan** requiring the tenant to pay current rent plus an arrears instalment (e.g. $40/week).
+  - For a single parent on JobSeeker ($395/week) paying $350/week in private rent, paying an extra $40/week leaves almost nothing for food, electricity, and children's medicine. The tenant faces acute hardship, with high risk of subsequent default under section 91ZM (the 5-strike rule).
+  - *VCAT Listing Congestion and Market Screening:* In 2023–24, VCAT's Residential Tenancies List handled over 42,000 disputes, with contested listing times blowing out to 8–16 weeks (VCAT 2024, S13). Expanding duty lawyer representation without expanding adjudicator capacity risks lengthening hearing times and tribunal backlogs. Extended listing delays can induce property managers to tighten tenant screening criteria against low-income applicants, raising market barriers for vulnerable cohorts.
+- **Evidence Rating Correction (RC07):** Correct A03 from *well supported* to **well supported for tribunal defense; qualified by repayment hardship risk for sub-poverty incomes and tribunal capacity constraints**.
 
 ### 2.3 Option 4: Social Housing Transfer Feasibility Ceiling
 - **Stage 2 Finding:** Rated as *better alternative* (A05), noting >92% retention rates and rent capped at 25–30% of income.
