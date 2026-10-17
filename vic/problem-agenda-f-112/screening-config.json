@@ -1,0 +1,107 @@
+{
+  "review_title": "F113-PB01 safe affordable tenancy sustainment — PROPOSED",
+  "protocol_status": "unconfirmed",
+  "confirmation": null,
+  "exclusion_codes": [
+    {
+      "code": "E1",
+      "short": "no research content",
+      "label": "Opinion/advertising without research, data or evaluation"
+    },
+    {
+      "code": "E2",
+      "short": "population",
+      "label": "No eligible population or plausible subgroup"
+    },
+    {
+      "code": "E3",
+      "short": "response/concept",
+      "label": "No relevant tenancy retention/prevention response"
+    },
+    {
+      "code": "E4",
+      "short": "outcome — full text only",
+      "label": "No usable outcome in any evidence stratum"
+    },
+    {
+      "code": "E5",
+      "short": "methods — full text only",
+      "label": "Insufficient methods for any evidence stratum"
+    },
+    {
+      "code": "E6",
+      "short": "transfer — full text only",
+      "label": "Context cannot inform Victoria after explicit assessment"
+    }
+  ],
+  "core_criteria": [
+    "low-income or financially vulnerable renters at risk of tenancy loss",
+    "response relevant to safe affordable tenancy retention/prevention"
+  ],
+  "personas": {
+    "A": "Housing-services researcher attending to safe housing, equity and implementation.",
+    "B": "Methods researcher attending to causal inference and Victorian transferability."
+  },
+  "conflict_policy": "adjudicate",
+  "qc": {
+    "near_miss": {
+      "population": [
+        "rent",
+        "tenan",
+        "evict",
+        "low.income",
+        "housing insecur"
+      ],
+      "intervention": [
+        "prevent",
+        "retain",
+        "sustain",
+        "arrears",
+        "legal",
+        "support"
+      ]
+    },
+    "random_exclusion_sample": 20,
+    "random_seed": 1122026,
+    "policy": "advance"
+  },
+  "seeds": [],
+  "languages_allowed": [
+    "English"
+  ],
+  "models": {
+    "A": "",
+    "B": "",
+    "ADJ": "",
+    "QC": "",
+    "FTA": "",
+    "FTB": "",
+    "FTADJ": ""
+  },
+  "model_labels": {
+    "A": "not run; runtime default to be recorded at execution",
+    "B": "not run; runtime default to be recorded at execution",
+    "ADJ": "not run; runtime default to be recorded at execution",
+    "QC": "not run; runtime default to be recorded at execution",
+    "FTA": "not run; runtime default to be recorded at execution",
+    "FTB": "not run; runtime default to be recorded at execution",
+    "FTADJ": "not run; runtime default to be recorded at execution"
+  },
+  "agent_type": "",
+  "batching": {
+    "max_records": 20,
+    "max_chars": 90000,
+    "wrap": 150
+  },
+  "dedup": {
+    "doi_title_guard": true
+  },
+  "proposed_limits": {
+    "hours": 12,
+    "unique_candidate_records": 80,
+    "deeply_appraised_documents": 30,
+    "atomic_assessments": 8,
+    "pilot_records_max": 20
+  },
+  "notes": "No pilot/cost/protocol approval. Not an execution authorization. E4-E6 must not exclude at title/abstract stage."
+}

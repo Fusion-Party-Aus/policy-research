@@ -1,0 +1,13 @@
+problem_id,baseline_state,source_ids,ranking_state,response_search_state,response_options_appraised,human_acceptance,next_batch
+VP-001,initial sources verified with stated limits,S01;S02;S03;S04,provisional frozen v1,not started,0,pending,F113-PB01 proposed
+VP-002,initial sources verified with stated limits,S05;S17;S18;S04,provisional frozen v1,not started,0,pending,not scheduled
+VP-004,initial sources verified with stated limits,S07;S08,provisional frozen v1,not started,0,pending,not scheduled
+VP-005,initial sources verified with stated limits,S04,provisional frozen v1,not started,0,pending,not scheduled
+VP-010,initial sources verified with stated limits,S14,provisional frozen v1,not started,0,pending,not scheduled
+VP-011,initial sources verified with stated limits,S15,provisional frozen v1,not started,0,pending,not scheduled
+VP-006,initial sources verified with stated limits,S09;S10;S16,provisional frozen v1,not started,0,pending,not scheduled
+VP-003,initial sources verified with stated limits,S06;S04,provisional frozen v1,not started,0,pending,not scheduled
+VP-008,initial sources verified with stated limits,S12,provisional frozen v1,not started,0,pending,not scheduled
+VP-009,initial sources verified with stated limits,S13,provisional frozen v1,not started,0,pending,not scheduled
+VP-007,initial sources verified with stated limits,S11,provisional frozen v1,not started,0,pending,not scheduled
+VP-012,child-safety sentinel only; full operationalisation deferred,S04,"unranked; insufficient baseline, not low priority",not started,0,pending,baseline validation next tranche

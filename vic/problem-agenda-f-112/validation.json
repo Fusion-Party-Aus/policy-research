@@ -1,0 +1,186 @@
+{
+  "status": "passed",
+  "checks": [
+    {
+      "check": "frozen core hashes",
+      "passed": true,
+      "detail": "6 files"
+    },
+    {
+      "check": "unique ranked problem IDs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "ranking ordering matches freeze",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "rank numbers",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "ratings 1 to 5",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "weighted scores",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "source IDs unique",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "evidence rows unique",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "evidence references",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "register source references",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "problem coverage denominator",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "no response appraisals claimed",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "measurement coverage",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "rating explanations",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "original snapshot byte hashes",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "corpus denominator",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "original IDs preserved uniquely",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "corpus evidence remains unassessed",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "66 original record pointers and canonical hashes",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "crosswalk denominator",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "crosswalk original IDs",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "crosswalk recorded after freeze",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "corpus mapping reconciles",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "protocol not confirmed",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "finite proposed limits",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "ordered screening codes",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "screening seeds not invented",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "sensitivity coverage",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "discovery query log",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "one bounded network check per URL",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "local Markdown links",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "no runtime-local deliverable links",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "independent Git tree matches frozen core",
+      "passed": true,
+      "detail": ""
+    }
+  ],
+  "counts": {
+    "ranked_problems": 11,
+    "unranked_sentinels": 1,
+    "retained_source_records": 18,
+    "evidence_rows": 20,
+    "corpus_records": 66,
+    "topic_associated_corpus_records": 39,
+    "unassociated_corpus_records": 27,
+    "response_options_appraised": 0,
+    "discovery_queries": 42
+  },
+  "limitations": [
+    "Structural and arithmetic checks do not validate all substantive claims.",
+    "Network errors and challenges are retained access exceptions, not evidence failures by default.",
+    "Single-session AI self-review; no independent human review or formal screening."
+  ]
+}

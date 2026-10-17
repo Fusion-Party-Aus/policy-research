@@ -1,0 +1,11 @@
+{
+  "frozen_at_utc": "2026-10-16T15:14:12.373071+00:00",
+  "git_tree_before_corpus_read": "0384e1c86541d11929c4e52570260ed3539dc3a7",
+  "base_commit": "d0ecfac751d2a3d706b083ad753255475e520abf",
+  "branch": "agent/policy-researcher/1235c8912a38",
+  "git_commit_created": false,
+  "reason": "Git user.name/user.email absent; commit refused. User identity was not changed. A staged Git tree and SHA-256 manifest preserve the independent version.",
+  "corpus_read_after_freeze": true,
+  "receipt_recorded_at_utc": "2026-10-16T15:18:17.119022+00:00",
+  "publication": "PUBLIC repository; new drafts unpushed; approval required for push/PR"
+}

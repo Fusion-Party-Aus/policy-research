@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "frozen_at_utc": "2026-10-16T15:14:12.373071+00:00",
+  "local_date": "2026-10-17",
+  "status": "provisional internal research; human acceptance pending",
+  "ranking_purpose": "bounded research queue",
+  "weights": {
+    "scale": 20,
+    "harm": 30,
+    "inequity": 25,
+    "tractability": 15,
+    "uncertainty": 10
+  },
+  "ranked_problem_count": 11,
+  "unranked_sentinel_ids": [
+    "VP-012"
+  ],
+  "ordered_ids": [
+    "VP-001",
+    "VP-002",
+    "VP-004",
+    "VP-005",
+    "VP-010",
+    "VP-011",
+    "VP-006",
+    "VP-003",
+    "VP-008",
+    "VP-009",
+    "VP-007"
+  ],
+  "corpus_contents_read_before_freeze": false,
+  "blinding_limit": "Issue history, onboarding and incidental excluded party search snippet were visible; see ranking-method.md",
+  "files": {
+    "problem-register.csv": "7e3db9ca1180734eb397c8bd064bb9a234e2cce1614062fc227ca8927a47b4cc",
+    "evidence-matrix.csv": "a4e838a8c12c8d03ee1ebb54745f8baeb9c3963860e455e67181b7e25bc3f4c4",
+    "sources.csv": "335c69121dcd148d3ffa00cb20cf56ce5bafcf570bbcd8e79cd13cd6ce6035e9",
+    "ranking-method.md": "f8006d9017c1db2d227c2def8ee366ecc052ccb5286d4be763c07d22522da3dd",
+    "sensitivity.csv": "656b54357118ad23805c28833bbcf339b29c00e1110e2b819bf13351a8f4ab3d",
+    "coverage-ledger.csv": "ca20385f7a757e7828f2b36ce71240dc5aebe362acb1e2f6f8f97d3f9af541ef"
+  }
+}
