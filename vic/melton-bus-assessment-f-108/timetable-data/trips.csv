@@ -1,0 +1,754 @@
+route_id,service_id,trip_id,shape_id,trip_headsign,direction_id,block_id,wheelchair_accessible
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10201529,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10201530,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10201531,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10201532,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10201533,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10201534,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10201535,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10201536,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10201537,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10201538,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10201539,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10201989,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10201990,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10201991,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10201992,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10201993,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10201994,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10201995,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10201996,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10201997,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10201998,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10201999,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10202000,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10202001,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10202002,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10202003,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10202004,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10202005,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10202006,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10202007,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10202008,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10202009,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10202010,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10202011,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10202012,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10202015,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10202021,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10202022,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10202023,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10202024,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10202025,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10202026,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10202027,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10202028,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10202029,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10202030,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10202031,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10202032,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10202033,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10202034,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10202035,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10202038,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10202039,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10202040,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10202041,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10202042,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10202043,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF12-36-4X7-aus,36-4X7--1-MF12-10202044,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000068,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000071,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000072,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000073,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000074,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000076,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000077,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000078,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000079,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000080,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000662,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000663,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000664,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000665,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000666,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000667,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000668,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000673,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000674,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000677,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000678,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000679,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000680,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000681,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000682,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000683,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000707,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000708,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000709,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000710,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000711,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000712,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000713,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000714,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000719,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000720,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000721,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000722,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000723,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000724,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000725,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000799,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000800,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000801,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000802,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000803,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000804,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000805,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000941,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000942,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000943,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000944,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000945,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000946,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000947,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000948,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000949,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,MF3-36-4X7-aus,36-4X7--1-MF3-10000957,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sat10-36-4X7-aus,36-4X7--1-Sat10-60100719,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sat10-36-4X7-aus,36-4X7--1-Sat10-60100720,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sat10-36-4X7-aus,36-4X7--1-Sat10-60100721,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sat10-36-4X7-aus,36-4X7--1-Sat10-60100722,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sat10-36-4X7-aus,36-4X7--1-Sat10-60100723,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sat10-36-4X7-aus,36-4X7--1-Sat10-60100724,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sat10-36-4X7-aus,36-4X7--1-Sat10-60100725,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sat10-36-4X7-aus,36-4X7--1-Sat10-60100726,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sat10-36-4X7-aus,36-4X7--1-Sat10-60100727,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sat10-36-4X7-aus,36-4X7--1-Sat10-60100728,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sat10-36-4X7-aus,36-4X7--1-Sat10-60100729,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sat10-36-4X7-aus,36-4X7--1-Sat10-60100730,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sat10-36-4X7-aus,36-4X7--1-Sat10-60100731,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sat10-36-4X7-aus,36-4X7--1-Sat10-60100732,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sat10-36-4X7-aus,36-4X7--1-Sat10-60100733,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sat10-36-4X7-aus,36-4X7--1-Sat10-60100734,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sat10-36-4X7-aus,36-4X7--1-Sat10-60100735,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sat10-36-4X7-aus,36-4X7--1-Sat10-60100736,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sat10-36-4X7-aus,36-4X7--1-Sat10-60100737,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sat10-36-4X7-aus,36-4X7--1-Sat10-60100738,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sat10-36-4X7-aus,36-4X7--1-Sat10-60100739,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sat10-36-4X7-aus,36-4X7--1-Sat10-60100740,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sat10-36-4X7-aus,36-4X7--1-Sat10-60100742,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sat10-36-4X7-aus,36-4X7--1-Sat10-60101035,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sat10-36-4X7-aus,36-4X7--1-Sat10-60101036,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sat10-36-4X7-aus,36-4X7--1-Sat10-60101037,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sat10-36-4X7-aus,36-4X7--1-Sat10-60101038,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sat10-36-4X7-aus,36-4X7--1-Sat10-60101039,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sat10-36-4X7-aus,36-4X7--1-Sat10-60101040,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sat10-36-4X7-aus,36-4X7--1-Sat10-60101041,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sat10-36-4X7-aus,36-4X7--1-Sat10-60101042,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sat10-36-4X7-aus,36-4X7--1-Sat10-60101043,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sat10-36-4X7-aus,36-4X7--1-Sat10-60101044,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sat10-36-4X7-aus,36-4X7--1-Sat10-60101045,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sat10-36-4X7-aus,36-4X7--1-Sat10-60101046,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sat10-36-4X7-aus,36-4X7--1-Sat10-60101047,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sat10-36-4X7-aus,36-4X7--1-Sat10-60101048,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sat10-36-4X7-aus,36-4X7--1-Sat10-60101049,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sat10-36-4X7-aus,36-4X7--1-Sat10-60101050,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sat10-36-4X7-aus,36-4X7--1-Sat10-60101051,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sat10-36-4X7-aus,36-4X7--1-Sat10-60101052,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sat10-36-4X7-aus,36-4X7--1-Sat10-60101053,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sat10-36-4X7-aus,36-4X7--1-Sat10-60101054,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sat10-36-4X7-aus,36-4X7--1-Sat10-60101055,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sat10-36-4X7-aus,36-4X7--1-Sat10-60101056,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sat4-36-4X7-aus,36-4X7--1-Sat4-60101169,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sat4-36-4X7-aus,36-4X7--1-Sat4-60101180,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sat4-36-4X7-aus,36-4X7--1-Sat4-60101181,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sat4-36-4X7-aus,36-4X7--1-Sat4-60101202,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sat4-36-4X7-aus,36-4X7--1-Sat4-60101203,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sat4-36-4X7-aus,36-4X7--1-Sat4-60101204,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sat4-36-4X7-aus,36-4X7--1-Sat4-60101205,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sat4-36-4X7-aus,36-4X7--1-Sat4-60101237,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sat4-36-4X7-aus,36-4X7--1-Sat4-60101238,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sat4-36-4X7-aus,36-4X7--1-Sat4-60101239,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sat4-36-4X7-aus,36-4X7--1-Sat4-60101240,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sat4-36-4X7-aus,36-4X7--1-Sat4-60101241,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sat4-36-4X7-aus,36-4X7--1-Sat4-60101242,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sat4-36-4X7-aus,36-4X7--1-Sat4-60101255,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sat4-36-4X7-aus,36-4X7--1-Sat4-60101281,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sat4-36-4X7-aus,36-4X7--1-Sat4-60101282,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sat4-36-4X7-aus,36-4X7--1-Sat4-60101283,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sat4-36-4X7-aus,36-4X7--1-Sat4-60101284,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sat4-36-4X7-aus,36-4X7--1-Sat4-60101285,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sat4-36-4X7-aus,36-4X7--1-Sat4-60101286,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sat4-36-4X7-aus,36-4X7--1-Sat4-60101289,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sat4-36-4X7-aus,36-4X7--1-Sat4-60101290,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sat4-36-4X7-aus,36-4X7--1-Sat4-60101291,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sat4-36-4X7-aus,36-4X7--1-Sat4-60101292,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sat4-36-4X7-aus,36-4X7--1-Sat4-60101293,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sat4-36-4X7-aus,36-4X7--1-Sat4-60101294,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sat4-36-4X7-aus,36-4X7--1-Sat4-60101564,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sat4-36-4X7-aus,36-4X7--1-Sat4-60101565,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sat4-36-4X7-aus,36-4X7--1-Sat4-60101566,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sat4-36-4X7-aus,36-4X7--1-Sat4-60101567,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sat4-36-4X7-aus,36-4X7--1-Sat4-60101620,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sat4-36-4X7-aus,36-4X7--1-Sat4-60101644,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sat4-36-4X7-aus,36-4X7--1-Sat4-60101645,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sat4-36-4X7-aus,36-4X7--1-Sat4-60101646,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sat4-36-4X7-aus,36-4X7--1-Sat4-60101647,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sat4-36-4X7-aus,36-4X7--1-Sat4-60101648,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sat4-36-4X7-aus,36-4X7--1-Sat4-60101649,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sat4-36-4X7-aus,36-4X7--1-Sat4-60101662,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sat4-36-4X7-aus,36-4X7--1-Sat4-60101663,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun14-36-4X7-aus,36-4X7--1-Sun14-70000026,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun14-36-4X7-aus,36-4X7--1-Sun14-70000027,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun14-36-4X7-aus,36-4X7--1-Sun14-70000028,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun14-36-4X7-aus,36-4X7--1-Sun14-70000029,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun14-36-4X7-aus,36-4X7--1-Sun14-70000030,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun14-36-4X7-aus,36-4X7--1-Sun14-70000031,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun14-36-4X7-aus,36-4X7--1-Sun14-70000032,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun14-36-4X7-aus,36-4X7--1-Sun14-70000033,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun14-36-4X7-aus,36-4X7--1-Sun14-70000034,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun14-36-4X7-aus,36-4X7--1-Sun14-70000035,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun14-36-4X7-aus,36-4X7--1-Sun14-70000036,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun14-36-4X7-aus,36-4X7--1-Sun14-70000037,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun14-36-4X7-aus,36-4X7--1-Sun14-70000038,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun14-36-4X7-aus,36-4X7--1-Sun14-70000039,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun14-36-4X7-aus,36-4X7--1-Sun14-70000040,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun14-36-4X7-aus,36-4X7--1-Sun14-70000041,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun14-36-4X7-aus,36-4X7--1-Sun14-70000042,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun14-36-4X7-aus,36-4X7--1-Sun14-70000043,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun14-36-4X7-aus,36-4X7--1-Sun14-70000044,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun14-36-4X7-aus,36-4X7--1-Sun14-70000045,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun14-36-4X7-aus,36-4X7--1-Sun14-70000569,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun14-36-4X7-aus,36-4X7--1-Sun14-70000571,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun14-36-4X7-aus,36-4X7--1-Sun14-70000572,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun14-36-4X7-aus,36-4X7--1-Sun14-70000573,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun14-36-4X7-aus,36-4X7--1-Sun14-70000574,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun14-36-4X7-aus,36-4X7--1-Sun14-70000575,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun14-36-4X7-aus,36-4X7--1-Sun14-70000576,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun14-36-4X7-aus,36-4X7--1-Sun14-70000577,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun14-36-4X7-aus,36-4X7--1-Sun14-70000578,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun14-36-4X7-aus,36-4X7--1-Sun14-70000579,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun14-36-4X7-aus,36-4X7--1-Sun14-70000580,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun14-36-4X7-aus,36-4X7--1-Sun14-70000581,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun14-36-4X7-aus,36-4X7--1-Sun14-70000582,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun14-36-4X7-aus,36-4X7--1-Sun14-70000583,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun14-36-4X7-aus,36-4X7--1-Sun14-70000584,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun14-36-4X7-aus,36-4X7--1-Sun14-70000585,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun14-36-4X7-aus,36-4X7--1-Sun14-70000586,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun14-36-4X7-aus,36-4X7--1-Sun14-70000587,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun14-36-4X7-aus,36-4X7--1-Sun14-70000588,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun14-36-4X7-aus,36-4X7--1-Sun14-70000589,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun14-36-4X7-aus,36-4X7--1-Sun14-70000590,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun14-36-4X7-aus,36-4X7--1-Sun14-70000592,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun2-36-4X7-aus,36-4X7--1-Sun2-70900459,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun2-36-4X7-aus,36-4X7--1-Sun2-70900469,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun2-36-4X7-aus,36-4X7--1-Sun2-70900470,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun2-36-4X7-aus,36-4X7--1-Sun2-70900471,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun2-36-4X7-aus,36-4X7--1-Sun2-70900472,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun2-36-4X7-aus,36-4X7--1-Sun2-70900473,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun2-36-4X7-aus,36-4X7--1-Sun2-70900474,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun2-36-4X7-aus,36-4X7--1-Sun2-70900475,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun2-36-4X7-aus,36-4X7--1-Sun2-70900476,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun2-36-4X7-aus,36-4X7--1-Sun2-70900535,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun2-36-4X7-aus,36-4X7--1-Sun2-70900536,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun2-36-4X7-aus,36-4X7--1-Sun2-70900619,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun2-36-4X7-aus,36-4X7--1-Sun2-70900620,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun2-36-4X7-aus,36-4X7--1-Sun2-70900724,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun2-36-4X7-aus,36-4X7--1-Sun2-70900725,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun2-36-4X7-aus,36-4X7--1-Sun2-70900779,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun2-36-4X7-aus,36-4X7--1-Sun2-70900780,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun2-36-4X7-aus,36-4X7--1-Sun2-70900781,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun2-36-4X7-aus,36-4X7--1-Sun2-70900782,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun2-36-4X7-aus,36-4X7--1-Sun2-70900783,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun2-36-4X7-aus,36-4X7--1-Sun2-70900784,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun2-36-4X7-aus,36-4X7--1-Sun2-70900791,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun2-36-4X7-aus,36-4X7--1-Sun2-70900792,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun2-36-4X7-aus,36-4X7--1-Sun2-70900793,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun2-36-4X7-aus,36-4X7--1-Sun2-70900794,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun2-36-4X7-aus,36-4X7--1-Sun2-70900795,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun2-36-4X7-aus,36-4X7--1-Sun2-70900798,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun2-36-4X7-aus,36-4X7--1-Sun2-70900799,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun2-36-4X7-aus,36-4X7--1-Sun2-70900814,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun2-36-4X7-aus,36-4X7--1-Sun2-70900815,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun2-36-4X7-aus,36-4X7--1-Sun2-70900816,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun2-36-4X7-aus,36-4X7--1-Sun2-70900818,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun2-36-4X7-aus,36-4X7--1-Sun2-70900831,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun2-36-4X7-aus,36-4X7--1-Sun2-70900832,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun2-36-4X7-aus,36-4X7--1-Sun2-70900833,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun2-36-4X7-aus,36-4X7--1-Sun2-70900834,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun2-36-4X7-aus,36-4X7--1-Sun2-70900842,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun2-36-4X7-aus,36-4X7--1-Sun2-70900843,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun2-36-4X7-aus,36-4X7--1-Sun2-70900846,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun2-36-4X7-aus,36-4X7--1-Sun2-70900847,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun2-36-4X7-aus,36-4X7--1-Sun2-70900860,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun2-36-4X7-aus,36-4X7--1-Sun2-70900864,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun4-36-4X7-aus,36-4X7--1-Sun4-60201368,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun4-36-4X7-aus,36-4X7--1-Sun4-60201369,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun4-36-4X7-aus,36-4X7--1-Sun4-60201370,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun4-36-4X7-aus,36-4X7--1-Sun4-60201371,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun4-36-4X7-aus,36-4X7--1-Sun4-60201372,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun4-36-4X7-aus,36-4X7--1-Sun4-60201373,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun4-36-4X7-aus,36-4X7--1-Sun4-60201374,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun4-36-4X7-aus,36-4X7--1-Sun4-60201375,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun4-36-4X7-aus,36-4X7--1-Sun4-60201376,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun4-36-4X7-aus,36-4X7--1-Sun4-60201377,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun4-36-4X7-aus,36-4X7--1-Sun4-60201378,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun4-36-4X7-aus,36-4X7--1-Sun4-60201379,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun4-36-4X7-aus,36-4X7--1-Sun4-60201380,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun4-36-4X7-aus,36-4X7--1-Sun4-60201381,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun4-36-4X7-aus,36-4X7--1-Sun4-60201382,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun4-36-4X7-aus,36-4X7--1-Sun4-60201383,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun4-36-4X7-aus,36-4X7--1-Sun4-60201384,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun4-36-4X7-aus,36-4X7--1-Sun4-60201385,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun4-36-4X7-aus,36-4X7--1-Sun4-60201386,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun4-36-4X7-aus,36-4X7--1-Sun4-60201387,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun4-36-4X7-aus,36-4X7--1-Sun4-60201388,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun4-36-4X7-aus,36-4X7--1-Sun4-60201389,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun4-36-4X7-aus,36-4X7--1-Sun4-60201391,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun4-36-4X7-aus,36-4X7--1-Sun4-60201720,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun4-36-4X7-aus,36-4X7--1-Sun4-60201721,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun4-36-4X7-aus,36-4X7--1-Sun4-60201722,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun4-36-4X7-aus,36-4X7--1-Sun4-60201723,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun4-36-4X7-aus,36-4X7--1-Sun4-60201724,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun4-36-4X7-aus,36-4X7--1-Sun4-60201725,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun4-36-4X7-aus,36-4X7--1-Sun4-60201726,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun4-36-4X7-aus,36-4X7--1-Sun4-60201727,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun4-36-4X7-aus,36-4X7--1-Sun4-60201728,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun4-36-4X7-aus,36-4X7--1-Sun4-60201729,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun4-36-4X7-aus,36-4X7--1-Sun4-60201730,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun4-36-4X7-aus,36-4X7--1-Sun4-60201731,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun4-36-4X7-aus,36-4X7--1-Sun4-60201732,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun4-36-4X7-aus,36-4X7--1-Sun4-60201733,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun4-36-4X7-aus,36-4X7--1-Sun4-60201734,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun4-36-4X7-aus,36-4X7--1-Sun4-60201735,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun4-36-4X7-aus,36-4X7--1-Sun4-60201736,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun4-36-4X7-aus,36-4X7--1-Sun4-60201737,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun4-36-4X7-aus,36-4X7--1-Sun4-60201738,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun4-36-4X7-aus,36-4X7--1-Sun4-60201739,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun4-36-4X7-aus,36-4X7--1-Sun4-60201740,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun4-36-4X7-aus,36-4X7--1-Sun4-60201741,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun6-36-4X7-aus,36-4X7--1-Sun6-70201844,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun6-36-4X7-aus,36-4X7--1-Sun6-70201845,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun6-36-4X7-aus,36-4X7--1-Sun6-70201846,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun6-36-4X7-aus,36-4X7--1-Sun6-70201847,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun6-36-4X7-aus,36-4X7--1-Sun6-70201848,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun6-36-4X7-aus,36-4X7--1-Sun6-70201850,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun6-36-4X7-aus,36-4X7--1-Sun6-70201902,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun6-36-4X7-aus,36-4X7--1-Sun6-70201903,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun6-36-4X7-aus,36-4X7--1-Sun6-70201904,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun6-36-4X7-aus,36-4X7--1-Sun6-70201905,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun6-36-4X7-aus,36-4X7--1-Sun6-70201906,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun6-36-4X7-aus,36-4X7--1-Sun6-70201907,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun6-36-4X7-aus,36-4X7--1-Sun6-70202019,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun6-36-4X7-aus,36-4X7--1-Sun6-70202063,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun6-36-4X7-aus,36-4X7--1-Sun6-70202064,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun6-36-4X7-aus,36-4X7--1-Sun6-70202065,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun6-36-4X7-aus,36-4X7--1-Sun6-70202066,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun6-36-4X7-aus,36-4X7--1-Sun6-70202067,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun6-36-4X7-aus,36-4X7--1-Sun6-70202068,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun6-36-4X7-aus,36-4X7--1-Sun6-70202161,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun6-36-4X7-aus,36-4X7--1-Sun6-70202162,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun6-36-4X7-aus,36-4X7--1-Sun6-70202173,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun6-36-4X7-aus,36-4X7--1-Sun6-70202174,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun6-36-4X7-aus,36-4X7--1-Sun6-70202175,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun6-36-4X7-aus,36-4X7--1-Sun6-70202176,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun6-36-4X7-aus,36-4X7--1-Sun6-70202298,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun6-36-4X7-aus,36-4X7--1-Sun6-70202442,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun6-36-4X7-aus,36-4X7--1-Sun6-70202443,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun6-36-4X7-aus,36-4X7--1-Sun6-70202444,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun6-36-4X7-aus,36-4X7--1-Sun6-70202445,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun6-36-4X7-aus,36-4X7--1-Sun6-70202503,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun6-36-4X7-aus,36-4X7--1-Sun6-70202504,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun6-36-4X7-aus,36-4X7--1-Sun6-70202505,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun6-36-4X7-aus,36-4X7--1-Sun6-70202506,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun6-36-4X7-aus,36-4X7--1-Sun6-70202509,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun6-36-4X7-aus,36-4X7--1-Sun6-70202510,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun6-36-4X7-aus,36-4X7--1-Sun6-70202511,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun6-36-4X7-aus,36-4X7--1-Sun6-70202512,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun6-36-4X7-aus,36-4X7--1-Sun6-70202513,36-4X7-aus-1.2.H,Melton,0,,1
+36-4X7-aus-1,Sun6-36-4X7-aus,36-4X7--1-Sun6-70202514,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun6-36-4X7-aus,36-4X7--1-Sun6-70202524,36-4X7-aus-1.3.R,Melton Station,1,,1
+36-4X7-aus-1,Sun6-36-4X7-aus,36-4X7--1-Sun6-70202525,36-4X7-aus-1.2.H,Melton,0,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10201329,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10201330,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10201331,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10201332,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10201333,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10201334,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10201335,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10201336,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10201337,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10201338,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10201339,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10201472,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10201473,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10201474,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10201475,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10201476,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10201640,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10201641,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10201642,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10201643,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10201644,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10201645,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10201646,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10201647,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10201648,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10201649,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10201650,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10201651,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10201652,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10201653,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10201654,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10201655,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10201656,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10201657,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10201658,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10201659,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10201660,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10202081,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10202082,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10202083,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10202084,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10202085,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10202086,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10202087,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10202088,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10202089,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10202090,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10202091,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10202092,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10202093,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10202094,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10202095,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10202096,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10202097,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10202098,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10202099,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10202100,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF12-36-X59-aus,36-X59--1-MF12-10202101,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000083,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000084,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000085,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000086,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000087,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000088,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000089,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000090,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000144,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000145,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000146,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000147,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000148,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000149,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000150,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000298,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000299,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000338,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000339,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000340,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000341,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000344,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000345,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000346,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000347,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000348,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000349,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000478,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000479,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000480,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000481,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000482,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000483,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000484,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000549,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000587,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000588,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000589,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000590,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000591,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000592,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000870,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000871,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000872,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000873,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000874,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000875,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000892,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000893,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000894,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000895,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000960,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000961,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000962,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000963,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000964,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000965,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,MF3-36-X59-aus,36-X59--1-MF3-10000966,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sat10-36-X59-aus,36-X59--1-Sat10-60100806,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sat10-36-X59-aus,36-X59--1-Sat10-60100807,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sat10-36-X59-aus,36-X59--1-Sat10-60100808,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sat10-36-X59-aus,36-X59--1-Sat10-60100809,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sat10-36-X59-aus,36-X59--1-Sat10-60100810,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sat10-36-X59-aus,36-X59--1-Sat10-60100811,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sat10-36-X59-aus,36-X59--1-Sat10-60100812,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sat10-36-X59-aus,36-X59--1-Sat10-60100813,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sat10-36-X59-aus,36-X59--1-Sat10-60100814,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sat10-36-X59-aus,36-X59--1-Sat10-60100815,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sat10-36-X59-aus,36-X59--1-Sat10-60100816,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sat10-36-X59-aus,36-X59--1-Sat10-60100817,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sat10-36-X59-aus,36-X59--1-Sat10-60100818,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sat10-36-X59-aus,36-X59--1-Sat10-60100819,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sat10-36-X59-aus,36-X59--1-Sat10-60100820,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sat10-36-X59-aus,36-X59--1-Sat10-60100821,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sat10-36-X59-aus,36-X59--1-Sat10-60100822,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sat10-36-X59-aus,36-X59--1-Sat10-60100823,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sat10-36-X59-aus,36-X59--1-Sat10-60100824,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sat10-36-X59-aus,36-X59--1-Sat10-60100825,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sat10-36-X59-aus,36-X59--1-Sat10-60100826,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sat10-36-X59-aus,36-X59--1-Sat10-60100827,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sat10-36-X59-aus,36-X59--1-Sat10-60100828,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sat10-36-X59-aus,36-X59--1-Sat10-60101133,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sat10-36-X59-aus,36-X59--1-Sat10-60101189,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sat10-36-X59-aus,36-X59--1-Sat10-60101190,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sat10-36-X59-aus,36-X59--1-Sat10-60101228,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sat10-36-X59-aus,36-X59--1-Sat10-60101229,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sat10-36-X59-aus,36-X59--1-Sat10-60101230,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sat10-36-X59-aus,36-X59--1-Sat10-60101231,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sat10-36-X59-aus,36-X59--1-Sat10-60101232,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sat10-36-X59-aus,36-X59--1-Sat10-60101233,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sat10-36-X59-aus,36-X59--1-Sat10-60101234,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sat10-36-X59-aus,36-X59--1-Sat10-60101235,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sat10-36-X59-aus,36-X59--1-Sat10-60101236,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sat10-36-X59-aus,36-X59--1-Sat10-60101237,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sat10-36-X59-aus,36-X59--1-Sat10-60101238,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sat10-36-X59-aus,36-X59--1-Sat10-60101239,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sat10-36-X59-aus,36-X59--1-Sat10-60101240,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sat10-36-X59-aus,36-X59--1-Sat10-60101241,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sat10-36-X59-aus,36-X59--1-Sat10-60101242,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sat10-36-X59-aus,36-X59--1-Sat10-60101243,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sat10-36-X59-aus,36-X59--1-Sat10-60101244,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sat10-36-X59-aus,36-X59--1-Sat10-60101245,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sat10-36-X59-aus,36-X59--1-Sat10-60101246,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sat4-36-X59-aus,36-X59--1-Sat4-60101087,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sat4-36-X59-aus,36-X59--1-Sat4-60101088,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sat4-36-X59-aus,36-X59--1-Sat4-60101089,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sat4-36-X59-aus,36-X59--1-Sat4-60101090,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sat4-36-X59-aus,36-X59--1-Sat4-60101110,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sat4-36-X59-aus,36-X59--1-Sat4-60101111,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sat4-36-X59-aus,36-X59--1-Sat4-60101148,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sat4-36-X59-aus,36-X59--1-Sat4-60101149,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sat4-36-X59-aus,36-X59--1-Sat4-60101150,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sat4-36-X59-aus,36-X59--1-Sat4-60101151,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sat4-36-X59-aus,36-X59--1-Sat4-60101152,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sat4-36-X59-aus,36-X59--1-Sat4-60101153,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sat4-36-X59-aus,36-X59--1-Sat4-60101154,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sat4-36-X59-aus,36-X59--1-Sat4-60101155,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sat4-36-X59-aus,36-X59--1-Sat4-60101193,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sat4-36-X59-aus,36-X59--1-Sat4-60101194,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sat4-36-X59-aus,36-X59--1-Sat4-60101195,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sat4-36-X59-aus,36-X59--1-Sat4-60101196,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sat4-36-X59-aus,36-X59--1-Sat4-60101197,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sat4-36-X59-aus,36-X59--1-Sat4-60101199,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sat4-36-X59-aus,36-X59--1-Sat4-60101398,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sat4-36-X59-aus,36-X59--1-Sat4-60101399,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sat4-36-X59-aus,36-X59--1-Sat4-60101400,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sat4-36-X59-aus,36-X59--1-Sat4-60101401,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sat4-36-X59-aus,36-X59--1-Sat4-60101515,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sat4-36-X59-aus,36-X59--1-Sat4-60101516,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sat4-36-X59-aus,36-X59--1-Sat4-60101517,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sat4-36-X59-aus,36-X59--1-Sat4-60101520,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sat4-36-X59-aus,36-X59--1-Sat4-60101521,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sat4-36-X59-aus,36-X59--1-Sat4-60101529,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sat4-36-X59-aus,36-X59--1-Sat4-60101530,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sat4-36-X59-aus,36-X59--1-Sat4-60101531,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sat4-36-X59-aus,36-X59--1-Sat4-60101532,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sat4-36-X59-aus,36-X59--1-Sat4-60101546,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sat4-36-X59-aus,36-X59--1-Sat4-60101547,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sat4-36-X59-aus,36-X59--1-Sat4-60101581,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sat4-36-X59-aus,36-X59--1-Sat4-60101583,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sat4-36-X59-aus,36-X59--1-Sat4-60101584,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sat4-36-X59-aus,36-X59--1-Sat4-60101587,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sat4-36-X59-aus,36-X59--1-Sat4-60101588,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sat4-36-X59-aus,36-X59--1-Sat4-60101601,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sat4-36-X59-aus,36-X59--1-Sat4-60101761,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sat4-36-X59-aus,36-X59--1-Sat4-60101772,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sat4-36-X59-aus,36-X59--1-Sat4-60101782,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sat4-36-X59-aus,36-X59--1-Sat4-60101783,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun14-36-X59-aus,36-X59--1-Sun14-70000383,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun14-36-X59-aus,36-X59--1-Sun14-70000384,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun14-36-X59-aus,36-X59--1-Sun14-70000385,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun14-36-X59-aus,36-X59--1-Sun14-70000386,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun14-36-X59-aus,36-X59--1-Sun14-70000387,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun14-36-X59-aus,36-X59--1-Sun14-70000388,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun14-36-X59-aus,36-X59--1-Sun14-70000389,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun14-36-X59-aus,36-X59--1-Sun14-70000390,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun14-36-X59-aus,36-X59--1-Sun14-70000391,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun14-36-X59-aus,36-X59--1-Sun14-70000392,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun14-36-X59-aus,36-X59--1-Sun14-70000393,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun14-36-X59-aus,36-X59--1-Sun14-70000394,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun14-36-X59-aus,36-X59--1-Sun14-70000395,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun14-36-X59-aus,36-X59--1-Sun14-70000396,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun14-36-X59-aus,36-X59--1-Sun14-70000397,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun14-36-X59-aus,36-X59--1-Sun14-70000398,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun14-36-X59-aus,36-X59--1-Sun14-70000399,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun14-36-X59-aus,36-X59--1-Sun14-70000400,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun14-36-X59-aus,36-X59--1-Sun14-70000401,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun14-36-X59-aus,36-X59--1-Sun14-70000402,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun14-36-X59-aus,36-X59--1-Sun14-70000403,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun14-36-X59-aus,36-X59--1-Sun14-70000516,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun14-36-X59-aus,36-X59--1-Sun14-70000518,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun14-36-X59-aus,36-X59--1-Sun14-70000519,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun14-36-X59-aus,36-X59--1-Sun14-70000520,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun14-36-X59-aus,36-X59--1-Sun14-70000521,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun14-36-X59-aus,36-X59--1-Sun14-70000522,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun14-36-X59-aus,36-X59--1-Sun14-70000523,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun14-36-X59-aus,36-X59--1-Sun14-70000524,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun14-36-X59-aus,36-X59--1-Sun14-70000525,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun14-36-X59-aus,36-X59--1-Sun14-70000526,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun14-36-X59-aus,36-X59--1-Sun14-70000527,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun14-36-X59-aus,36-X59--1-Sun14-70000528,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun14-36-X59-aus,36-X59--1-Sun14-70000529,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun14-36-X59-aus,36-X59--1-Sun14-70000530,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun14-36-X59-aus,36-X59--1-Sun14-70000531,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun14-36-X59-aus,36-X59--1-Sun14-70000532,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun14-36-X59-aus,36-X59--1-Sun14-70000533,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun14-36-X59-aus,36-X59--1-Sun14-70000534,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun14-36-X59-aus,36-X59--1-Sun14-70000552,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun14-36-X59-aus,36-X59--1-Sun14-70000553,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun14-36-X59-aus,36-X59--1-Sun14-70000554,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun2-36-X59-aus,36-X59--1-Sun2-70900497,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun2-36-X59-aus,36-X59--1-Sun2-70900498,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun2-36-X59-aus,36-X59--1-Sun2-70900507,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun2-36-X59-aus,36-X59--1-Sun2-70900508,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun2-36-X59-aus,36-X59--1-Sun2-70900549,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun2-36-X59-aus,36-X59--1-Sun2-70900550,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun2-36-X59-aus,36-X59--1-Sun2-70900551,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun2-36-X59-aus,36-X59--1-Sun2-70900553,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun2-36-X59-aus,36-X59--1-Sun2-70900556,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun2-36-X59-aus,36-X59--1-Sun2-70900557,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun2-36-X59-aus,36-X59--1-Sun2-70900575,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun2-36-X59-aus,36-X59--1-Sun2-70900576,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun2-36-X59-aus,36-X59--1-Sun2-70900678,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun2-36-X59-aus,36-X59--1-Sun2-70900679,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun2-36-X59-aus,36-X59--1-Sun2-70900680,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun2-36-X59-aus,36-X59--1-Sun2-70900681,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun2-36-X59-aus,36-X59--1-Sun2-70900682,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun2-36-X59-aus,36-X59--1-Sun2-70900683,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun2-36-X59-aus,36-X59--1-Sun2-70900684,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun2-36-X59-aus,36-X59--1-Sun2-70900685,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun2-36-X59-aus,36-X59--1-Sun2-70900691,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun2-36-X59-aus,36-X59--1-Sun2-70900692,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun2-36-X59-aus,36-X59--1-Sun2-70900693,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun2-36-X59-aus,36-X59--1-Sun2-70900694,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun2-36-X59-aus,36-X59--1-Sun2-70900709,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun2-36-X59-aus,36-X59--1-Sun2-70900710,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun2-36-X59-aus,36-X59--1-Sun2-70900715,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun2-36-X59-aus,36-X59--1-Sun2-70900716,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun2-36-X59-aus,36-X59--1-Sun2-70900728,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun2-36-X59-aus,36-X59--1-Sun2-70900729,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun2-36-X59-aus,36-X59--1-Sun2-70900732,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun2-36-X59-aus,36-X59--1-Sun2-70900740,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun2-36-X59-aus,36-X59--1-Sun2-70900741,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun2-36-X59-aus,36-X59--1-Sun2-70900821,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun2-36-X59-aus,36-X59--1-Sun2-70900822,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun2-36-X59-aus,36-X59--1-Sun2-70900823,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun2-36-X59-aus,36-X59--1-Sun2-70900824,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun2-36-X59-aus,36-X59--1-Sun2-70900825,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun2-36-X59-aus,36-X59--1-Sun2-70900826,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun2-36-X59-aus,36-X59--1-Sun2-70900837,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun2-36-X59-aus,36-X59--1-Sun2-70900905,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun4-36-X59-aus,36-X59--1-Sun4-60201394,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun4-36-X59-aus,36-X59--1-Sun4-60201395,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun4-36-X59-aus,36-X59--1-Sun4-60201396,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun4-36-X59-aus,36-X59--1-Sun4-60201397,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun4-36-X59-aus,36-X59--1-Sun4-60201398,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun4-36-X59-aus,36-X59--1-Sun4-60201399,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun4-36-X59-aus,36-X59--1-Sun4-60201400,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun4-36-X59-aus,36-X59--1-Sun4-60201401,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun4-36-X59-aus,36-X59--1-Sun4-60201402,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun4-36-X59-aus,36-X59--1-Sun4-60201403,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun4-36-X59-aus,36-X59--1-Sun4-60201404,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun4-36-X59-aus,36-X59--1-Sun4-60201405,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun4-36-X59-aus,36-X59--1-Sun4-60201406,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun4-36-X59-aus,36-X59--1-Sun4-60201407,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun4-36-X59-aus,36-X59--1-Sun4-60201408,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun4-36-X59-aus,36-X59--1-Sun4-60201409,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun4-36-X59-aus,36-X59--1-Sun4-60201410,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun4-36-X59-aus,36-X59--1-Sun4-60201411,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun4-36-X59-aus,36-X59--1-Sun4-60201412,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun4-36-X59-aus,36-X59--1-Sun4-60201413,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun4-36-X59-aus,36-X59--1-Sun4-60201414,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun4-36-X59-aus,36-X59--1-Sun4-60201415,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun4-36-X59-aus,36-X59--1-Sun4-60201417,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun4-36-X59-aus,36-X59--1-Sun4-60201696,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun4-36-X59-aus,36-X59--1-Sun4-60201697,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun4-36-X59-aus,36-X59--1-Sun4-60201698,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun4-36-X59-aus,36-X59--1-Sun4-60201699,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun4-36-X59-aus,36-X59--1-Sun4-60201700,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun4-36-X59-aus,36-X59--1-Sun4-60201701,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun4-36-X59-aus,36-X59--1-Sun4-60201702,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun4-36-X59-aus,36-X59--1-Sun4-60201703,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun4-36-X59-aus,36-X59--1-Sun4-60201704,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun4-36-X59-aus,36-X59--1-Sun4-60201705,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun4-36-X59-aus,36-X59--1-Sun4-60201706,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun4-36-X59-aus,36-X59--1-Sun4-60201707,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun4-36-X59-aus,36-X59--1-Sun4-60201708,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun4-36-X59-aus,36-X59--1-Sun4-60201709,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun4-36-X59-aus,36-X59--1-Sun4-60201710,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun4-36-X59-aus,36-X59--1-Sun4-60201711,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun4-36-X59-aus,36-X59--1-Sun4-60201712,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun4-36-X59-aus,36-X59--1-Sun4-60201713,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun4-36-X59-aus,36-X59--1-Sun4-60201714,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun4-36-X59-aus,36-X59--1-Sun4-60201715,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun4-36-X59-aus,36-X59--1-Sun4-60201716,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun4-36-X59-aus,36-X59--1-Sun4-60201717,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun6-36-X59-aus,36-X59--1-Sun6-70201802,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun6-36-X59-aus,36-X59--1-Sun6-70201803,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun6-36-X59-aus,36-X59--1-Sun6-70201804,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun6-36-X59-aus,36-X59--1-Sun6-70201805,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun6-36-X59-aus,36-X59--1-Sun6-70201806,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun6-36-X59-aus,36-X59--1-Sun6-70201807,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun6-36-X59-aus,36-X59--1-Sun6-70201808,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun6-36-X59-aus,36-X59--1-Sun6-70201809,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun6-36-X59-aus,36-X59--1-Sun6-70202001,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun6-36-X59-aus,36-X59--1-Sun6-70202002,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun6-36-X59-aus,36-X59--1-Sun6-70202112,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun6-36-X59-aus,36-X59--1-Sun6-70202113,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun6-36-X59-aus,36-X59--1-Sun6-70202130,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun6-36-X59-aus,36-X59--1-Sun6-70202131,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun6-36-X59-aus,36-X59--1-Sun6-70202132,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun6-36-X59-aus,36-X59--1-Sun6-70202133,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun6-36-X59-aus,36-X59--1-Sun6-70202134,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun6-36-X59-aus,36-X59--1-Sun6-70202135,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun6-36-X59-aus,36-X59--1-Sun6-70202136,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun6-36-X59-aus,36-X59--1-Sun6-70202137,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun6-36-X59-aus,36-X59--1-Sun6-70202268,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun6-36-X59-aus,36-X59--1-Sun6-70202270,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun6-36-X59-aus,36-X59--1-Sun6-70202287,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun6-36-X59-aus,36-X59--1-Sun6-70202288,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun6-36-X59-aus,36-X59--1-Sun6-70202289,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun6-36-X59-aus,36-X59--1-Sun6-70202291,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun6-36-X59-aus,36-X59--1-Sun6-70202292,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun6-36-X59-aus,36-X59--1-Sun6-70202293,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun6-36-X59-aus,36-X59--1-Sun6-70202295,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun6-36-X59-aus,36-X59--1-Sun6-70202329,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun6-36-X59-aus,36-X59--1-Sun6-70202330,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun6-36-X59-aus,36-X59--1-Sun6-70202353,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun6-36-X59-aus,36-X59--1-Sun6-70202354,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun6-36-X59-aus,36-X59--1-Sun6-70202363,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun6-36-X59-aus,36-X59--1-Sun6-70202364,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun6-36-X59-aus,36-X59--1-Sun6-70202376,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun6-36-X59-aus,36-X59--1-Sun6-70202377,36-X59-aus-1.4.R,Melton South,1,,1
+36-X59-aus-1,Sun6-36-X59-aus,36-X59--1-Sun6-70202433,36-X59-aus-1.5.H,Arnolds Creek,0,,1
+36-X59-aus-1,Sun6-36-X59-aus,36-X59--1-Sun6-70202434,36-X59-aus-1.4.R,Melton South,1,,1
+53-4X7-aus-1,Sat1-53-4X7-aus,53-4X7--1-Sat1-60102304,53-4X7-aus-1.3.H,Melton,0,,1
+53-4X7-aus-1,Sat1-53-4X7-aus,53-4X7--1-Sat1-60102305,53-4X7-aus-1.1.R,Melton Station,1,,1
+53-4X7-aus-1,Sat1-53-4X7-aus,53-4X7--1-Sat1-60102306,53-4X7-aus-1.3.H,Melton,0,,1
+53-4X7-aus-1,Sat1-53-4X7-aus,53-4X7--1-Sat1-60102307,53-4X7-aus-1.1.R,Melton Station,1,,1
+53-4X7-aus-1,Sat1-53-4X7-aus,53-4X7--1-Sat1-60102308,53-4X7-aus-1.3.H,Melton,0,,1
+53-4X7-aus-1,Sat1-53-4X7-aus,53-4X7--1-Sat1-60102310,53-4X7-aus-1.3.H,Melton,0,,1
+53-X59-aus-1,Sun9-53-X59-aus,53-X59--1-Sun9-70203155,53-X59-aus-1.5.H,Arnolds Creek,0,,1
+53-X59-aus-1,Sun9-53-X59-aus,53-X59--1-Sun9-70203156,53-X59-aus-1.4.R,Melton Station,1,,1
+53-X59-aus-1,Sun9-53-X59-aus,53-X59--1-Sun9-70203158,53-X59-aus-1.4.R,Melton Station,1,,1

@@ -1,0 +1,103 @@
+{
+  "status": "passed",
+  "passed_checks": 17,
+  "total_checks": 17,
+  "failed_checks": [],
+  "checks": [
+    {
+      "check": "all_core_files_exist_and_non_empty",
+      "passed": true,
+      "detail": "12 files checked"
+    },
+    {
+      "check": "severity_register_count_at_least_25",
+      "passed": true,
+      "detail": "Found 27 findings"
+    },
+    {
+      "check": "finding_ids_unique",
+      "passed": true,
+      "detail": "27 unique IDs"
+    },
+    {
+      "check": "severity_values_valid",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "has_critical_findings",
+      "passed": true,
+      "detail": "Found 2 CRITICAL"
+    },
+    {
+      "check": "has_major_findings",
+      "passed": true,
+      "detail": "Found 14 MAJOR"
+    },
+    {
+      "check": "has_verified_strengths_no_material_weakness",
+      "passed": true,
+      "detail": "Found 2 verified strengths"
+    },
+    {
+      "check": "challenge_matrix_count_at_least_20",
+      "passed": true,
+      "detail": "Found 25 items"
+    },
+    {
+      "check": "matrix_ids_unique",
+      "passed": true,
+      "detail": "25 unique IDs"
+    },
+    {
+      "check": "rating_corrections_count_at_least_10",
+      "passed": true,
+      "detail": "Found 12 corrections"
+    },
+    {
+      "check": "rating_item_ids_unique",
+      "passed": true,
+      "detail": "12 unique IDs"
+    },
+    {
+      "check": "sources_md_contains_20_sources",
+      "passed": true,
+      "detail": "Found 20 headers"
+    },
+    {
+      "check": "source_ids_match_S01_to_S20",
+      "passed": true,
+      "detail": "Matched 20/20"
+    },
+    {
+      "check": "markdown_files_count_at_least_7",
+      "passed": true,
+      "detail": "Found 9 files"
+    },
+    {
+      "check": "all_markdown_files_prominently_labeled",
+      "passed": true,
+      "detail": "9 files checked"
+    },
+    {
+      "check": "no_runtime_local_deliverable_links",
+      "passed": true,
+      "detail": "Found in: []"
+    },
+    {
+      "check": "all_relative_markdown_links_resolve",
+      "passed": true,
+      "detail": "Broken: []"
+    }
+  ],
+  "counts": {
+    "severity_findings": 27,
+    "critical_findings": 2,
+    "major_findings": 14,
+    "verified_strengths": 2,
+    "challenge_matrix_entries": 25,
+    "rating_corrections": 12,
+    "sources_appraised": 20,
+    "markdown_files_checked": 9
+  }
+}

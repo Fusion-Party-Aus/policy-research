@@ -1,0 +1,146 @@
+{
+  "status": "passed",
+  "passed_checks": 26,
+  "total_checks": 26,
+  "failed_checks": [],
+  "checks": [
+    {
+      "check": "all_core_files_exist_and_non_empty",
+      "passed": true,
+      "detail": "12 files checked"
+    },
+    {
+      "check": "candidate_ledger_count_equals_80",
+      "passed": true,
+      "detail": "Found 80"
+    },
+    {
+      "check": "candidate_ids_unique",
+      "passed": true,
+      "detail": "80 unique IDs"
+    },
+    {
+      "check": "exactly_30_deeply_appraised_documents",
+      "passed": true,
+      "detail": "Found 30"
+    },
+    {
+      "check": "exactly_50_screened_out_records",
+      "passed": true,
+      "detail": "Found 50"
+    },
+    {
+      "check": "sources_md_contains_30_appraised_sources",
+      "passed": true,
+      "detail": "Found 30 headers"
+    },
+    {
+      "check": "source_ids_match_S01_to_S30",
+      "passed": true,
+      "detail": "Matched 30/30"
+    },
+    {
+      "check": "screening_log_count_equals_80",
+      "passed": true,
+      "detail": "Found 80"
+    },
+    {
+      "check": "prisma_screened_equals_80",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prisma_included_equals_30",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "prisma_excluded_reconciles",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "ordered_exclusion_codes_valid",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "five_search_queries_logged",
+      "passed": true,
+      "detail": "5 queries"
+    },
+    {
+      "check": "raw_search_deduplication_equals_80",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "atomic_assessments_cap_satisfied",
+      "passed": true,
+      "detail": "Found 8 assessments"
+    },
+    {
+      "check": "exactly_8_atomic_assessments",
+      "passed": true,
+      "detail": "Found 8"
+    },
+    {
+      "check": "assessment_ids_unique",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "all_verdicts_are_allowed",
+      "passed": true,
+      "detail": "Verdicts: {'overlooked consequences', 'better alternative', 'well supported'}"
+    },
+    {
+      "check": "all_cited_sources_exist_in_sources_md",
+      "passed": true,
+      "detail": "28 cited sources all resolve"
+    },
+    {
+      "check": "coverage_ledger_has_12_problems",
+      "passed": true,
+      "detail": "Found 12"
+    },
+    {
+      "check": "coverage_problem_ids_match_freeze",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "vp001_marked_as_first_batch_completed",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "check": "markdown_files_count_at_least_6",
+      "passed": true,
+      "detail": "Found 6 files"
+    },
+    {
+      "check": "all_markdown_files_prominently_labeled",
+      "passed": true,
+      "detail": "6 files checked"
+    },
+    {
+      "check": "no_runtime_local_deliverable_links",
+      "passed": true,
+      "detail": "Found in: []"
+    },
+    {
+      "check": "all_relative_markdown_links_resolve",
+      "passed": true,
+      "detail": "Broken: []"
+    }
+  ],
+  "counts": {
+    "unique_candidate_records": 80,
+    "deeply_appraised_sources": 30,
+    "screened_out_records": 50,
+    "atomic_assessments": 8,
+    "problems_in_coverage_ledger": 12,
+    "markdown_files_checked": 6
+  }
+}
