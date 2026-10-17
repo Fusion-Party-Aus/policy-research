@@ -219,7 +219,7 @@ Candidate issues identified in earlier stages have been properly classified into
 5. **Confirmed Policy Tension: The Bus-to-Rail Transfer Trade-Off (F02):**
    - Offsetting Route 457 headways to smooth a 3-stop shared corridor on Brooklyn Road breaks the timed transfer to V/Line trains at Melton Station for rail commuters originating in Kurunjang and Westlake, illustrating an inherent spatial-versus-corridor network trade-off.
 6. **Confirmed Platform Scope Omission (F18):**
-   - The adopted Victorian corpus contains 41 policies but completely omits health and hospitals, family violence, emergency shelter, climate adaptation, and child protection, which together account for over 70% of state recurrent spending.
+   - The adopted Victorian corpus contains 41 policies but completely omits health and hospitals, family violence, emergency shelter, climate adaptation, and child protection—core state responsibilities that drive the vast majority of social service delivery and community vulnerability.
 
 ---
 
