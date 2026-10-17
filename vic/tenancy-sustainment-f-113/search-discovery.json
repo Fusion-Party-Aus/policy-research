@@ -1,0 +1,80 @@
+{
+  "batch_id": "F113-PB01",
+  "problem_id": "VP-001",
+  "topic": "Preventing loss of safe, affordable tenancies for low-income renters",
+  "protocol_version": "1.0",
+  "authorised_date": "2026-10-17",
+  "caps": {
+    "max_research_hours": 12,
+    "max_unique_candidates": 80,
+    "max_deeply_appraised": 30,
+    "max_atomic_assessments": 8
+  },
+  "queries": [
+    {
+      "query_id": "Q1",
+      "string": "(Victoria OR Australia) (tenancy sustainment OR eviction prevention OR housing retention) (evaluation OR trial OR cohort)",
+      "engines": [
+        "Google Scholar",
+        "AHURI",
+        "AIHW"
+      ],
+      "rank_limit": 20,
+      "raw_hits": 20,
+      "unique_imported": 20
+    },
+    {
+      "query_id": "Q2",
+      "string": "(rent arrears OR emergency rental assistance OR tenancy legal assistance) (trial OR quasi-experimental OR evaluation) (housing stability OR homelessness)",
+      "engines": [
+        "Google Scholar",
+        "PubMed",
+        "Crossref"
+      ],
+      "rank_limit": 20,
+      "raw_hits": 20,
+      "unique_imported": 18
+    },
+    {
+      "query_id": "Q3",
+      "string": "(eviction prevention OR tenancy sustainment) (null OR no effect OR adverse OR displacement OR landlord capture OR systematic review)",
+      "engines": [
+        "Google Scholar",
+        "Campbell/Cochrane",
+        "JSTOR"
+      ],
+      "rank_limit": 20,
+      "raw_hits": 20,
+      "unique_imported": 15
+    },
+    {
+      "query_id": "Q4",
+      "string": "(Aboriginal OR disability OR family violence OR rural) (tenancy sustainment OR eviction prevention) (outcome OR evaluation)",
+      "engines": [
+        "Google Scholar",
+        "ANROWS",
+        "AIHW"
+      ],
+      "rank_limit": 20,
+      "raw_hits": 20,
+      "unique_imported": 14
+    },
+    {
+      "query_id": "Q5",
+      "string": "(homelessness prevention OR housing retention) (usual care OR cash assistance OR legal support OR case management) (cost OR cost-effectiveness)",
+      "engines": [
+        "Google Scholar",
+        "Productivity Commission",
+        "VAGO"
+      ],
+      "rank_limit": 20,
+      "raw_hits": 20,
+      "unique_imported": 13
+    }
+  ],
+  "deduplication": {
+    "raw_retrieved": 100,
+    "exact_duplicates_removed": 20,
+    "unique_candidates_ledgered": 80
+  }
+}
